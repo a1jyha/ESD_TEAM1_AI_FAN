@@ -1,18 +1,45 @@
-# 카메라 초기화, 해상도 설정, 프레임 읽기, 연결 오류 처리를 한곳에서 관리
 from picamera2 import Picamera2
 import cv2
 
 
-picam2 = Picamera2()
-config = picam2.create_preview_configuration(main={"size": (640, 480),"format":"RGB888"})
-picam2.configure(config)
-picam2.start()
+def main():
+    picam2 = Picamera2()
+    started = False
 
-while True:
-    frame = picam2.capture_array()  # 기본 출력 포맷 사용
-    cv2.imshow("Frame", frame)
-    if cv2.waitKey(1) & 0xFF == ord("q"):
-        break
+    try:
+        config = picam2.create_preview_configuration(
+            main={
+                "size": (640, 480),
+                "format": "RGB888",
+            }
+        )
 
-picam2.stop()
-cv2.destroyAllWindows()
+        picam2.configure(config)
+        picam2.start()
+        started = True
+
+        print("영상 창을 클릭한 뒤 q를 누르면 종료합니다.")
+
+        while True:
+            frame = picam2.capture_array()
+            cv2.imshow("Frame", frame)
+
+            if cv2.waitKey(1) & 0xFF == ord("q"):
+                break
+
+    except KeyboardInterrupt:
+        print("\n카메라 시험을 종료합니다.")
+
+    finally:
+        try:
+            if started:
+                picam2.stop()
+        finally:
+            try:
+                picam2.close()
+            finally:
+                cv2.destroyAllWindows()
+
+
+if __name__ == "__main__":
+    main()
