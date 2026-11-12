@@ -19,7 +19,6 @@ class ServoController:
         self.center_angle = 90.0
 
         self.last_command_angle = None
-        self.current_duty = None
         self.enabled = False
         self.closed = False
         self.pwm = None
@@ -35,7 +34,7 @@ class ServoController:
             raise
 
         print(f"[준비] BCM GPIO{self.pin} / PWM 50 Hz")
-        print("[방식] 각도 변경 시에만 듀티비 업데이트 (떨림 방지)")
+        print("[방식] 0.5도 이상 차이날 때만 듀티비 업데이트 (데드밴드 적용)")
         print("[상태] 숫자를 입력하기 전까지 PWM 출력 없음")
 
     def _check_open(self):
@@ -48,7 +47,6 @@ class ServoController:
         )
 
     def set_angle(self, angle):
-        """새 목표 각도가 이전과 다를 때만 듀티비를 변경합니다."""
         self._check_open()
 
         angle = float(angle)
@@ -62,23 +60,22 @@ class ServoController:
                 "입력할 수 있습니다."
             )
 
-        duty = self.angle_to_duty(angle)
+        # 데드밴드: 이전 각도와 0.5도 미만 차이나면 무시하여 떨림 방지
+        if self.last_command_angle is not None and abs(self.last_command_angle - angle) < 0.5:
+            return angle
 
-        # 각도가 변경되었을 때만 PWM 신호 갱신 (떨림 방지 핵심)
-        if self.last_command_angle != angle or not self.enabled:
-            self.last_command_angle = angle
-            self.current_duty = duty
-            self.enabled = True
-            self.pwm.ChangeDutyCycle(duty)
-            print(
-                f"[명령] 목표 {angle:.1f}도"
-                f" / 듀티비 {duty:.2f}%"
-            )
+        duty = self.angle_to_duty(angle)
+        self.last_command_angle = angle
+        self.enabled = True
+        self.pwm.ChangeDutyCycle(duty)
         
+        print(
+            f"[명령] 목표 {angle:.1f}도"
+            f" / 듀티비 {duty:.2f}%"
+        )
         return angle
 
     def update(self):
-        """불필요한 반복 갱신 제거 (필요시 유지)"""
         pass
 
     def center(self):
@@ -94,7 +91,6 @@ class ServoController:
     def release(self):
         self._check_open()
         self.enabled = False
-        self.current_duty = None
         self.pwm.ChangeDutyCycle(0)
         print("[중지] PWM 출력 중지")
 
