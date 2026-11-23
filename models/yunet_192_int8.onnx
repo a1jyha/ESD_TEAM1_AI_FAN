@@ -1,0 +1,3280 @@
+onnx.quantize0.1.0:צׂ
+o
+420_quantized
+	420_scale
+420_zero_point420_DequantizeLinear_Output420_DequantizeLinear"DequantizeLinear
+k
+421_quantized
+421_quantized_scale
+421_quantized_zero_point421421_DequantizeLinear"DequantizeLinear
+o
+423_quantized
+	423_scale
+423_zero_point423_DequantizeLinear_Output423_DequantizeLinear"DequantizeLinear
+k
+424_quantized
+424_quantized_scale
+424_quantized_zero_point424424_DequantizeLinear"DequantizeLinear
+o
+426_quantized
+	426_scale
+426_zero_point426_DequantizeLinear_Output426_DequantizeLinear"DequantizeLinear
+k
+427_quantized
+427_quantized_scale
+427_quantized_zero_point427427_DequantizeLinear"DequantizeLinear
+o
+429_quantized
+	429_scale
+429_zero_point429_DequantizeLinear_Output429_DequantizeLinear"DequantizeLinear
+k
+430_quantized
+430_quantized_scale
+430_quantized_zero_point430430_DequantizeLinear"DequantizeLinear
+o
+432_quantized
+	432_scale
+432_zero_point432_DequantizeLinear_Output432_DequantizeLinear"DequantizeLinear
+k
+433_quantized
+433_quantized_scale
+433_quantized_zero_point433433_DequantizeLinear"DequantizeLinear
+o
+435_quantized
+	435_scale
+435_zero_point435_DequantizeLinear_Output435_DequantizeLinear"DequantizeLinear
+k
+436_quantized
+436_quantized_scale
+436_quantized_zero_point436436_DequantizeLinear"DequantizeLinear
+o
+438_quantized
+	438_scale
+438_zero_point438_DequantizeLinear_Output438_DequantizeLinear"DequantizeLinear
+k
+439_quantized
+439_quantized_scale
+439_quantized_zero_point439439_DequantizeLinear"DequantizeLinear
+o
+441_quantized
+	441_scale
+441_zero_point441_DequantizeLinear_Output441_DequantizeLinear"DequantizeLinear
+k
+442_quantized
+442_quantized_scale
+442_quantized_zero_point442442_DequantizeLinear"DequantizeLinear
+o
+444_quantized
+	444_scale
+444_zero_point444_DequantizeLinear_Output444_DequantizeLinear"DequantizeLinear
+k
+445_quantized
+445_quantized_scale
+445_quantized_zero_point445445_DequantizeLinear"DequantizeLinear
+o
+447_quantized
+	447_scale
+447_zero_point447_DequantizeLinear_Output447_DequantizeLinear"DequantizeLinear
+k
+448_quantized
+448_quantized_scale
+448_quantized_zero_point448448_DequantizeLinear"DequantizeLinear
+o
+450_quantized
+	450_scale
+450_zero_point450_DequantizeLinear_Output450_DequantizeLinear"DequantizeLinear
+k
+451_quantized
+451_quantized_scale
+451_quantized_zero_point451451_DequantizeLinear"DequantizeLinear
+o
+453_quantized
+	453_scale
+453_zero_point453_DequantizeLinear_Output453_DequantizeLinear"DequantizeLinear
+k
+454_quantized
+454_quantized_scale
+454_quantized_zero_point454454_DequantizeLinear"DequantizeLinear
+o
+456_quantized
+	456_scale
+456_zero_point456_DequantizeLinear_Output456_DequantizeLinear"DequantizeLinear
+k
+457_quantized
+457_quantized_scale
+457_quantized_zero_point457457_DequantizeLinear"DequantizeLinear
+o
+459_quantized
+	459_scale
+459_zero_point459_DequantizeLinear_Output459_DequantizeLinear"DequantizeLinear
+k
+460_quantized
+460_quantized_scale
+460_quantized_zero_point460460_DequantizeLinear"DequantizeLinear
+o
+462_quantized
+	462_scale
+462_zero_point462_DequantizeLinear_Output462_DequantizeLinear"DequantizeLinear
+k
+463_quantized
+463_quantized_scale
+463_quantized_zero_point463463_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model0.conv2.conv1.bias_quantized
+0backbone.model0.conv2.conv1.bias_quantized_scale
+5backbone.model0.conv2.conv1.bias_quantized_zero_point backbone.model0.conv2.conv1.bias1backbone.model0.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model0.conv2.conv1.weight_quantized
+(backbone.model0.conv2.conv1.weight_scale
+-backbone.model0.conv2.conv1.weight_zero_point:backbone.model0.conv2.conv1.weight_DequantizeLinear_Output3backbone.model0.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model1.conv1.conv1.bias_quantized
+0backbone.model1.conv1.conv1.bias_quantized_scale
+5backbone.model1.conv1.conv1.bias_quantized_zero_point backbone.model1.conv1.conv1.bias1backbone.model1.conv1.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model1.conv1.conv1.weight_quantized
+(backbone.model1.conv1.conv1.weight_scale
+-backbone.model1.conv1.conv1.weight_zero_point:backbone.model1.conv1.conv1.weight_DequantizeLinear_Output3backbone.model1.conv1.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model1.conv2.conv1.bias_quantized
+0backbone.model1.conv2.conv1.bias_quantized_scale
+5backbone.model1.conv2.conv1.bias_quantized_zero_point backbone.model1.conv2.conv1.bias1backbone.model1.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model1.conv2.conv1.weight_quantized
+(backbone.model1.conv2.conv1.weight_scale
+-backbone.model1.conv2.conv1.weight_zero_point:backbone.model1.conv2.conv1.weight_DequantizeLinear_Output3backbone.model1.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model2.conv1.conv1.bias_quantized
+0backbone.model2.conv1.conv1.bias_quantized_scale
+5backbone.model2.conv1.conv1.bias_quantized_zero_point backbone.model2.conv1.conv1.bias1backbone.model2.conv1.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model2.conv1.conv1.weight_quantized
+(backbone.model2.conv1.conv1.weight_scale
+-backbone.model2.conv1.conv1.weight_zero_point:backbone.model2.conv1.conv1.weight_DequantizeLinear_Output3backbone.model2.conv1.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model2.conv2.conv1.bias_quantized
+0backbone.model2.conv2.conv1.bias_quantized_scale
+5backbone.model2.conv2.conv1.bias_quantized_zero_point backbone.model2.conv2.conv1.bias1backbone.model2.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model2.conv2.conv1.weight_quantized
+(backbone.model2.conv2.conv1.weight_scale
+-backbone.model2.conv2.conv1.weight_zero_point:backbone.model2.conv2.conv1.weight_DequantizeLinear_Output3backbone.model2.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model3.conv1.conv1.bias_quantized
+0backbone.model3.conv1.conv1.bias_quantized_scale
+5backbone.model3.conv1.conv1.bias_quantized_zero_point backbone.model3.conv1.conv1.bias1backbone.model3.conv1.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model3.conv1.conv1.weight_quantized
+(backbone.model3.conv1.conv1.weight_scale
+-backbone.model3.conv1.conv1.weight_zero_point:backbone.model3.conv1.conv1.weight_DequantizeLinear_Output3backbone.model3.conv1.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model3.conv2.conv1.bias_quantized
+0backbone.model3.conv2.conv1.bias_quantized_scale
+5backbone.model3.conv2.conv1.bias_quantized_zero_point backbone.model3.conv2.conv1.bias1backbone.model3.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model3.conv2.conv1.weight_quantized
+(backbone.model3.conv2.conv1.weight_scale
+-backbone.model3.conv2.conv1.weight_zero_point:backbone.model3.conv2.conv1.weight_DequantizeLinear_Output3backbone.model3.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model4.conv1.conv1.bias_quantized
+0backbone.model4.conv1.conv1.bias_quantized_scale
+5backbone.model4.conv1.conv1.bias_quantized_zero_point backbone.model4.conv1.conv1.bias1backbone.model4.conv1.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model4.conv1.conv1.weight_quantized
+(backbone.model4.conv1.conv1.weight_scale
+-backbone.model4.conv1.conv1.weight_zero_point:backbone.model4.conv1.conv1.weight_DequantizeLinear_Output3backbone.model4.conv1.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model4.conv2.conv1.bias_quantized
+0backbone.model4.conv2.conv1.bias_quantized_scale
+5backbone.model4.conv2.conv1.bias_quantized_zero_point backbone.model4.conv2.conv1.bias1backbone.model4.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model4.conv2.conv1.weight_quantized
+(backbone.model4.conv2.conv1.weight_scale
+-backbone.model4.conv2.conv1.weight_zero_point:backbone.model4.conv2.conv1.weight_DequantizeLinear_Output3backbone.model4.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model5.conv1.conv1.bias_quantized
+0backbone.model5.conv1.conv1.bias_quantized_scale
+5backbone.model5.conv1.conv1.bias_quantized_zero_point backbone.model5.conv1.conv1.bias1backbone.model5.conv1.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model5.conv1.conv1.weight_quantized
+(backbone.model5.conv1.conv1.weight_scale
+-backbone.model5.conv1.conv1.weight_zero_point:backbone.model5.conv1.conv1.weight_DequantizeLinear_Output3backbone.model5.conv1.conv1.weight_DequantizeLinear"DequantizeLinear
+ü
+*backbone.model5.conv2.conv1.bias_quantized
+0backbone.model5.conv2.conv1.bias_quantized_scale
+5backbone.model5.conv2.conv1.bias_quantized_zero_point backbone.model5.conv2.conv1.bias1backbone.model5.conv2.conv1.bias_DequantizeLinear"DequantizeLinear
+
+,backbone.model5.conv2.conv1.weight_quantized
+(backbone.model5.conv2.conv1.weight_scale
+-backbone.model5.conv2.conv1.weight_zero_point:backbone.model5.conv2.conv1.weight_DequantizeLinear_Output3backbone.model5.conv2.conv1.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.0.conv1.bias_quantized
+7bbox_head.multi_level_bbox.0.conv1.bias_quantized_scale
+<bbox_head.multi_level_bbox.0.conv1.bias_quantized_zero_point'bbox_head.multi_level_bbox.0.conv1.bias8bbox_head.multi_level_bbox.0.conv1.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.0.conv1.weight_quantized
+/bbox_head.multi_level_bbox.0.conv1.weight_scale
+4bbox_head.multi_level_bbox.0.conv1.weight_zero_pointAbbox_head.multi_level_bbox.0.conv1.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.0.conv1.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.0.conv2.bias_quantized
+7bbox_head.multi_level_bbox.0.conv2.bias_quantized_scale
+<bbox_head.multi_level_bbox.0.conv2.bias_quantized_zero_point'bbox_head.multi_level_bbox.0.conv2.bias8bbox_head.multi_level_bbox.0.conv2.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.0.conv2.weight_quantized
+/bbox_head.multi_level_bbox.0.conv2.weight_scale
+4bbox_head.multi_level_bbox.0.conv2.weight_zero_pointAbbox_head.multi_level_bbox.0.conv2.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.0.conv2.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.1.conv1.bias_quantized
+7bbox_head.multi_level_bbox.1.conv1.bias_quantized_scale
+<bbox_head.multi_level_bbox.1.conv1.bias_quantized_zero_point'bbox_head.multi_level_bbox.1.conv1.bias8bbox_head.multi_level_bbox.1.conv1.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.1.conv1.weight_quantized
+/bbox_head.multi_level_bbox.1.conv1.weight_scale
+4bbox_head.multi_level_bbox.1.conv1.weight_zero_pointAbbox_head.multi_level_bbox.1.conv1.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.1.conv1.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.1.conv2.bias_quantized
+7bbox_head.multi_level_bbox.1.conv2.bias_quantized_scale
+<bbox_head.multi_level_bbox.1.conv2.bias_quantized_zero_point'bbox_head.multi_level_bbox.1.conv2.bias8bbox_head.multi_level_bbox.1.conv2.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.1.conv2.weight_quantized
+/bbox_head.multi_level_bbox.1.conv2.weight_scale
+4bbox_head.multi_level_bbox.1.conv2.weight_zero_pointAbbox_head.multi_level_bbox.1.conv2.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.1.conv2.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.2.conv1.bias_quantized
+7bbox_head.multi_level_bbox.2.conv1.bias_quantized_scale
+<bbox_head.multi_level_bbox.2.conv1.bias_quantized_zero_point'bbox_head.multi_level_bbox.2.conv1.bias8bbox_head.multi_level_bbox.2.conv1.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.2.conv1.weight_quantized
+/bbox_head.multi_level_bbox.2.conv1.weight_scale
+4bbox_head.multi_level_bbox.2.conv1.weight_zero_pointAbbox_head.multi_level_bbox.2.conv1.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.2.conv1.weight_DequantizeLinear"DequantizeLinear
+
+1bbox_head.multi_level_bbox.2.conv2.bias_quantized
+7bbox_head.multi_level_bbox.2.conv2.bias_quantized_scale
+<bbox_head.multi_level_bbox.2.conv2.bias_quantized_zero_point'bbox_head.multi_level_bbox.2.conv2.bias8bbox_head.multi_level_bbox.2.conv2.bias_DequantizeLinear"DequantizeLinear
+­
+3bbox_head.multi_level_bbox.2.conv2.weight_quantized
+/bbox_head.multi_level_bbox.2.conv2.weight_scale
+4bbox_head.multi_level_bbox.2.conv2.weight_zero_pointAbbox_head.multi_level_bbox.2.conv2.weight_DequantizeLinear_Output:bbox_head.multi_level_bbox.2.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.0.conv1.bias_quantized
+6bbox_head.multi_level_cls.0.conv1.bias_quantized_scale
+;bbox_head.multi_level_cls.0.conv1.bias_quantized_zero_point&bbox_head.multi_level_cls.0.conv1.bias7bbox_head.multi_level_cls.0.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.0.conv1.weight_quantized
+.bbox_head.multi_level_cls.0.conv1.weight_scale
+3bbox_head.multi_level_cls.0.conv1.weight_zero_point@bbox_head.multi_level_cls.0.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.0.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.0.conv2.bias_quantized
+6bbox_head.multi_level_cls.0.conv2.bias_quantized_scale
+;bbox_head.multi_level_cls.0.conv2.bias_quantized_zero_point&bbox_head.multi_level_cls.0.conv2.bias7bbox_head.multi_level_cls.0.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.0.conv2.weight_quantized
+.bbox_head.multi_level_cls.0.conv2.weight_scale
+3bbox_head.multi_level_cls.0.conv2.weight_zero_point@bbox_head.multi_level_cls.0.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.0.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.1.conv1.bias_quantized
+6bbox_head.multi_level_cls.1.conv1.bias_quantized_scale
+;bbox_head.multi_level_cls.1.conv1.bias_quantized_zero_point&bbox_head.multi_level_cls.1.conv1.bias7bbox_head.multi_level_cls.1.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.1.conv1.weight_quantized
+.bbox_head.multi_level_cls.1.conv1.weight_scale
+3bbox_head.multi_level_cls.1.conv1.weight_zero_point@bbox_head.multi_level_cls.1.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.1.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.1.conv2.bias_quantized
+6bbox_head.multi_level_cls.1.conv2.bias_quantized_scale
+;bbox_head.multi_level_cls.1.conv2.bias_quantized_zero_point&bbox_head.multi_level_cls.1.conv2.bias7bbox_head.multi_level_cls.1.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.1.conv2.weight_quantized
+.bbox_head.multi_level_cls.1.conv2.weight_scale
+3bbox_head.multi_level_cls.1.conv2.weight_zero_point@bbox_head.multi_level_cls.1.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.1.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.2.conv1.bias_quantized
+6bbox_head.multi_level_cls.2.conv1.bias_quantized_scale
+;bbox_head.multi_level_cls.2.conv1.bias_quantized_zero_point&bbox_head.multi_level_cls.2.conv1.bias7bbox_head.multi_level_cls.2.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.2.conv1.weight_quantized
+.bbox_head.multi_level_cls.2.conv1.weight_scale
+3bbox_head.multi_level_cls.2.conv1.weight_zero_point@bbox_head.multi_level_cls.2.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.2.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_cls.2.conv2.bias_quantized
+6bbox_head.multi_level_cls.2.conv2.bias_quantized_scale
+;bbox_head.multi_level_cls.2.conv2.bias_quantized_zero_point&bbox_head.multi_level_cls.2.conv2.bias7bbox_head.multi_level_cls.2.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_cls.2.conv2.weight_quantized
+.bbox_head.multi_level_cls.2.conv2.weight_scale
+3bbox_head.multi_level_cls.2.conv2.weight_zero_point@bbox_head.multi_level_cls.2.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_cls.2.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.0.conv1.bias_quantized
+6bbox_head.multi_level_kps.0.conv1.bias_quantized_scale
+;bbox_head.multi_level_kps.0.conv1.bias_quantized_zero_point&bbox_head.multi_level_kps.0.conv1.bias7bbox_head.multi_level_kps.0.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.0.conv1.weight_quantized
+.bbox_head.multi_level_kps.0.conv1.weight_scale
+3bbox_head.multi_level_kps.0.conv1.weight_zero_point@bbox_head.multi_level_kps.0.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.0.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.0.conv2.bias_quantized
+6bbox_head.multi_level_kps.0.conv2.bias_quantized_scale
+;bbox_head.multi_level_kps.0.conv2.bias_quantized_zero_point&bbox_head.multi_level_kps.0.conv2.bias7bbox_head.multi_level_kps.0.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.0.conv2.weight_quantized
+.bbox_head.multi_level_kps.0.conv2.weight_scale
+3bbox_head.multi_level_kps.0.conv2.weight_zero_point@bbox_head.multi_level_kps.0.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.0.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.1.conv1.bias_quantized
+6bbox_head.multi_level_kps.1.conv1.bias_quantized_scale
+;bbox_head.multi_level_kps.1.conv1.bias_quantized_zero_point&bbox_head.multi_level_kps.1.conv1.bias7bbox_head.multi_level_kps.1.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.1.conv1.weight_quantized
+.bbox_head.multi_level_kps.1.conv1.weight_scale
+3bbox_head.multi_level_kps.1.conv1.weight_zero_point@bbox_head.multi_level_kps.1.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.1.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.1.conv2.bias_quantized
+6bbox_head.multi_level_kps.1.conv2.bias_quantized_scale
+;bbox_head.multi_level_kps.1.conv2.bias_quantized_zero_point&bbox_head.multi_level_kps.1.conv2.bias7bbox_head.multi_level_kps.1.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.1.conv2.weight_quantized
+.bbox_head.multi_level_kps.1.conv2.weight_scale
+3bbox_head.multi_level_kps.1.conv2.weight_zero_point@bbox_head.multi_level_kps.1.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.1.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.2.conv1.bias_quantized
+6bbox_head.multi_level_kps.2.conv1.bias_quantized_scale
+;bbox_head.multi_level_kps.2.conv1.bias_quantized_zero_point&bbox_head.multi_level_kps.2.conv1.bias7bbox_head.multi_level_kps.2.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.2.conv1.weight_quantized
+.bbox_head.multi_level_kps.2.conv1.weight_scale
+3bbox_head.multi_level_kps.2.conv1.weight_zero_point@bbox_head.multi_level_kps.2.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.2.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_kps.2.conv2.bias_quantized
+6bbox_head.multi_level_kps.2.conv2.bias_quantized_scale
+;bbox_head.multi_level_kps.2.conv2.bias_quantized_zero_point&bbox_head.multi_level_kps.2.conv2.bias7bbox_head.multi_level_kps.2.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_kps.2.conv2.weight_quantized
+.bbox_head.multi_level_kps.2.conv2.weight_scale
+3bbox_head.multi_level_kps.2.conv2.weight_zero_point@bbox_head.multi_level_kps.2.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_kps.2.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.0.conv1.bias_quantized
+6bbox_head.multi_level_obj.0.conv1.bias_quantized_scale
+;bbox_head.multi_level_obj.0.conv1.bias_quantized_zero_point&bbox_head.multi_level_obj.0.conv1.bias7bbox_head.multi_level_obj.0.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.0.conv1.weight_quantized
+.bbox_head.multi_level_obj.0.conv1.weight_scale
+3bbox_head.multi_level_obj.0.conv1.weight_zero_point@bbox_head.multi_level_obj.0.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.0.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.0.conv2.bias_quantized
+6bbox_head.multi_level_obj.0.conv2.bias_quantized_scale
+;bbox_head.multi_level_obj.0.conv2.bias_quantized_zero_point&bbox_head.multi_level_obj.0.conv2.bias7bbox_head.multi_level_obj.0.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.0.conv2.weight_quantized
+.bbox_head.multi_level_obj.0.conv2.weight_scale
+3bbox_head.multi_level_obj.0.conv2.weight_zero_point@bbox_head.multi_level_obj.0.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.0.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.1.conv1.bias_quantized
+6bbox_head.multi_level_obj.1.conv1.bias_quantized_scale
+;bbox_head.multi_level_obj.1.conv1.bias_quantized_zero_point&bbox_head.multi_level_obj.1.conv1.bias7bbox_head.multi_level_obj.1.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.1.conv1.weight_quantized
+.bbox_head.multi_level_obj.1.conv1.weight_scale
+3bbox_head.multi_level_obj.1.conv1.weight_zero_point@bbox_head.multi_level_obj.1.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.1.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.1.conv2.bias_quantized
+6bbox_head.multi_level_obj.1.conv2.bias_quantized_scale
+;bbox_head.multi_level_obj.1.conv2.bias_quantized_zero_point&bbox_head.multi_level_obj.1.conv2.bias7bbox_head.multi_level_obj.1.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.1.conv2.weight_quantized
+.bbox_head.multi_level_obj.1.conv2.weight_scale
+3bbox_head.multi_level_obj.1.conv2.weight_zero_point@bbox_head.multi_level_obj.1.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.1.conv2.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.2.conv1.bias_quantized
+6bbox_head.multi_level_obj.2.conv1.bias_quantized_scale
+;bbox_head.multi_level_obj.2.conv1.bias_quantized_zero_point&bbox_head.multi_level_obj.2.conv1.bias7bbox_head.multi_level_obj.2.conv1.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.2.conv1.weight_quantized
+.bbox_head.multi_level_obj.2.conv1.weight_scale
+3bbox_head.multi_level_obj.2.conv1.weight_zero_point@bbox_head.multi_level_obj.2.conv1.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.2.conv1.weight_DequantizeLinear"DequantizeLinear
+
+0bbox_head.multi_level_obj.2.conv2.bias_quantized
+6bbox_head.multi_level_obj.2.conv2.bias_quantized_scale
+;bbox_head.multi_level_obj.2.conv2.bias_quantized_zero_point&bbox_head.multi_level_obj.2.conv2.bias7bbox_head.multi_level_obj.2.conv2.bias_DequantizeLinear"DequantizeLinear
+¨
+2bbox_head.multi_level_obj.2.conv2.weight_quantized
+.bbox_head.multi_level_obj.2.conv2.weight_scale
+3bbox_head.multi_level_obj.2.conv2.weight_zero_point@bbox_head.multi_level_obj.2.conv2.weight_DequantizeLinear_Output9bbox_head.multi_level_obj.2.conv2.weight_DequantizeLinear"DequantizeLinear
+i
+input
+input_scale
+input_zero_pointinput_QuantizeLinear_Outputinput_QuantizeLinear"QuantizeLinear
+ק
+)neck.lateral_convs.0.conv1.bias_quantized
+/neck.lateral_convs.0.conv1.bias_quantized_scale
+4neck.lateral_convs.0.conv1.bias_quantized_zero_pointneck.lateral_convs.0.conv1.bias0neck.lateral_convs.0.conv1.bias_DequantizeLinear"DequantizeLinear
+…
++neck.lateral_convs.0.conv1.weight_quantized
+'neck.lateral_convs.0.conv1.weight_scale
+,neck.lateral_convs.0.conv1.weight_zero_point9neck.lateral_convs.0.conv1.weight_DequantizeLinear_Output2neck.lateral_convs.0.conv1.weight_DequantizeLinear"DequantizeLinear
+ק
+)neck.lateral_convs.1.conv1.bias_quantized
+/neck.lateral_convs.1.conv1.bias_quantized_scale
+4neck.lateral_convs.1.conv1.bias_quantized_zero_pointneck.lateral_convs.1.conv1.bias0neck.lateral_convs.1.conv1.bias_DequantizeLinear"DequantizeLinear
+…
++neck.lateral_convs.1.conv1.weight_quantized
+'neck.lateral_convs.1.conv1.weight_scale
+,neck.lateral_convs.1.conv1.weight_zero_point9neck.lateral_convs.1.conv1.weight_DequantizeLinear_Output2neck.lateral_convs.1.conv1.weight_DequantizeLinear"DequantizeLinear
+ק
+)neck.lateral_convs.2.conv1.bias_quantized
+/neck.lateral_convs.2.conv1.bias_quantized_scale
+4neck.lateral_convs.2.conv1.bias_quantized_zero_pointneck.lateral_convs.2.conv1.bias0neck.lateral_convs.2.conv1.bias_DequantizeLinear"DequantizeLinear
+…
++neck.lateral_convs.2.conv1.weight_quantized
+'neck.lateral_convs.2.conv1.weight_scale
+,neck.lateral_convs.2.conv1.weight_zero_point9neck.lateral_convs.2.conv1.weight_DequantizeLinear_Output2neck.lateral_convs.2.conv1.weight_DequantizeLinear"DequantizeLinear
+…
+input_QuantizeLinear_Output
+input_scale
+input_zero_pointinput_DequantizeLinear_Outputinput_DequantizeLinear"DequantizeLinear
+²
+input_DequantizeLinear_Output
+420_DequantizeLinear_Output
+421184Conv_0"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+184
+	184_scale
+184_zero_point184_QuantizeLinear_Output184_QuantizeLinear"QuantizeLinear
+{
+184_QuantizeLinear_Output
+	184_scale
+184_zero_point184_DequantizeLinear_Output184_DequantizeLinear"DequantizeLinear
+ל
+184_DequantizeLinear_Output
+:backbone.model0.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model0.conv2.conv1.bias185Conv_2"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+185
+	185_scale
+185_zero_point185_QuantizeLinear_Output185_QuantizeLinear"QuantizeLinear
+{
+185_QuantizeLinear_Output
+	185_scale
+185_zero_point185_DequantizeLinear_Output185_DequantizeLinear"DequantizeLinear
+°
+185_DequantizeLinear_Output
+423_DequantizeLinear_Output
+424188Conv_3"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+188
+	188_scale
+188_zero_point188_QuantizeLinear_Output188_QuantizeLinear"QuantizeLinear
+{
+188_QuantizeLinear_Output
+	188_scale
+188_zero_point188_DequantizeLinear_Output188_DequantizeLinear"DequantizeLinear
+„
+188_DequantizeLinear_Output189	MaxPool_5"MaxPool*
+	ceil_mode  *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+189
+	189_scale
+189_zero_point189_QuantizeLinear_Output189_QuantizeLinear"QuantizeLinear
+{
+189_QuantizeLinear_Output
+	189_scale
+189_zero_point189_DequantizeLinear_Output189_DequantizeLinear"DequantizeLinear
+ל
+189_DequantizeLinear_Output
+:backbone.model1.conv1.conv1.weight_DequantizeLinear_Output
+ backbone.model1.conv1.conv1.bias190Conv_6"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+190
+	190_scale
+190_zero_point190_QuantizeLinear_Output190_QuantizeLinear"QuantizeLinear
+{
+190_QuantizeLinear_Output
+	190_scale
+190_zero_point190_DequantizeLinear_Output190_DequantizeLinear"DequantizeLinear
+°
+190_DequantizeLinear_Output
+426_DequantizeLinear_Output
+427193Conv_7"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+193
+	193_scale
+193_zero_point193_QuantizeLinear_Output193_QuantizeLinear"QuantizeLinear
+{
+193_QuantizeLinear_Output
+	193_scale
+193_zero_point193_DequantizeLinear_Output193_DequantizeLinear"DequantizeLinear
+ל
+193_DequantizeLinear_Output
+:backbone.model1.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model1.conv2.conv1.bias194Conv_9"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+194
+	194_scale
+194_zero_point194_QuantizeLinear_Output194_QuantizeLinear"QuantizeLinear
+{
+194_QuantizeLinear_Output
+	194_scale
+194_zero_point194_DequantizeLinear_Output194_DequantizeLinear"DequantizeLinear
+±
+194_DequantizeLinear_Output
+429_DequantizeLinear_Output
+430197Conv_10"Conv*
+	dilations@@ *
+group  *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+197
+	197_scale
+197_zero_point197_QuantizeLinear_Output197_QuantizeLinear"QuantizeLinear
+{
+197_QuantizeLinear_Output
+	197_scale
+197_zero_point197_DequantizeLinear_Output197_DequantizeLinear"DequantizeLinear
+ם
+197_DequantizeLinear_Output
+:backbone.model2.conv1.conv1.weight_DequantizeLinear_Output
+ backbone.model2.conv1.conv1.bias198Conv_12"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+198
+	198_scale
+198_zero_point198_QuantizeLinear_Output198_QuantizeLinear"QuantizeLinear
+{
+198_QuantizeLinear_Output
+	198_scale
+198_zero_point198_DequantizeLinear_Output198_DequantizeLinear"DequantizeLinear
+±
+198_DequantizeLinear_Output
+432_DequantizeLinear_Output
+433201Conv_13"Conv*
+	dilations@@ *
+group  *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+201
+	201_scale
+201_zero_point201_QuantizeLinear_Output201_QuantizeLinear"QuantizeLinear
+{
+201_QuantizeLinear_Output
+	201_scale
+201_zero_point201_DequantizeLinear_Output201_DequantizeLinear"DequantizeLinear
+ם
+201_DequantizeLinear_Output
+:backbone.model2.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model2.conv2.conv1.bias202Conv_15"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+202
+	202_scale
+202_zero_point202_QuantizeLinear_Output202_QuantizeLinear"QuantizeLinear
+{
+202_QuantizeLinear_Output
+	202_scale
+202_zero_point202_DequantizeLinear_Output202_DequantizeLinear"DequantizeLinear
+±
+202_DequantizeLinear_Output
+435_DequantizeLinear_Output
+436205Conv_16"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+205
+	205_scale
+205_zero_point205_QuantizeLinear_Output205_QuantizeLinear"QuantizeLinear
+{
+205_QuantizeLinear_Output
+	205_scale
+205_zero_point205_DequantizeLinear_Output205_DequantizeLinear"DequantizeLinear
+…
+205_DequantizeLinear_Output206
+MaxPool_18"MaxPool*
+	ceil_mode  *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+206
+	206_scale
+206_zero_point206_QuantizeLinear_Output206_QuantizeLinear"QuantizeLinear
+{
+206_QuantizeLinear_Output
+	206_scale
+206_zero_point206_DequantizeLinear_Output206_DequantizeLinear"DequantizeLinear
+ם
+206_DequantizeLinear_Output
+:backbone.model3.conv1.conv1.weight_DequantizeLinear_Output
+ backbone.model3.conv1.conv1.bias207Conv_19"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+207
+	207_scale
+207_zero_point207_QuantizeLinear_Output207_QuantizeLinear"QuantizeLinear
+{
+207_QuantizeLinear_Output
+	207_scale
+207_zero_point207_DequantizeLinear_Output207_DequantizeLinear"DequantizeLinear
+±
+207_DequantizeLinear_Output
+438_DequantizeLinear_Output
+439210Conv_20"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+210
+	210_scale
+210_zero_point210_QuantizeLinear_Output210_QuantizeLinear"QuantizeLinear
+{
+210_QuantizeLinear_Output
+	210_scale
+210_zero_point210_DequantizeLinear_Output210_DequantizeLinear"DequantizeLinear
+ם
+210_DequantizeLinear_Output
+:backbone.model3.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model3.conv2.conv1.bias211Conv_22"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+211
+	211_scale
+211_zero_point211_QuantizeLinear_Output211_QuantizeLinear"QuantizeLinear
+{
+211_QuantizeLinear_Output
+	211_scale
+211_zero_point211_DequantizeLinear_Output211_DequantizeLinear"DequantizeLinear
+±
+211_DequantizeLinear_Output
+441_DequantizeLinear_Output
+442214Conv_23"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+214
+	214_scale
+214_zero_point214_QuantizeLinear_Output214_QuantizeLinear"QuantizeLinear
+{
+214_QuantizeLinear_Output
+	214_scale
+214_zero_point214_DequantizeLinear_Output214_DequantizeLinear"DequantizeLinear
+…
+214_DequantizeLinear_Output215
+MaxPool_25"MaxPool*
+	ceil_mode  *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+215
+	215_scale
+215_zero_point215_QuantizeLinear_Output215_QuantizeLinear"QuantizeLinear
+{
+215_QuantizeLinear_Output
+	215_scale
+215_zero_point215_DequantizeLinear_Output215_DequantizeLinear"DequantizeLinear
+ם
+215_DequantizeLinear_Output
+:backbone.model4.conv1.conv1.weight_DequantizeLinear_Output
+ backbone.model4.conv1.conv1.bias216Conv_26"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+216
+	216_scale
+216_zero_point216_QuantizeLinear_Output216_QuantizeLinear"QuantizeLinear
+{
+216_QuantizeLinear_Output
+	216_scale
+216_zero_point216_DequantizeLinear_Output216_DequantizeLinear"DequantizeLinear
+±
+216_DequantizeLinear_Output
+444_DequantizeLinear_Output
+445219Conv_27"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+219
+	219_scale
+219_zero_point219_QuantizeLinear_Output219_QuantizeLinear"QuantizeLinear
+{
+219_QuantizeLinear_Output
+	219_scale
+219_zero_point219_DequantizeLinear_Output219_DequantizeLinear"DequantizeLinear
+ם
+219_DequantizeLinear_Output
+:backbone.model4.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model4.conv2.conv1.bias220Conv_29"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+220
+	220_scale
+220_zero_point220_QuantizeLinear_Output220_QuantizeLinear"QuantizeLinear
+{
+220_QuantizeLinear_Output
+	220_scale
+220_zero_point220_DequantizeLinear_Output220_DequantizeLinear"DequantizeLinear
+±
+220_DequantizeLinear_Output
+447_DequantizeLinear_Output
+448223Conv_30"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+223
+	223_scale
+223_zero_point223_QuantizeLinear_Output223_QuantizeLinear"QuantizeLinear
+{
+223_QuantizeLinear_Output
+	223_scale
+223_zero_point223_DequantizeLinear_Output223_DequantizeLinear"DequantizeLinear
+…
+223_DequantizeLinear_Output224
+MaxPool_32"MaxPool*
+	ceil_mode  *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+224
+	224_scale
+224_zero_point224_QuantizeLinear_Output224_QuantizeLinear"QuantizeLinear
+{
+224_QuantizeLinear_Output
+	224_scale
+224_zero_point224_DequantizeLinear_Output224_DequantizeLinear"DequantizeLinear
+ם
+224_DequantizeLinear_Output
+:backbone.model5.conv1.conv1.weight_DequantizeLinear_Output
+ backbone.model5.conv1.conv1.bias225Conv_33"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+225
+	225_scale
+225_zero_point225_QuantizeLinear_Output225_QuantizeLinear"QuantizeLinear
+{
+225_QuantizeLinear_Output
+	225_scale
+225_zero_point225_DequantizeLinear_Output225_DequantizeLinear"DequantizeLinear
+±
+225_DequantizeLinear_Output
+450_DequantizeLinear_Output
+451228Conv_34"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+228
+	228_scale
+228_zero_point228_QuantizeLinear_Output228_QuantizeLinear"QuantizeLinear
+{
+228_QuantizeLinear_Output
+	228_scale
+228_zero_point228_DequantizeLinear_Output228_DequantizeLinear"DequantizeLinear
+ם
+228_DequantizeLinear_Output
+:backbone.model5.conv2.conv1.weight_DequantizeLinear_Output
+ backbone.model5.conv2.conv1.bias229Conv_36"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+229
+	229_scale
+229_zero_point229_QuantizeLinear_Output229_QuantizeLinear"QuantizeLinear
+{
+229_QuantizeLinear_Output
+	229_scale
+229_zero_point229_DequantizeLinear_Output229_DequantizeLinear"DequantizeLinear
+±
+229_DequantizeLinear_Output
+453_DequantizeLinear_Output
+454232Conv_37"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+232
+	232_scale
+232_zero_point232_QuantizeLinear_Output232_QuantizeLinear"QuantizeLinear
+{
+232_QuantizeLinear_Output
+	232_scale
+232_zero_point232_DequantizeLinear_Output232_DequantizeLinear"DequantizeLinear
+כ
+232_DequantizeLinear_Output
+9neck.lateral_convs.2.conv1.weight_DequantizeLinear_Output
+neck.lateral_convs.2.conv1.bias233Conv_39"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+233
+	233_scale
+233_zero_point233_QuantizeLinear_Output233_QuantizeLinear"QuantizeLinear
+{
+233_QuantizeLinear_Output
+	233_scale
+233_zero_point233_DequantizeLinear_Output233_DequantizeLinear"DequantizeLinear
+±
+233_DequantizeLinear_Output
+456_DequantizeLinear_Output
+457236Conv_40"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+236
+	236_scale
+236_zero_point236_QuantizeLinear_Output236_QuantizeLinear"QuantizeLinear
+{
+236_QuantizeLinear_Output
+	236_scale
+236_zero_point236_DequantizeLinear_Output236_DequantizeLinear"DequantizeLinear
+·
+236_DequantizeLinear_Output
+240
+464241	Resize_43"Resize*/
+coordinate_transformation_mode"
+asymmetric *
+cubic_coeff_a  @¿ *
+mode"nearest *
+nearest_mode"floor 
+ש
+236_DequantizeLinear_Output
+@bbox_head.multi_level_cls.2.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.2.conv1.bias261Conv_58"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+û
+236_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.2.conv1.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.2.conv1.bias267Conv_64"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+236_DequantizeLinear_Output
+@bbox_head.multi_level_obj.2.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.2.conv1.bias273Conv_70"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+236_DequantizeLinear_Output
+@bbox_head.multi_level_kps.2.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.2.conv1.bias279Conv_76"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+_
+241
+	236_scale
+236_zero_point241_QuantizeLinear_Output241_QuantizeLinear"QuantizeLinear
+_
+261
+	261_scale
+261_zero_point261_QuantizeLinear_Output261_QuantizeLinear"QuantizeLinear
+_
+267
+	267_scale
+267_zero_point267_QuantizeLinear_Output267_QuantizeLinear"QuantizeLinear
+_
+273
+	273_scale
+273_zero_point273_QuantizeLinear_Output273_QuantizeLinear"QuantizeLinear
+_
+279
+	279_scale
+279_zero_point279_QuantizeLinear_Output279_QuantizeLinear"QuantizeLinear
+{
+241_QuantizeLinear_Output
+	236_scale
+236_zero_point241_DequantizeLinear_Output241_DequantizeLinear"DequantizeLinear
+{
+261_QuantizeLinear_Output
+	261_scale
+261_zero_point261_DequantizeLinear_Output261_DequantizeLinear"DequantizeLinear
+{
+267_QuantizeLinear_Output
+	267_scale
+267_zero_point267_DequantizeLinear_Output267_DequantizeLinear"DequantizeLinear
+{
+273_QuantizeLinear_Output
+	273_scale
+273_zero_point273_DequantizeLinear_Output273_DequantizeLinear"DequantizeLinear
+{
+279_QuantizeLinear_Output
+	279_scale
+279_zero_point279_DequantizeLinear_Output279_DequantizeLinear"DequantizeLinear
+L
+223_DequantizeLinear_Output
+241_DequantizeLinear_Output242Add_44"Add
+ש
+261_DequantizeLinear_Output
+@bbox_head.multi_level_cls.2.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.2.conv2.bias262Conv_59"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+û
+267_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.2.conv2.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.2.conv2.bias268Conv_65"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+273_DequantizeLinear_Output
+@bbox_head.multi_level_obj.2.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.2.conv2.bias274Conv_71"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+279_DequantizeLinear_Output
+@bbox_head.multi_level_kps.2.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.2.conv2.bias280Conv_77"Conv*
+	dilations@@ *
+group
+ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+242
+	242_scale
+242_zero_point242_QuantizeLinear_Output242_QuantizeLinear"QuantizeLinear
+_
+262
+	262_scale
+262_zero_point262_QuantizeLinear_Output262_QuantizeLinear"QuantizeLinear
+_
+268
+	268_scale
+268_zero_point268_QuantizeLinear_Output268_QuantizeLinear"QuantizeLinear
+_
+274
+	274_scale
+274_zero_point274_QuantizeLinear_Output274_QuantizeLinear"QuantizeLinear
+_
+280
+	280_scale
+280_zero_point280_QuantizeLinear_Output280_QuantizeLinear"QuantizeLinear
+{
+242_QuantizeLinear_Output
+	242_scale
+242_zero_point242_DequantizeLinear_Output242_DequantizeLinear"DequantizeLinear
+{
+262_QuantizeLinear_Output
+	262_scale
+262_zero_point262_DequantizeLinear_Output262_DequantizeLinear"DequantizeLinear
+{
+268_QuantizeLinear_Output
+	268_scale
+268_zero_point268_DequantizeLinear_Output268_DequantizeLinear"DequantizeLinear
+{
+274_QuantizeLinear_Output
+	274_scale
+274_zero_point274_DequantizeLinear_Output274_DequantizeLinear"DequantizeLinear
+{
+280_QuantizeLinear_Output
+	280_scale
+280_zero_point280_DequantizeLinear_Output280_DequantizeLinear"DequantizeLinear
+כ
+242_DequantizeLinear_Output
+9neck.lateral_convs.1.conv1.weight_DequantizeLinear_Output
+neck.lateral_convs.1.conv1.bias243Conv_45"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+N
+262_DequantizeLinear_Output305Transpose_94"	Transpose*
+perm@ @@@ 
+O
+268_DequantizeLinear_Output375Transpose_140"	Transpose*
+perm@ @@@ 
+O
+274_DequantizeLinear_Output341Transpose_118"	Transpose*
+perm@ @@@ 
+O
+280_DequantizeLinear_Output408Transpose_161"	Transpose*
+perm@ @@@ 
+_
+243
+	243_scale
+243_zero_point243_QuantizeLinear_Output243_QuantizeLinear"QuantizeLinear
+_
+305
+	262_scale
+262_zero_point305_QuantizeLinear_Output305_QuantizeLinear"QuantizeLinear
+_
+375
+	268_scale
+268_zero_point375_QuantizeLinear_Output375_QuantizeLinear"QuantizeLinear
+_
+341
+	274_scale
+274_zero_point341_QuantizeLinear_Output341_QuantizeLinear"QuantizeLinear
+_
+408
+	280_scale
+280_zero_point408_QuantizeLinear_Output408_QuantizeLinear"QuantizeLinear
+{
+243_QuantizeLinear_Output
+	243_scale
+243_zero_point243_DequantizeLinear_Output243_DequantizeLinear"DequantizeLinear
+{
+305_QuantizeLinear_Output
+	262_scale
+262_zero_point305_DequantizeLinear_Output305_DequantizeLinear"DequantizeLinear
+{
+375_QuantizeLinear_Output
+	268_scale
+268_zero_point375_DequantizeLinear_Output375_DequantizeLinear"DequantizeLinear
+{
+341_QuantizeLinear_Output
+	274_scale
+274_zero_point341_DequantizeLinear_Output341_DequantizeLinear"DequantizeLinear
+{
+408_QuantizeLinear_Output
+	280_scale
+280_zero_point408_DequantizeLinear_Output408_DequantizeLinear"DequantizeLinear
+±
+243_DequantizeLinear_Output
+459_DequantizeLinear_Output
+460246Conv_46"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+=
+305_DequantizeLinear_Output
+290315Reshape_100"Reshape
+V
+375_DequantizeLinear_Output
+362bbox_32_QuantizeLinear_InputReshape_146"Reshape
+=
+341_DequantizeLinear_Output
+290351Reshape_124"Reshape
+U
+408_DequantizeLinear_Output
+395kps_32_QuantizeLinear_InputReshape_167"Reshape
+_
+246
+	246_scale
+246_zero_point246_QuantizeLinear_Output246_QuantizeLinear"QuantizeLinear
+_
+315
+	262_scale
+262_zero_point315_QuantizeLinear_Output315_QuantizeLinear"QuantizeLinear
+€
+bbox_32_QuantizeLinear_Input
+	268_scale
+268_zero_pointbbox_32_QuantizeLinear_Outputbbox_32_QuantizeLinear"QuantizeLinear
+_
+351
+	274_scale
+274_zero_point351_QuantizeLinear_Output351_QuantizeLinear"QuantizeLinear
+}
+kps_32_QuantizeLinear_Input
+	280_scale
+280_zero_pointkps_32_QuantizeLinear_Outputkps_32_QuantizeLinear"QuantizeLinear
+{
+246_QuantizeLinear_Output
+	246_scale
+246_zero_point246_DequantizeLinear_Output246_DequantizeLinear"DequantizeLinear
+{
+315_QuantizeLinear_Output
+	262_scale
+262_zero_point315_DequantizeLinear_Output315_DequantizeLinear"DequantizeLinear
+o
+bbox_32_QuantizeLinear_Output
+	268_scale
+268_zero_pointbbox_32bbox_32_DequantizeLinear"DequantizeLinear
+{
+351_QuantizeLinear_Output
+	274_scale
+274_zero_point351_DequantizeLinear_Output351_DequantizeLinear"DequantizeLinear
+l
+kps_32_QuantizeLinear_Output
+	280_scale
+280_zero_pointkps_32kps_32_DequantizeLinear"DequantizeLinear
+·
+246_DequantizeLinear_Output
+240
+465251	Resize_49"Resize*/
+coordinate_transformation_mode"
+asymmetric *
+cubic_coeff_a  @¿ *
+mode"nearest *
+nearest_mode"floor 
+ש
+246_DequantizeLinear_Output
+@bbox_head.multi_level_cls.1.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.1.conv1.bias259Conv_56"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+û
+246_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.1.conv1.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.1.conv1.bias265Conv_62"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+246_DequantizeLinear_Output
+@bbox_head.multi_level_obj.1.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.1.conv1.bias271Conv_68"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+246_DequantizeLinear_Output
+@bbox_head.multi_level_kps.1.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.1.conv1.bias277Conv_74"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+P
+315_DequantizeLinear_Outputcls_32_QuantizeLinear_InputSigmoid_101"Sigmoid
+P
+351_DequantizeLinear_Outputobj_32_QuantizeLinear_InputSigmoid_125"Sigmoid
+_
+251
+	246_scale
+246_zero_point251_QuantizeLinear_Output251_QuantizeLinear"QuantizeLinear
+_
+259
+	259_scale
+259_zero_point259_QuantizeLinear_Output259_QuantizeLinear"QuantizeLinear
+_
+265
+	265_scale
+265_zero_point265_QuantizeLinear_Output265_QuantizeLinear"QuantizeLinear
+_
+271
+	271_scale
+271_zero_point271_QuantizeLinear_Output271_QuantizeLinear"QuantizeLinear
+_
+277
+	277_scale
+277_zero_point277_QuantizeLinear_Output277_QuantizeLinear"QuantizeLinear
+ƒ
+cls_32_QuantizeLinear_Input
+cls_32_scale
+cls_32_zero_pointcls_32_QuantizeLinear_Outputcls_32_QuantizeLinear"QuantizeLinear
+ƒ
+obj_32_QuantizeLinear_Input
+obj_32_scale
+obj_32_zero_pointobj_32_QuantizeLinear_Outputobj_32_QuantizeLinear"QuantizeLinear
+{
+251_QuantizeLinear_Output
+	246_scale
+246_zero_point251_DequantizeLinear_Output251_DequantizeLinear"DequantizeLinear
+{
+259_QuantizeLinear_Output
+	259_scale
+259_zero_point259_DequantizeLinear_Output259_DequantizeLinear"DequantizeLinear
+{
+265_QuantizeLinear_Output
+	265_scale
+265_zero_point265_DequantizeLinear_Output265_DequantizeLinear"DequantizeLinear
+{
+271_QuantizeLinear_Output
+	271_scale
+271_zero_point271_DequantizeLinear_Output271_DequantizeLinear"DequantizeLinear
+{
+277_QuantizeLinear_Output
+	277_scale
+277_zero_point277_DequantizeLinear_Output277_DequantizeLinear"DequantizeLinear
+r
+cls_32_QuantizeLinear_Output
+cls_32_scale
+cls_32_zero_pointcls_32cls_32_DequantizeLinear"DequantizeLinear
+r
+obj_32_QuantizeLinear_Output
+obj_32_scale
+obj_32_zero_pointobj_32obj_32_DequantizeLinear"DequantizeLinear
+L
+214_DequantizeLinear_Output
+251_DequantizeLinear_Output252Add_50"Add
+ש
+259_DequantizeLinear_Output
+@bbox_head.multi_level_cls.1.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.1.conv2.bias260Conv_57"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+û
+265_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.1.conv2.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.1.conv2.bias266Conv_63"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+271_DequantizeLinear_Output
+@bbox_head.multi_level_obj.1.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.1.conv2.bias272Conv_69"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+277_DequantizeLinear_Output
+@bbox_head.multi_level_kps.1.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.1.conv2.bias278Conv_75"Conv*
+	dilations@@ *
+group
+ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+252
+	252_scale
+252_zero_point252_QuantizeLinear_Output252_QuantizeLinear"QuantizeLinear
+_
+260
+	260_scale
+260_zero_point260_QuantizeLinear_Output260_QuantizeLinear"QuantizeLinear
+_
+266
+	266_scale
+266_zero_point266_QuantizeLinear_Output266_QuantizeLinear"QuantizeLinear
+_
+272
+	272_scale
+272_zero_point272_QuantizeLinear_Output272_QuantizeLinear"QuantizeLinear
+_
+278
+	278_scale
+278_zero_point278_QuantizeLinear_Output278_QuantizeLinear"QuantizeLinear
+{
+252_QuantizeLinear_Output
+	252_scale
+252_zero_point252_DequantizeLinear_Output252_DequantizeLinear"DequantizeLinear
+{
+260_QuantizeLinear_Output
+	260_scale
+260_zero_point260_DequantizeLinear_Output260_DequantizeLinear"DequantizeLinear
+{
+266_QuantizeLinear_Output
+	266_scale
+266_zero_point266_DequantizeLinear_Output266_DequantizeLinear"DequantizeLinear
+{
+272_QuantizeLinear_Output
+	272_scale
+272_zero_point272_DequantizeLinear_Output272_DequantizeLinear"DequantizeLinear
+{
+278_QuantizeLinear_Output
+	278_scale
+278_zero_point278_DequantizeLinear_Output278_DequantizeLinear"DequantizeLinear
+כ
+252_DequantizeLinear_Output
+9neck.lateral_convs.0.conv1.weight_DequantizeLinear_Output
+neck.lateral_convs.0.conv1.bias253Conv_51"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+N
+260_DequantizeLinear_Output293Transpose_86"	Transpose*
+perm@ @@@ 
+O
+266_DequantizeLinear_Output364Transpose_133"	Transpose*
+perm@ @@@ 
+O
+272_DequantizeLinear_Output329Transpose_110"	Transpose*
+perm@ @@@ 
+O
+278_DequantizeLinear_Output397Transpose_154"	Transpose*
+perm@ @@@ 
+_
+253
+	253_scale
+253_zero_point253_QuantizeLinear_Output253_QuantizeLinear"QuantizeLinear
+_
+293
+	260_scale
+260_zero_point293_QuantizeLinear_Output293_QuantizeLinear"QuantizeLinear
+_
+364
+	266_scale
+266_zero_point364_QuantizeLinear_Output364_QuantizeLinear"QuantizeLinear
+_
+329
+	272_scale
+272_zero_point329_QuantizeLinear_Output329_QuantizeLinear"QuantizeLinear
+_
+397
+	278_scale
+278_zero_point397_QuantizeLinear_Output397_QuantizeLinear"QuantizeLinear
+{
+253_QuantizeLinear_Output
+	253_scale
+253_zero_point253_DequantizeLinear_Output253_DequantizeLinear"DequantizeLinear
+{
+293_QuantizeLinear_Output
+	260_scale
+260_zero_point293_DequantizeLinear_Output293_DequantizeLinear"DequantizeLinear
+{
+364_QuantizeLinear_Output
+	266_scale
+266_zero_point364_DequantizeLinear_Output364_DequantizeLinear"DequantizeLinear
+{
+329_QuantizeLinear_Output
+	272_scale
+272_zero_point329_DequantizeLinear_Output329_DequantizeLinear"DequantizeLinear
+{
+397_QuantizeLinear_Output
+	278_scale
+278_zero_point397_DequantizeLinear_Output397_DequantizeLinear"DequantizeLinear
+±
+253_DequantizeLinear_Output
+462_DequantizeLinear_Output
+463256Conv_52"Conv*
+	dilations@@ *
+group@ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+<
+293_DequantizeLinear_Output
+290303
+Reshape_92"Reshape
+V
+364_DequantizeLinear_Output
+362bbox_16_QuantizeLinear_InputReshape_139"Reshape
+=
+329_DequantizeLinear_Output
+290339Reshape_116"Reshape
+U
+397_DequantizeLinear_Output
+395kps_16_QuantizeLinear_InputReshape_160"Reshape
+_
+256
+	256_scale
+256_zero_point256_QuantizeLinear_Output256_QuantizeLinear"QuantizeLinear
+_
+303
+	260_scale
+260_zero_point303_QuantizeLinear_Output303_QuantizeLinear"QuantizeLinear
+€
+bbox_16_QuantizeLinear_Input
+	266_scale
+266_zero_pointbbox_16_QuantizeLinear_Outputbbox_16_QuantizeLinear"QuantizeLinear
+_
+339
+	272_scale
+272_zero_point339_QuantizeLinear_Output339_QuantizeLinear"QuantizeLinear
+}
+kps_16_QuantizeLinear_Input
+	278_scale
+278_zero_pointkps_16_QuantizeLinear_Outputkps_16_QuantizeLinear"QuantizeLinear
+{
+256_QuantizeLinear_Output
+	256_scale
+256_zero_point256_DequantizeLinear_Output256_DequantizeLinear"DequantizeLinear
+{
+303_QuantizeLinear_Output
+	260_scale
+260_zero_point303_DequantizeLinear_Output303_DequantizeLinear"DequantizeLinear
+o
+bbox_16_QuantizeLinear_Output
+	266_scale
+266_zero_pointbbox_16bbox_16_DequantizeLinear"DequantizeLinear
+{
+339_QuantizeLinear_Output
+	272_scale
+272_zero_point339_DequantizeLinear_Output339_DequantizeLinear"DequantizeLinear
+l
+kps_16_QuantizeLinear_Output
+	278_scale
+278_zero_pointkps_16kps_16_DequantizeLinear"DequantizeLinear
+ש
+256_DequantizeLinear_Output
+@bbox_head.multi_level_cls.0.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.0.conv1.bias257Conv_54"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+û
+256_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.0.conv1.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.0.conv1.bias263Conv_60"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+256_DequantizeLinear_Output
+@bbox_head.multi_level_obj.0.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.0.conv1.bias269Conv_66"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+ש
+256_DequantizeLinear_Output
+@bbox_head.multi_level_kps.0.conv1.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.0.conv1.bias275Conv_72"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@ @ @ @  *
+strides@@ 
+O
+303_DequantizeLinear_Outputcls_16_QuantizeLinear_Input
+Sigmoid_93"Sigmoid
+P
+339_DequantizeLinear_Outputobj_16_QuantizeLinear_InputSigmoid_117"Sigmoid
+_
+257
+	257_scale
+257_zero_point257_QuantizeLinear_Output257_QuantizeLinear"QuantizeLinear
+_
+263
+	263_scale
+263_zero_point263_QuantizeLinear_Output263_QuantizeLinear"QuantizeLinear
+_
+269
+	269_scale
+269_zero_point269_QuantizeLinear_Output269_QuantizeLinear"QuantizeLinear
+_
+275
+	275_scale
+275_zero_point275_QuantizeLinear_Output275_QuantizeLinear"QuantizeLinear
+ƒ
+cls_16_QuantizeLinear_Input
+cls_16_scale
+cls_16_zero_pointcls_16_QuantizeLinear_Outputcls_16_QuantizeLinear"QuantizeLinear
+ƒ
+obj_16_QuantizeLinear_Input
+obj_16_scale
+obj_16_zero_pointobj_16_QuantizeLinear_Outputobj_16_QuantizeLinear"QuantizeLinear
+{
+257_QuantizeLinear_Output
+	257_scale
+257_zero_point257_DequantizeLinear_Output257_DequantizeLinear"DequantizeLinear
+{
+263_QuantizeLinear_Output
+	263_scale
+263_zero_point263_DequantizeLinear_Output263_DequantizeLinear"DequantizeLinear
+{
+269_QuantizeLinear_Output
+	269_scale
+269_zero_point269_DequantizeLinear_Output269_DequantizeLinear"DequantizeLinear
+{
+275_QuantizeLinear_Output
+	275_scale
+275_zero_point275_DequantizeLinear_Output275_DequantizeLinear"DequantizeLinear
+r
+cls_16_QuantizeLinear_Output
+cls_16_scale
+cls_16_zero_pointcls_16cls_16_DequantizeLinear"DequantizeLinear
+r
+obj_16_QuantizeLinear_Output
+obj_16_scale
+obj_16_zero_pointobj_16obj_16_DequantizeLinear"DequantizeLinear
+ש
+257_DequantizeLinear_Output
+@bbox_head.multi_level_cls.0.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_cls.0.conv2.bias258Conv_55"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+û
+263_DequantizeLinear_Output
+Abbox_head.multi_level_bbox.0.conv2.weight_DequantizeLinear_Output
+'bbox_head.multi_level_bbox.0.conv2.bias264Conv_61"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+269_DequantizeLinear_Output
+@bbox_head.multi_level_obj.0.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_obj.0.conv2.bias270Conv_67"Conv*
+	dilations@@ *
+group *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+ש
+275_DequantizeLinear_Output
+@bbox_head.multi_level_kps.0.conv2.weight_DequantizeLinear_Output
+&bbox_head.multi_level_kps.0.conv2.bias276Conv_73"Conv*
+	dilations@@ *
+group
+ *
+kernel_shape@@ *
+pads@@@@ *
+strides@@ 
+_
+258
+	258_scale
+258_zero_point258_QuantizeLinear_Output258_QuantizeLinear"QuantizeLinear
+_
+264
+	264_scale
+264_zero_point264_QuantizeLinear_Output264_QuantizeLinear"QuantizeLinear
+_
+270
+	270_scale
+270_zero_point270_QuantizeLinear_Output270_QuantizeLinear"QuantizeLinear
+_
+276
+	276_scale
+276_zero_point276_QuantizeLinear_Output276_QuantizeLinear"QuantizeLinear
+{
+258_QuantizeLinear_Output
+	258_scale
+258_zero_point258_DequantizeLinear_Output258_DequantizeLinear"DequantizeLinear
+{
+264_QuantizeLinear_Output
+	264_scale
+264_zero_point264_DequantizeLinear_Output264_DequantizeLinear"DequantizeLinear
+{
+270_QuantizeLinear_Output
+	270_scale
+270_zero_point270_DequantizeLinear_Output270_DequantizeLinear"DequantizeLinear
+{
+276_QuantizeLinear_Output
+	276_scale
+276_zero_point276_DequantizeLinear_Output276_DequantizeLinear"DequantizeLinear
+N
+258_DequantizeLinear_Output281Transpose_78"	Transpose*
+perm@ @@@ 
+O
+264_DequantizeLinear_Output353Transpose_126"	Transpose*
+perm@ @@@ 
+O
+270_DequantizeLinear_Output317Transpose_102"	Transpose*
+perm@ @@@ 
+O
+276_DequantizeLinear_Output386Transpose_147"	Transpose*
+perm@ @@@ 
+_
+281
+	258_scale
+258_zero_point281_QuantizeLinear_Output281_QuantizeLinear"QuantizeLinear
+_
+353
+	264_scale
+264_zero_point353_QuantizeLinear_Output353_QuantizeLinear"QuantizeLinear
+_
+317
+	270_scale
+270_zero_point317_QuantizeLinear_Output317_QuantizeLinear"QuantizeLinear
+_
+386
+	276_scale
+276_zero_point386_QuantizeLinear_Output386_QuantizeLinear"QuantizeLinear
+{
+281_QuantizeLinear_Output
+	258_scale
+258_zero_point281_DequantizeLinear_Output281_DequantizeLinear"DequantizeLinear
+{
+353_QuantizeLinear_Output
+	264_scale
+264_zero_point353_DequantizeLinear_Output353_DequantizeLinear"DequantizeLinear
+{
+317_QuantizeLinear_Output
+	270_scale
+270_zero_point317_DequantizeLinear_Output317_DequantizeLinear"DequantizeLinear
+{
+386_QuantizeLinear_Output
+	276_scale
+276_zero_point386_DequantizeLinear_Output386_DequantizeLinear"DequantizeLinear
+<
+281_DequantizeLinear_Output
+290291
+Reshape_84"Reshape
+U
+353_DequantizeLinear_Output
+362bbox_8_QuantizeLinear_InputReshape_132"Reshape
+=
+317_DequantizeLinear_Output
+290327Reshape_108"Reshape
+T
+386_DequantizeLinear_Output
+395kps_8_QuantizeLinear_InputReshape_153"Reshape
+_
+291
+	258_scale
+258_zero_point291_QuantizeLinear_Output291_QuantizeLinear"QuantizeLinear
+}
+bbox_8_QuantizeLinear_Input
+	264_scale
+264_zero_pointbbox_8_QuantizeLinear_Outputbbox_8_QuantizeLinear"QuantizeLinear
+_
+327
+	270_scale
+270_zero_point327_QuantizeLinear_Output327_QuantizeLinear"QuantizeLinear
+z
+kps_8_QuantizeLinear_Input
+	276_scale
+276_zero_pointkps_8_QuantizeLinear_Outputkps_8_QuantizeLinear"QuantizeLinear
+{
+291_QuantizeLinear_Output
+	258_scale
+258_zero_point291_DequantizeLinear_Output291_DequantizeLinear"DequantizeLinear
+l
+bbox_8_QuantizeLinear_Output
+	264_scale
+264_zero_pointbbox_8bbox_8_DequantizeLinear"DequantizeLinear
+{
+327_QuantizeLinear_Output
+	270_scale
+270_zero_point327_DequantizeLinear_Output327_DequantizeLinear"DequantizeLinear
+i
+kps_8_QuantizeLinear_Output
+	276_scale
+276_zero_pointkps_8kps_8_DequantizeLinear"DequantizeLinear
+N
+291_DequantizeLinear_Outputcls_8_QuantizeLinear_Input
+Sigmoid_85"Sigmoid
+O
+327_DequantizeLinear_Outputobj_8_QuantizeLinear_InputSigmoid_109"Sigmoid
+~
+cls_8_QuantizeLinear_Input
+cls_8_scale
+cls_8_zero_pointcls_8_QuantizeLinear_Outputcls_8_QuantizeLinear"QuantizeLinear
+~
+obj_8_QuantizeLinear_Input
+obj_8_scale
+obj_8_zero_pointobj_8_QuantizeLinear_Outputobj_8_QuantizeLinear"QuantizeLinear
+m
+cls_8_QuantizeLinear_Output
+cls_8_scale
+cls_8_zero_pointcls_8cls_8_DequantizeLinear"DequantizeLinear
+m
+obj_8_QuantizeLinear_Output
+obj_8_scale
+obj_8_zero_pointobj_8obj_8_DequantizeLinear"DequantizeLineartorch-jit-export*B464J  €?  €?   @   @*B465J  €?  €?   @   @* B240J *#B290J       ÿÿÿÿÿÿÿÿ       *#B362J       ÿÿÿÿÿÿÿÿ       *#B395J       ÿÿÿÿÿÿÿÿ
+       ** Binput_zero_point*"  €?Binput_scale** B420_zero_point*"#8B	420_scale*ּB420_quantizedJ°ףח)זװן3=מָHÞ¬+ח8םֽ@Ý·-מ"כךףריûלױעקרûקסÚפ+#‎ 		ßחבßזÞדßÛ יׁ!יןû  Ù÷ת׀צ!ÿןÚûÙßסֵּ¾טûח"".
+‎<N5ûןיÜ$ZNÛÙצÚ·ÙN~sדÙת־£ַ->;יֳל»הכרפ‎ÿ"/1#14%ÚÞהדאÛדבÛ
+ם!&דֽׂÜ»ֿםומ ף ש<־ßֵֿםֹ־ÿִ5$@ף:7µֶך,¹DיÜ@&¥»5יAפרפהל‏ץü‎	üû¯%נ8יװה;
+זרµ* Eצ
+5ט‎»ü,^>ךüזׂ$d:רûזׁ üקס	בו‏ױÙתחבץüמ ןה ‏û‏
+
+רר םת	‏קÿûכמילדףלßצופתפרצם‏ף** B184_zero_point*"י׃¹<B	184_scale**B185_zero_point*"««Ù<B	185_scale*4* B-backbone.model0.conv2.conv1.weight_zero_point*2"מֵ;B(backbone.model0.conv2.conv1.weight_scale*»B,backbone.model0.conv2.conv1.weight_quantizedJ€ÿרסגף‏פ‏ש׳x¹גנ‏Ü
+ÿ*3''_כG#­ץLcG
+	½׀ק÷©:S"ענצÿףק״ֿתד םֻִ‎
+@ף
+‏Ù¹ûרֹעûןףכף;û“#7
+ק‎Üüצ(ךנ!סאנפ6ֻשמסֳשקפפםXך‏üענ
+ז)DץWדY ÿשÛש ת ‎צ	ק‏ÛmֹפHײטכױ¹¾יקסףר,צü‏ü	װ‎ּףת ױ צםפטÜ-!	כ*)ץיזׁ9רע** B423_zero_point*"ד7³<B	423_scale*¬B423_quantizedJ״½Ûסץ#3,‏מ‎חüרש תשם לגפףÿװּ״M|eÞ¼ֲ¯׳<Yִ3ÿמסכףüת‎ןT+¹ֶ¬´,<,;H®׳היףנ‏ם>
+<%Þßָßש
+ûש‎
+¹jִע)צ
+ZׁחJ§עא
+¢%;דVץ** B188_zero_point*"pך=B	188_scale** B189_zero_point*"pך=B	189_scale**®B190_zero_point*"ֽ’{=B	190_scale*4* B-backbone.model1.conv1.conv1.weight_zero_point*2"ןנ0<B(backbone.model1.conv1.conv1.weight_scale*»B,backbone.model1.conv1.conv1.weight_quantizedJ€@ר‏‎׳"‎ק‏נמתֹ!
+׀¾רקûס קחב	‏םצט)נüץץײרשûצÜחקÿû%  üÿÿכֱ‎¼װר%‏־)	 ףטַךמײ1ÊL û
+ ‏ ת‏‏שֳבûüלֹüףקר ע‎‎‎. ‏ÿÿֹ‎  ספ‎ר
+ף	5תÚ	״‎	‏$פ½תפü‎רÞי‏ û
+
+9‎B‏‏ץûֹ ‏ÙX'
+ü‎‏ת** B426_zero_point*"8ÿq<B	426_scale*¬B426_quantizedJÞױבû!ץB/‏ûÿ‏ U שüף% וDûÛצüת÷	üת״ה‎‏)׃9ץÊÿפÿ>‏ פ	û5üרת ‎נץעס[¹רסכ'‎&
+‏ÿ	[ü–וûÿ¯ü‏‎
+üüHפÿתA‎קש** B193_zero_point*"ף©<B	193_scale**B194_zero_point*"Ú״=B	194_scale*4* B-backbone.model1.conv2.conv1.weight_zero_point*2"&<ט;B(backbone.model1.conv2.conv1.weight_scale*» B,backbone.model1.conv2.conv1.weight_quantizedJ€לֿער.כפ‎ןתקבצ?ש1&ןש-צסםף+#םש		ת₪צû‏	ÿ:ÿ=üתץ װûדנָףו"¸ü ם+ײױוÿ!Bבמ .צ.טע=ע‎!;ע@עûוD‏ÿ)שףֻלושׁַ תRßף‏ש-ש	 ÿ‏ַ ü*טחס‏ֻלזר(ץל	ֿiןף2מ(!Ù8‎
+ Üעשףא במ´ּטׂ/ונ׃ץט‎‏	ÿH üץתצֲרקתיתnכ	שלץ‏Êײ)תח ם Ýרףÿ₪‎ÿ	ס;# ע
+׳‏ÿ+פש<צרצ8‎פר‎ÿ¿נש‎4פÿ) פ1דÛüצûÿÿםַץÿÚ<üüû‏נת צץû.ָסרשסגמ Yשפüשרûוû+ג
+יIע‏קß	&לזפü7üזלרÚסû=‏ז ûÿבקKÜצüקf‎6üך
+ûז	‎שU‏ֻû‎ü־םחחמטםיתהע#** B429_zero_point*"[Vˆ<B	429_scale*¼ B429_quantizedJ ךֿבקך&B$ס צל8}װK5ÜֱאAם׀<°%׀מב‎ק¶ב
+& תם‎ז³צתר״בףיÙ
+עױûתתףצ‎Úןßûדס°üקתשְ
+ש	Üוױ 	גפ
+ûפüצjÿüךעÜ ß‏‏"Lףרפ׳ײ	ׂקa‏ֲֹ״&מ!Iקן ¯	צפVצעי.ֵל|טִ#ßמüÜסם¾ר״Ýדכû@,שק˜םש¬
+¹יצ9ױעםאטÿב׃	Kפע—hעושß­צזÚײGy+עֽYֹתÚHכÊF׀ע פ** B197_zero_point*"Êֻ<B	197_scale**˜B198_zero_point*"·דײ<B	198_scale*4* B-backbone.model2.conv1.conv1.weight_zero_point*2"H…¹;B(backbone.model2.conv1.conv1.weight_scale*»  B,backbone.model2.conv1.conv1.weight_quantizedJ€	מל	.-ץץ׳E  שGןסװ	אצüנ‎ÙֳÞרג‎"ֳץßÿא
+ְ% ט•ֶםûחףתûי םץסץןßן‏Üראצצם	צסץ	קÛ קû\פנױÙק/Ýמצפנֽßדûבֻע÷סÞÿ ‎שױ ֱחץ5בר‎³קרװ׀סû"גםןץץ*$$ׂ־#׃₪?גת'צקתÞט ûרם	'מ;ֳûֳ
+תלאװפרת	פ1ס#צךתüוא
+ $ףװ
+Jנüץ׳'ץ%קנשן
+.־0מפüס׳ÿה
+û	*קםש׳ם יר¸ÿ!תחצ?ײÛטQÜ&ף:ÿÜוÝ3עֶי־ שץױצÛ&מתק±0% :/הלֳ
+דט‎רש
+ ַמ‎ץלֽ‏)שÊûןü¿³	û‏י‏ן!¾ûֿף#ûKש‎4 חסûיßןÿץü/
+ךױ
+ָח‏מת:׃ו
+
+ü	ז"ׁח¥Û	ץ
+ÿגכש‏ זנ	גײÚצÞ
+תפגQאûצחÿ!םûשÝקןױײקתׂעּשפ"קח¾‎ÿרûן
+<1קÙײזצץן	ץÜזüüף>!ד)ûִ*ד׃ÿ3ח׳$צ‏(׃4צ;בףכט$תצ(פ-ףü)ג-*ף ßכװ‏ר‏ה
+׀״Ýו4נםן7	ֿל‏/ת!ü‎קנתָסÝםב½,Ù%׀ף¶ÝÙ!צ‎צאךטפמת›א,	סûüßײמעֽהל <פÿק½ÿד"?לנףנץץץרפןÊר.ר‏זנשן5$ס׳H3פü‏כץAתÿולû9םתKפüֿ,זת7
+׃םרםÝTֲהJ'דפ2װז	נü2ְ	Þס
+ָנ6נבֽיװקװֵ	׃ר
+
+Üײ#ת@"׳שגױנ!Üק רםר&װץ	ûממץÿָפר&(רסם** B432_zero_point*"וG…<B	432_scale*¼ B432_quantizedJ #-$ף½נמןבת	פיקûP ם
+‏üתÙײת‎םûג ןף6#צ6סןגüüץֲע׳רזקÚצ`EדֹÙ(%ׂ-גצץ)‏י)$ֶע2%ר
+ 
+ÿפל!ןG#^‎הףןנפך‎, ה<'µסך«·ü0ר:´±'ק9םû	—Aךש]…1ב״ְינן‎טיי׀4׳.Ûֿ,#Ê4ישעׂף״‏‏כÛםלָץD/יץכאדשצ·תאנûױֽßםLו
+@ÿכס תׁןפ	‏דעמûÿשנה‎פßצ‎שת׃<ג¼'‎ס-** B201_zero_point*"Z¿b<B	201_scale**B202_zero_point*"ma‘<B	202_scale*4* B-backbone.model2.conv2.conv1.weight_zero_point*2"q ;B(backbone.model2.conv2.conv1.weight_scale*»@ B,backbone.model2.conv2.conv1.weight_quantizedJ€!אעאד Ù"כטףכû׀ןןÙד	ךֲצהֿÝכ-פׂַP0üתען/עױ װ₪ üסרÿ#‏טלÜü®מין>ך בüױWסםבÞ	שֲףÿעעü§ח‏	¬אשׁ!¹הח< ק* ûײֿעמµ‏־@׳Ý6קפצו‎	(ז
+DהÜÞֻּר"§Nת#"ûערÛüֻ)שüÜÿּט
+ץ
+37װּע	ע¦ם	ךגּעּסש Y״ם&ש װג/ןאׁ,מÚüק+רץה¦1 ךן
+ל !ועÜיײןFס"פ
+אG*‎ֳÙ:לתצת(תן
+ך5כ(ׂÛ%חף$ֿׁWû¬	#שװ4fז‎ 5#׳Ûצ [ü׳צֹ!+=$üת;ז9ּׂלû:מûÝל&Ù@שאכ/־GימüßÜ‏׃
+‏ûÿ0$ך¶	#קִשת!)ץ״ך‎׳נ %1ÿפקזנ
+ש-ײףÙ6ׂעז Iף0ךקהשּ> 7יי״ש׀ֿ	!מ!רמז‎6üסÛ גץ ַכ‎נֶ"גַןÞ02Ûדות"‎4צחםלתםףקÿ7Ü ױ7ß$זָרB$ק״ֽ‎ר ®ךמÛךףFן‏םÚÝ‎Ýד# %ד³ דכנ®"@Ýüֽ
+,ה6 ס°רד(מ³א־³30(וֽû כ׳קקÙינÊכרץÛ׀תנם
+גך‎ÿ‏üÙװûןתכ
+0‏@ ן	°ü -טץעÜזהר מ תׁשץ
+קלךÛÞץׁÿ44Ùףס׳ֵצ Ú99 ׃׃מ&Ý;$‎גטÝAךס ת6׀רדתׂ׳‎"וÝ דנ7Aֲי±׃גוכ¾םׁ	ע"ך״ֿש5ן׃בYַו*צלרףMׂנ/"ית0Ù-Nדצףל	'ßף‏ָידÝףץ
+ס ץד&ÿֶא*־ףךימ%^צÝ׳ֻיץפ״ב	üדכJTשץשתץ;ל׃דüֿü7ך)
+/טף ‏כ4כש ח‏תןßרמלנÛ´טֿ&*ש!"לןסןץמׁת'ÿÊ	צ ש+Ýךשן¾‏(צ1ב(א1<צ7'קֽ')ֲףח2%לÜה"1ק%:צהA#י  ‎'"ֽ%ת!ײטüÜ8װט?"ף	ױחBLןצאת$ה‏Ùזןdם$פפ,עüÞף|C	û<‎מÿףAֻתף׀קטנÛ'ץ#ָעןחםׂ*ז׳"+ֵ;״צ6ר'ָ5סֹ½ל	ֽA‏פורחל¥*וװßזײ#ז3·עעװÜלע‎ֻG‏רנ#¶‏F”מXג	K+‎ûÞ
+‎װךמÝM ־םÙ ÙÜ
+?ßֵסÞוױ üשףץברשט/°ּפןפß7ץז÷-	ÿצט‏ס,!û¬
+ךֱ ם_פתשGקפָי״	<:רַש ‎ קÝ‎14‎<)לֵ+װץ־&ץÊם)ק״0תüצ׀זדץתלצעע/Ùײ0û
+OׁךבÙו)נץ,O$"ױא? םֹ׃%!Ù‎
+ןü״8כ‎ע״Þּװ ü3מ<בֵרצ:ײקידב^עׂ‎Ûת½0זמששי ח ז׳ûןטכחOחץ&ת"û‏üשז‎ר(Úנ2ױפ*+ברקץ	חצ'לׁÞו ח־Pץדף@*‏ß,4טױםררֻ0ת׳ךY׀עגצ$שנ׃זüרףûס	רüצ,װךגÊמױץ‎-ן‏(ףחים,üךûסF)ן+ת"ןתפשד*ן‎>ßְןׂûÿ+ת¶״ש	ß6הÙתו;	!קû2üה(ג
+‎8 א+)טdי
+תסכÿפÿûה=פÙ*ח
+]#+פק8û>Lסׂםע¿נ"ך%ךי1 6תüט׃)קאתצֿ Ü־מ  מüנל68״ÿׂױH/Ýר&תûמו_װ״0ץזר)פÿל8ֳש]ת.3µ?û`Ýמטבצוûÿ¿¿/Ý-עסÙ׀צענםפBתז$3 ÷ע!ח)ÜüW ׁ5Ýע‎״־$צוü)דיצזלר\גÊ	¨חÿ ה06üהזםֲץײ
+מתשִ³ז)-
+פ/ץםַשלשך‎חסש״
+Mבנ3+ÿך=;** B435_zero_point*"Ý_j<B	435_scale*Ü@B435_quantizedJְÚ)א+Ý&טרתעײץםק*)"	כ ֽגל/#ך	Cֻ ‏״ףאיÚ
+
+עםפחרחגםהעWֿזתםנ	מזÜַ-־ÙÞןך‏ףלנףדנךטשערעüר‏בװחר	 4"‎2ֹüנC‎eכ#- 2ד/ֶצÙ־װײֳׂ.'‏;!ך!ץ1ציגהג׃׀ûםÞם.ÜÚJו
+]מ+׳ׂ$‏׃ת-Ý״¡w./·ןעץ‎זכםבכ$‏ׂצְקככרקRÊְ¸ÿ;ױה0ֵ+צודיססקצפצֳנ!־ü#ׁ.Ý׃ּש#% -.$ִּכ¹®ûשפ
+
+0־$ף•Üך׳דחדמשü
+טûצרכûכיףםהפףףקüÿ
+ +
+ר\ילע,ש "
+ץ'ßלְח"ב—¥2$#BגףÜתמÿ׀יװטלגף@*רaצו"כא!*פֻ¨	ת״הטÙ;!דוג5ׁÛ!ֹעא
+״יתֻÞ("û!״ֳממ8Bֿ׃יּף(%"נבֹ¨ ץ ך+בֻעÿ¼ךךעת׳הÚץיÛוךÛüו‎‏גדזפםעצסצ)‏תעסח¶כהז-üןֵּ‎** B205_zero_point*"ֶ7<B	205_scale** B206_zero_point*"ֶ7<B	206_scale**„B207_zero_point*"b0›<B	207_scale*4* B-backbone.model3.conv1.conv1.weight_zero_point*2"4ah;B(backbone.model3.conv1.conv1.weight_scale*» @@B,backbone.model3.conv1.conv1.weight_quantizedJ€ 	
+לÙßא
+
+ע‏ה "חדשר5‏_"1ת	ץף	יÿ¨1נזצםüÊ¾Ùח‎C¾Ê
+כוץס4%תקץ$ו׃
+פ‎'מי‏ױרÜהפפֶ+ÿÜדשהס9>פ	‏רז‎&רÜפמ°ה	ש‏Þ3װ;ט־צנם&Û!גÜÙרת¾כÞףךער׳Ýװ5סרױֱ ב״ת‏ָ,ך	ל'Nדנ׃,‏"ןשiךן:
+	Ýס'תסוß/% חונצפ!ü‎ שלִףתקטÝיט!'ÿהןחױר5&וÿמדQ	־0ק+״ז#( ט!פ.!ץÚתש
+חÙÿשÜÿû(ץקאין/ צח	$סüןרנpראלצוסנה‎גשÿַÚ.!׀לץמזטנֱ׃עBםת/סתשב9ם<¬ע9Ùü2נ1ץשÿֿ‏&Ýךצ2װÞפגש‏¦י,והסם÷.üü גת
+Ù־Ý»ב‎׀ûבת&#ÿץןחחףםü‎ּםûך‎1ר%Üג	 Û־ך	+‏¾K üפ‎ü#עÚ‎‏ע נ6קף+צ9׀6ÚÝ6#ֹיֻ׀#ÿםû!׃‏"ק9ךב)רü*ןץ,"חט@#	‏Rטפ־%ûת!מםֵÛתנ
+ֲר&%ע
+הסע>סנ‏ם ת‏דטנערשת#₪טןû'לגײ‏ûרS/0ח	ûים‏ÿדעח	ג	'י/־Þ שגקכ,מ‎ט?ß‏
+רח״ח&ק9Ü	ץרףם(םןאׂ לפüוÜורף-תטדזףקן*Üל)קט85ץFטפזנLiןßאװüצ@ׂטטפ
+&׳ט
+ÿי
+ײ לM צ+0׀(Qנףשםצש׳ץÜזךß‏üםו	Uפ׀‎רנןדדÜתÙןÝ	ןÝûûְףזט‎
+¾ûץÚ&
+מךםװִפ ÝÙמ%סכÜ׀3ֳ#זּׁÿאאןH ûל_ß)üüזü9ֱץÙקÝװבS_ף‏ּסעמ6פ° ק״ז‏ײלע¾מ ש׳/הגמÜט‏7בנרÞכצ«םיבי	ו‏לףח‎üךש.שרÙסק
+ ‎פÙ
+צ  û
+ך
+ר
+6יקל‎/‎<‎.'ר
+ "0¹$'םרÙק‎ע
+Û ®ׂפ	ף ךץפם׳ױענל9üד׃ֳÚ&ß	גזהüÞדרץףט/Üםֽמקÿױ‎ם5/צהÛףאשüאÜ‎כüו2שױ&שכ	נüשנסת סֶפ  ךß»5סÿטתךÜ׳³ל‏שû‏קנן
+ ÿק!זגצסףר
+ךרג‎ßתהריÜüMּÿף'5=קנק*ײָ‏ׁÿ/ובCלÚûפרDÿתחֿצ‎ כולןחÿפ2üץתל׳'ב$‎'ּץDרהםז ת!	ÿ(רמעה׃פ׀פשש%6רן‎ע‏צםשףשÚֿכהךרײ&ק	תװגÚA 	קנÝAדü$שÿׁÿזÙ*חױץ"בץטN‏2 עא‏דJ
+קקױ¸Cֲסז51Þ;ל: ב״'U׳‏Qל4ץ9ו‎ÿני‎%‎Zש‏ÿ¨#ׂחט‎־נךûןם&ותטכצ	רצד ‏û:ודןהקׁ	מ¥א
+ÿר$)Üנ*ף' םףהךךהÚ
+תס
+!ײ+ערת°dHַ5Ùüט9Üךשומ/׳ת6ח‎‎Êבף‏ÜֳÜפ"ׁרפ¸Úפס¾םֽכר‏+יט‏ÿסץ#	+ןÿ9רתכךב !Üָוץÿ(°²Üטָ/דא!3ם 9ׂ	Ù5רצש7ÿקשÿנשסü#üאױ(ֻךמכ!טץהדגנךלת5ÝשהעK_׀ךאחתבüנרCלקץטִז1eעןדרם ג	י׃A‎ûYûראף׳לץÜÿ׀ ףש‏ס1	ÿ
+ ûÞחװעע‎ÿÝשלעתץ‏)פ
+׳נג(‏ם
+ןצ,Úנ=פ׳רזױ‏ךטפקגוח&ןÛךסÜא:$בץפ$¦ה־הםûת‏ûאםםפםךטכףץלֻףכשüצך üץ&	#1˜û 9ת28ֿ3עתאûקפצ¹מ5װטü	ׁעֵ#;פ	ֶ/üüף%!י¹ÙÞ%%ûûüיוח‏ב+שחנ ף‏חףPרס4תצ.ל&, ׂ.ךקפףײÞ&חה©+פ'ע‏ףפגח6='ÚבכמבספÊפמ/ûÞ@+״"עTר%ֶױ# û‎שק!ם־צE.ק ט׀‏>רק1
+.יױ!ףגּC¿‏ןףט(!נֿתֿÝ-
+כ
+ֽג(קטץ.	, 	ץ‏פה8מנ±®-רטלע‏K¶'עקעÜףקüתרÝחüנ.תלÿיָף/8ףJAי 	״‏ץױנ@9ßחןתממוÝנû"פתק
+ש/=מ‎ÿ/3כד!!ת׀חב>עחה&ףתüפ״ן-3געגû
+שÙÞשץ‎גות
+ףץ	רײזװטßד½במû‎ףק Ùףץצץ$½ד"ם‏כßü
+פ¶יר‎ףûפ
+‎יÙßת	ק4רנת<ßןזדGםד כץת'עפותעםת/‏!8ׂüûüתך"	בעײÊ›ץ תה
+‎מ/נָפ‏חÜפםן׳"ספעףנ‎ױ'ץף )‎ֻא¹׳״ח&פ	וט_.+‏‏ÞBת״רֻתךץüÙײ)ױדץםַרßÙ
+4רü ¶$מתךם
+זױפסû
+קת54ןץג‎׳	 ‎ק­מ û%סÚ״יגקכח*‎%ÿת™ץך;üִףaסײפמ‏ֽ¼מ ‏û6ןֻא
+ק&ך üשü%ֽ ֲ
+ײ		צ	‎	שûס,&)יפ;חÿ!ױû	Þאףשצßדµִ	דהױ/ללמ%ûמחüOֽ*"ֶ  üמם ûֹ %Ü÷ûײװם%ם (ן"פ¿¹ף‎—×§‎צוןףיJ¦צע /;L$	‏‎! ן,זצ¨,Þ$°ׂ‎¾כÛדך תלףÿÿ1ִםרךקOרûטûֱףרך	ף	תחÞ
+׳ףנ&ס8״ץÿÚהםזמסגחףרֳ4	‎3מ*ץÞאAר	ק‎‎בםסÝו¹ Ûּ׳־מüש4(8צÙכיומ
+זזתשנש%
+-ÿ$%2צד‎üכ;טכו‎3רM)1שתםCש!ש‏ֽש5ײ׃5ה	הנפ‏םֿÞÞÿ‏פבהַ§%בקטו#אג מû.ן@ףפװםזקÛגק ‎©קַ
+אש<פ ז‏Ùÿ+ָ,ÿ5#'2בלנ%» "שיû (נüֳ
+ט:־װû-ז&	ננםמפ׀ש
+"נוײצקףÞםושע‎ֳÝDגCֽ3ת׳ֹיÙ/ד‏ֲזץ‎ÿם ÿ1‏û2‏״סך"ûÚשאע'עתÊטÚֳüאß$סײÙךש 3ד%ךעׁ; לתÿךק‎ֹלÙפנטזק״ע(ק"#ב׳ Cûת Ý,Üûכנûשק!לץֱע װף$ש
++׳־ןפ	§&ח¸ףת׀‎תד÷תC״םüפ׀ֿ
+רו״פûפ־	üüחקÿÿממן&ֶץץÿץקטָßרכצבצזסד8
+ףÿנףJק‏טלכ קה חנüקûך»ץףרָדאמטָּüצ.דיהß/‏Üיתרה0כ‏מÜÜ¬ה‎עוזפÝזעשץֽ$SץגÛױס‎ךקןפ ִ‏שױװו‏ר¼Úםןûל' של+ג#	¾מ״צא‎רץ	 ‎ם ש=יףûÿÝ!ÿֿ)¥	זÊזײעכך¸‏זשÜ@&ÿםֶלתÜדשרûפ'רשÿלֿקסצüהüןםטו נכצפדחמלûנח.פטנ!זמÿ)ױ	צLעתûXזנרטרהץפ‏µûÿוץע‏םתׁüקרחÙרםקנסןûעקÿץפÿג	ûßש‏מ8צס׃ ** B438_zero_point*"רc½<B	438_scale*Ü@B438_quantizedJְרץרקר‏ֿעü(נשתÿיֹ+-ם׃מןBדצ)‏קֵ‎ךתש*‎ןחÚוÿמנץףשםצר	ףQÚװק
+&דאת	Ú %.צ(ש0Û üןצמע‎הרש
+‎כץA,\עûךüסµ‎û8!נ&5טה ׃ס.¾פ ״$#µפ'פ8#כ	Üחצמכ ûפןב%אםû‎כתםףבסןףאלûצץ׳ׁûת	$נחמ‎זירÿתזÿjעח$Ùר
+‏לןּֵß	û@ק	קצשÿûר‎נץשֿקקףזף
+Ûנ ׂק‏¶üû סקüַךזÜׂ‏'קÊר	üר"!ßץÚכ3‎חצםןס ע‎ü
+פûÜKÿמ׃ü‏ ÿÿמ׳0
+פ‎ü׳‏מ שפרשת# ל־פ	û¯ץסיץה‎Û#ÿתפ	עקÙפüÛÿם˜üגחמפ#ק,+(ת)שבגןמÝפסר%החÜüü"ףלך	םנûְׂמםH'
+כװÜ** B210_zero_point*"ת'©<B	210_scale**oB211_zero_point*"¿¡§<B	211_scale*4* B-backbone.model3.conv2.conv1.weight_zero_point*2"L’;B(backbone.model3.conv2.conv1.weight_scale*» @@B,backbone.model3.conv2.conv1.weight_quantizedJ€ ‏
+ףהÜ
+<ם׃ÿßד׃û‏$ß1צממחיקשך+‎ קד'ü%ףוû‏יח+צÿףü כ‎וצן½ש״צח3!	ûרז!ש¿ֳü ÿהך תתÜ‏לראüûסףÙץ& שףחטזש ßיק״ל
+ûןך	רÚרומüיםףיÛקתדורץבײü׃פך עס ßקÿ‎תיÚÚ
+מ אםקף#עַÝן‏ֻדרÿ*מטצדÊ&‎יאֽגב־סÞצנÜ
+עÿךּײנץÚֽתךחÛןÛ
+Êÿ׃סוךךײÛה
+גהשייהקקשנ/ûו תנ#ֹÛ׃"קך Düדÿג‏שֻםסÿזמר	ךפעצתש"ûÚ	זץר הךס
+ףJןצ?ע רכא7
+M)אמשûםתפףל״üצבטחÿךא+ם$הפ
+נÛעÿהץיי+ÿװץÜשהÿ-=ׁיכÜנםûןג׃צן*ה‏חג#%	מחûרֶ‏"ֲןדזד"ק?Ý מ ש1% נפכ+ ‎מגפלדףן1ק לגםקü עתו׳9
+שע‎!תאכך#גכÛחת	נ)‎ÿ +מנר‏-שÙןומעממם0Ü(2ףßüתגסקףכÜס יֱװג<2נו#ז(צע$Þÿ&װהװ!#ֻ‏וÿ* 	ûפעו "Ú‎üפקÝס
+קרענכÿפנÝ אûעע#	רז Þ"‏ֹיüûקדפ׀	עüב$ואÜüüשןß
+Úÿ‎ק ק  
+ז שהûץÝכש	="*' ‎Úבאףצשזß!‎קü
+פלםÛשÚפפרÿת"םװדױ	סו	ט	ף‎ףו
+	üÛ ׁÝא‏נסך‏ûם Üנצ0ü‏הנישפû׀
+ץ־üתב¼כüףע%‎ ûÿ	‎EטÜצײשרע ÿד
+ךץץנז‎ ֳע®ר$תנןסשףבל<רשÛ û=רקם	ß,חפםט‎נסרתל׳פתם54ףץפגüקÿץעשמתם &ע׳Þס
+<‎רׂ	‎/ÿ	ע
+סûימ"צפ ש‏''־וטüû חכץהר3ײפֿû. ֹך‏בל ןÿםה(װרÜציכû/‏ער	צעסÝÿEשפÿ¹״ץ
+
+"ם
+	אףקמ #"
+צ‏כבׁ
+צרü
+סÚן*Ûכר	מי׳תüי
+נ‏פ‎כûףüÿדױת 
+ץצ+
+ץ‎
+ÿץÜûÿימÝעןמם‏ׂלû7Úיÿקךתט ףעהןצעû‎ל‏Ü‎
+מ6 Üû	קה=ע־"דזץµ לסר׀‏ףüüßחמעח  ‏ִפÿטÝף>	בם,‏שמטִךֹü פרüרףÛףסל‏צ נûצפ Üנןüצסצ־ÛֲןױיÿוÙקצך‏מףפסבעהÿףüû5ד#צ!למפ­סםץ$.Þ ü‎ûס	ÿ	ׁרוÿ‎‎יר‎ßצח
+מגשרץ
+ת	י*שÞׂך¹!םירױüקמסםךת‎צÝתשפסÿפנ$‎üצץרץבÚÞûק(עףר‎עכח/לרקû$ןםקןזנתרגד‏	קÜ(	HÚנןעקהשהכ'û ÞÜ
+'‎סה‎ס מ0$
+ װ	י
+%שלקץצבקק
+ךף!ן	‎
+תפלךנ3רװ&‏ ÿÿלתס
+קםן
+תּםסßר+נכü"רטבÿ
+נרßû
+ע׃דÿ)שז  ל.יקזüÜ ‏û":מעושקטûשעהû"	ממ-
+ך0üûּ׳8ק&ÿבץûû‏כס‎
+ית!הüּע 
+ûתû‏תüעףן׳ףÿחÿûל ²‏אב!‎
+üדןתמ(ע
+ץ&Ýצ‎קז‎‏ךצ¬ םוץןבהו‏Ýצ)"	ץםךזז 	רּם‎שתקה־״û!שף üםÿ'ÿüÿÿרר‎םך ץû*טÿü
+טüל׳צט
+ נף‎סûףבü+# 3םל סÝוש‎ימ'‎ס	
+ש-ÿ%מיÙמ	ײֱן ÿÿשזױסץו׳‏שß"נשהß
+ץÿכ"פכ‎ 
+ץני3:üÿ׳)נ3ל זשÛûֱ7ûü5ךעB	שץ	ת	 		פ‎צְ‎ץסü‎ שתחפû	מת‏
+קÿם‏ח#חסÊüװײשײû ץק	י+שû״
+)%עע-גת(שÞÿץ7Gÿנûיüגץ2ן 6H	#.פגץק פסק#ק‎+ÿBשט 3נ,ר׳ץפץדז
++
+!‏צב^Û ־$Úםנשצÿףר'*
+ה ר*וקגלעשץֳ'ר>‎נׁטÿכ׳ֿׂû(תÿ רטׁ חעקקעף געÿרû״ץÿעמײ	בקüמüקצרף#לק.ףכתסףÛראחץצה־2ס‏$ק	װֽקתÿקü‎צר$ûחךÞ	·םקט
+Ý	ם&ׁסת(Ûץצצע3üן'הßצע‎׃)üשüü
+‏דת‏בזÿÜףגÿזֶ¬נקÿÙתףעץ ט
+Ü‎נאשנשכÙע"ץל
+‏ûרברגיחגׂץןû$הףץ קןןגזÿ‎י%גצ&זוסÛקןקֳ‎ נּß
+תטקװףûװ‏קוהײמ(לו	ח"מת*ץ‎קֻץןף‎ךסג׀Þ/ûמפ)ררחףÞדÚמקזו	רÜןסמװרץמכשצ‏םת‏ ÿםתßד״üךנשףרüמ¾סט ח‎עג-Þגÿ$רװק, ןת‏/טß"/‎ב"עü!רÞסטתנץÿ והזß#ÿ ה״פ&שו ÿשצÿ%	ÿתמ לגדÞ
+ן״üûע		׃‏ß#ףו&‎
+‎ףÿסת1לü%ץיÿ)נסׂסתש‎נÛûסזû
+כל
+חךנעüעהנפ%‎פטכורי‎#.Úוÿסצ.Ûצ"!*ת ש!ּלײצרףצככהÿרג%ץל׳ן/פ׃ הÿ‎‎תגאÿצעף
+סװ‎צ#ףט(װזל‎ מףû"
+מDפר'ושÿ  ‎*פפֻת!נְ*‏-בש״	תסץ'פכ‎י$ךכדוכסז
+ק
+עכÛװפחשל1דÞץז	ÿף%ינÿנתÜüר*4‎ק$ש צ%רעק ךÿנ‏עץקCûצשמ צעפת־האצ‎כ‎יׁד	לישÜפ׳#ע‏ױ‏עקםÿ>םץרנÚוורÝכק5ם	טÿרמצקחרעדלÿךגץרנטסÛ4ב‎ף״בשױÿבע‎ÜÚ(ת=זק‏ÝÛ	ף ‏ץ םד&ÿםםץהכםÛצװ‏ßךÞüהץיטÿכûסÛהמּעכתזעÙûÿüזלûפמGש	ץז
+ף/ןרשלüÝמלתח #אצ-כס‏‎ךû‏ûÛלןÜ‎פÿףַüּץדך.‎	י#ך‏פפָת))ÿ	ÿ;עÙ‎ד%ריר"ק׀8‏ע	 וÙןח‎2ÿעû	נשףל‎ק
+דֱ‎ף)י	עתץתץשÛע $#תû
+üÿק	ש
+ 
+
+לקכרעע»ךבüüü'פû#ק חרךץע‎‏נ‎יב
+** B441_zero_point*"g<B	441_scale*Ü@B441_quantizedJְסףרזלתרף
+ * ק+ףם *‎‏פ‎"
+ודכ‏ÿטÿף*<û: ץזתשזּûßו 'ך6,ßסÝםנםעץןתרü
+טת™ג'‏û
+¨ ׀נזךכ		
+עצקוכץÚגקטךד1K‏’$û׃נךצ‎ף‏ףסן כוכזש, כץסקע" ןעךףדשס)Úנטפ	 צ לךüßֶÜתעש8ס,רסףפפ‎ףשû
+%ûסעüנעüÿûץר‎ÛחÙ+"‎יַתישנüמׂצביגתûץנךץגס;ק¥פיןüנץנ םןצאל‎קצמךץחטתÛחÿש Ûÿ%™ל,-
+
+
+		!	  (רMנטü	%.תü ץזüצס‎גüÿעךטüצהצלסֽ‏פÿ ןױךחבםנפßטּ¡ $ך& םץױעמÊ0ך־-ײ/
+
+
+1ÿן7אkûÝאףשץצסק‎פןבמאש ‏¿ב@צ.** B214_zero_point*"׃‏«<B	214_scale** B215_zero_point*"׃‏«<B	215_scale**jB216_zero_point*"=G<B	216_scale*4* B-backbone.model4.conv1.conv1.weight_zero_point*2"¬[;B(backbone.model4.conv1.conv1.weight_scale*» @@B,backbone.model4.conv1.conv1.weight_quantizedJ€ מ4§תנך	שי גנץיץנע»חצי‎ןÛ‏א5ת,ץßבףךûמü‎®צַß)ך׀üלףÿשׂ ûÿלףüAעûÜ׀ץײüמש'ץך4צMףן״ק $ענה‎ׁטצ!פ	ױ‎	ר1ן0‏üÿנÞםל 	ױםפÛףכר)‏¿םü+‎ÿלרלגµחü‎זקכ'פנסקן*Üזֵן׀ד	מÜף
+Kן%צ !ץֹץץ ßׂתתלתüüטכ*ÚûTצÿשת(קּדתחֳךֿטםקשנÙÚ#	Ûפצםֽ"	מבמ<‎םü#הֵ# üַתדֳ‎*תףüף'*Cû‎םזהזל+׳ם!	עÛ-ûצןץ	&,סÚצרחחüן¶ב%רüךפםÛ‏
+ß8$ןßÿÞ@	ÿ"	״) 4Ü2סה,םפBׁנE־עבך8‎ûצםתכִ׃ףפץגüüם-"D‎ײ"Ùפ
+גCַּßß׳רם׃VÚֶûBןBצÿףשנףקÿהםף‎ּךü‎ִמױיûדבÿיֵ´Ùל/״
+/גץ‎	ü״ןו‎הצינצֶתֿעש	!תÛחצ0ךרט·בת:)עûסףנאוח0גה ÿצנ "ûסûQUר
+%‏ֶק.סÞיגר‎ףז׃ךSדכֳ2טûׂûרפץזף	ÿי±3:ûמיײץלע Zûטָ	װ3+תגג!:ַװ%/"+ו#לֿüע
+¼ץיהרÙ¾Ý"ע׃üGץ"3ןû ֳספמלצתקךם+ף%רש‏י‏תרדתח 
+£ץÝ" ‎תרÿß<ם)ץ!כ (Ûן	דüתץמכןÊ!ֿÿבכÞÝÿ&û*תװÿ¶ֹנÿZפנצף		ָÿûסםנקםG	םנש
+ן¼
+ס))ת.
+üֶüוכC‎זפשתױ3ץ#שצ	סMזיכמחףא	*Ùי;פÿ‏ק‎רÜ¾ךןםץהעלû3ז ü"תדדֻ־וÿ©‏	ׁתםאÝךÿרשצִÙ‏,û1יÙפזטץצץ	Üמֿןןעְ¦זשÿ קתÿVû1נר‎ו‏	ו‎טÿ% ץûסת   ת״ם תך&״״Þֽ©ףןצÞ‏ֹׂףÿ :ם#	ü: טלל#נר'כדףר»
+ !
+יר‏עםחנ סüאץר+‏5&ֱÛףח׳רר 
+ףיû(üב‏צעךßר	¼	־״ױÜüץבש% ÿ׳ÿ0ףס¹ד¸$%לר	(4"װÿר׀בפß *יזקÛן0
+תָ	ףפ%י	טרטû+ררן# צאף3	2פרנט*$ֵעÿנסוקץע9פ	-נוÙ!û	מ‏סע	Ýמף	ְ׳	ץü@µנכם
+!ב1Úחרקר>חמ* װףNü	(ü"עÚ	נ(ßגסס7Û7הü״ל׃טÞפ 
+זכסבטמפש!׳ךJV
+‏#Úÿ
+גצמת¼תÝן ‏ü;­%פ5ױמסרÊ	ש=	קלטל6¸יעע7װראק
+זְDכןדFׁûת׳שקם
+Ý½ü.
+שן‏&ך)ÿûץײתÙû¯( קעüÛץ הÞׁß0ֹשüüזֱלü ףןֶ׃ֽÙ‎8םס2# ÿסץ
+Þ‎ִׂאÿ,‏ך
+ֽנם»(%‏Üםף'ס&פש"- ײ
+ע4‏נ³ ק-ע‎ששהד פßלUû
+צט7חץב
+!כֹֻב	,Ùרׁהדס(ץEג)טךצֹ׀כ
+פנ0םיÛׁ	צזüüֵ(ל(‎עûףכוüץירכ
+חיÿתבט û"םךÛס
+ÿס3גפÞשק שחT	40רףׁ2!‏ÿ׃'פ‏ פלא2ץ‎שש¿ ן;‏»שנ1ס‏ךüךי		סûלת±ֽאתÞש,‎קÞ5מאאית5מז‏ץק‏פ¸	!ק#!׀
+‎ 	
+ט]ßש‏בüעף&!.ץי© אÝםיגû‏‏Oץגס יענטײשתכ ü‏תחֻץׂÿץש6*2´‏Ûר#ּיל״'עלEט"
+û1+%מ0ץפלװßםÝüֹזûûךד%ךלֻםוßû#סÚ
+י°Ü÷ ÿ 
+ßק9ֵ‏*פה$דפÜר ץׂF‎4כט
+‏נת"ףהד־$8@<לנ7ץףֻמע‏ûד‎¹üמקûע# קˆ¿ד -מי'Þגסץֳזנקק#%ֽ/G(&&ס!#  וûנÿ
+ש"ש
+"Üû מת	.פִק/װיטכרס$מו יק#װזB"קוצ1רקע=÷תü$ױÜץ÷ ץ‏פ-%	חֿתּותתי>גף·&סרÿש8‎üÿ‏ßףייפז׀ר/±מ!ר4+םA Ýü‏ûת!קצצÙןÿÚץףאÚÿ	ליûקץככü	ינר:שפץװׂ
+ֹלÿגץ÷חûםßחיה-ײG Üג üותי$ר״+צ‡ַ!װהס‏ֱ6פּ4Ú=7‏נגײ‏שKֿ@פֵ״4סע׳#׀ûז׀ÿךת ָץח;(ס7ךו8 ֳ?רץש(קקÿע(רףûשתואב÷״ף‎ן$ךהßבה‎‎וÞױׂh :6ִ/Tי0	עÚ‏נזצֻּ	רד°נתע&¶״ÚÝû‎ח5ֻשה‏ן	תציף׳"4ךֽשו%קÿתץ#קMÿÝק
+ûבקמצüם
+ך(½עÊאש¼"כזüגû‏E‏ט<װEÿקגס$ßקײÛ
+״9ׁ‎ץ2[ץזעÝדחÝ,‎Ü׃‎נמםץר
+פ	‎׃קל
+"üגûיÿ‏ר כז&ÿ‎מף$ץ&‎ףCר	ס$ûב1C(ףןעִףף4ֱûתגûÿ(זי ץנ#).,תÜ
+0ר‏ 1ֳG#ינר) ץG‎	 'שÿׂה/2!1. 9%פ	נף)ÿץüן	כרי@(‏חÿןןf@נ>סׁ
+צזיק" ü %üן%û‎םÿ?üלÿעּםתח1 רךפןיפײ@׀÷דחםüקקט»¸ßעשצק׃קûû
+מפ‎ל״ץששיצ‎	דנד%& ץÝ‎א´ע‎ף("םׁ
+#חÜמד!קץ*‎$ü‏מףג‏)‎ׁ¬üןÞ(־J4פמ ‏טג׃ףזֱÿצר,כ$Þשךכׂÿ"׳Ú$ףÿבִֽִת7jו 
+²װתשב¿בוÊץ*,	‏û6#¯רֳדדסתּײךֽµ׳(תץכעׂץזוח סץ‏"ץטףױ1ץתש‏נÿו-ׂת׃ זץלײןןו*Ù-סÙוÿמüצאת	םר#כû2¹	םצ	צ׳׳ןא‏Þ&ל ßל‏,Qהרü&בשװ‎חינüנ‎טחחß כ‏שיפי תתש	(‎ß2וß ם‏ßתכױ (חיÿו5& Ùkךֹךשÿפדû₪ש‏רש	ס°#ÜûגץושÜÿ‎׃1 ׂד'(ךן%µÿ׃‎ז׳כ ץ‎ג‎םמָֻ! 
+ÿס+ףÿ(פ:&גב׳ר 	לÙÝ
+כ	״ץ‏׃¿ֿ0כף"ׂBת Úףקװםמא‏שAש?אÿףתםס*םÿֿׁץÚעףÿü)ךצ‎#=שחצü$ַ+
+מ	שûםכ¹ֵ	ןנ‎Ú!"םפ,ףױג‏ֶT0ִץנןÞש‎ף
+קןַûקHûאם%ךף‎ÿמ´ו¿‎יûעמש‎5רֻץשלפ 3ףםüÙ!סג6	'ם»
+ü$מתף#ת!שתזüףריכּ‎&(ט‎Û¿ß‎ע7צױ:2סûםÙרשÛ״ÿת״ חחטÚ)קׁע³‎ûט‏Ýרר ײֿק‎Ù ץדד*;+פקם5	,ן&ויףש״ׂ 9ׁץÙ״Ý'ü׳ץם)ֳפ‎/Ýשûךשֲ‎׃מט4/‎** B444_zero_point*"ֲiֳ<B	444_scale*Ü@B444_quantizedJְַßִ û/,טßד$־מ	üÿֱ‎ûÝ"י,ְÿß	Iü:ײרף#
+לטל ־ סךפךו
+דÝש׳א׳מD	 קק0ש
+‎
+!$94ׂצהפתמ״כײ®דתü‏תשSûתר‏נÊזשüֻבלען%$#קÿ¬ײJת
+ ûMצרû/üד׃ּסûץ/)שֻÝזװ&רפ@ßּײ¥תושםü!ןף¡נהװהכµÿן3רüץüףWן6ר>	ף9ת*	,פף«
+‏תÿתF‎צ‎לÊש״&נ%ץהױצûישףרש8
+מ חֻÙ
+לü73ג׀ײץװצסSüÿע‏שס ת6Ü£ ץ¹ֹ 7üרH
+.ת‏ל
+"׃3הß‎זםה‏ײמצרז#מ‏=ם'כךקקעןנÞןר+1 ףרל#,0‎!־ר׀@%ך¨מÙûצ	‎ּײק‏3ü'3‎ױךם׃חעםםתÞ ‎4Ú¾1דמüםף=÷קת׳ו=üÚ(±י(ץגִסוûשף׳־יחÙ7%=פׁחאײLל ץ‏ק((&תü)** B219_zero_point*"÷£<B	219_scale**…B220_zero_point*"lֳ6=B	220_scale*4* B-backbone.model4.conv2.conv1.weight_zero_point*2"z¨d;B(backbone.model4.conv2.conv1.weight_scale*» @@B,backbone.model4.conv2.conv1.weight_quantizedJ€ ת5‎6'Ýסנ‎ֽ*בצû׃ה1û ׁ$1
+׃ָ+ץÿÿ(צפשףבÝופ1זÜ״יתßרץס ß#‰ "אü.מ¸ßשץרÞלז‎אע-ץ‎¼‏¼ןית‏ÜÚת‎ֹככûק9ףֿ"ָאÊüףֻתדüך(תÚ(ףû‎²ק
+	.(גמאû	‎ר ‏דֲÙתדס
+ציףûÝתÜףû נ‏ֽÜיץßפתיחיףֽתיץûבû־Bÿ‏@ָׁןי3נûקת	ם$מ$שֽפ(ש7ֳ״ כֻסדםרתMןÞלתשףÿÜתבת	"סÿüÿ"לסככז‎%ץכװ‎!ענו 
+ףקדצ‏+ü	סצÿ!ךRר‏ÿשגûֲץ:צנ	"÷‏ע‏ׂגה&נ
+& 3ת#Ü9ף‏ףû
+תÿ
+קûעף‏צןÛ-¹ûשü+.יחÿלףוטÊה!‏ג»ֿ‎9חûןסûצץס =üקן,Þןגפ'ל%/בF&+‏ &,שן&2חת ה*û**פתüדי2ג-üת0#
+ לצסםשûקgז
+%צישפתםסקךשûÿװßסע‏ ס׀‎טמזÝüס־ûן.ßü‎וש‎ךעךסקגûלצ"‎ןי	Ý-6ך£עÚ‏כףûאEםׂדÙקײףÝורל&בס	נÿ׳ח‏ÿק &&(**צפ׳7&קס4ב
+ÿ +'ךפאüÚץתןI‏םקף&עק‏ןÜפתױם‎ß‎‏üו*"‎ûסףשצףס"‏לצפ8!‏טיהעEכקGנזצל
+ ץױ1יחודהםץסםת Þףנ¾ּגÛפֲתÜײÛׂי=צת²ו@טץן%%זÊ‎ה‏ס
+ח׃ ףקß¾Ù‏צ‎הÜÿק"ף÷/ג42- (4פלׁםלכתחײ4טצס‎מֽ)עלף ;חעןנÚ‎ÿV‏
+‏ןיס ÛגףקרÝםû״ב-טü רלךתÝüר רדֲס
+מ	ז ץ+ע ש רנזֵ ט/ךר4® !שװדחן׳6ß‏ץק (û*"ת.צעקכÙתשםנת‎ ךקץשתףßצÿ׃ףשÿ$ּזÿשûת‎עצצשה)gF'װךע
+ץצ'
+ט*¸ßÿ ÿÚאא•״אגֳלרבmץץיßג׀ûיוֳÜ#קטכÿָÙ#וָתגז"קפרץצפ׀
+ ת=מו,ףץ‎ÙחÿץץׂÚא0ץצנןש‏׀§)B$,א1ץJ+ן‏ךT
+-ףüִץ1עכ-גפ¿#ה%‏ץ‏ דÜüםמÚך‏
+Vûק״!$"&	עחßסבÿר+#ע״ü!׀‎‏ טףװןנפ
+רףכÞ׳ סװ‎ײנ‏ֳךנ$‏וןָÝ®ׂסÜרßףש!פףאפץנח‏WעÛÝרצץßצק
+ûֵקו»ףûּ<טט ם‏1Üף"במרנ‏ְצה‎הר׀גןמהüû$ש¿זüאןשרמװû״ך‎!כםן‎ß2סכז!הֱסחי׃
+י
+יװשÝעםףXך	י1ֲש)׀‎#יוךץÿ2,ם"י,‎תרו-ץךױמֽוש=פü&צכ$Úא	דפפ‎ר‎נכףÿכםÿף*ג#	קאÿלֿ"ׂנ	םםײר‎2פלזר¸Ýת#ףûחײ+&)ץ
+üש÷ףנעשגּ	Êַûÿזֳוֻלהמףüע.²4 דלץפשץֿûß)נקעÙûÙü‏ףעף־Êקׁסצצ+®6‎ד
+$ם	עץ ÿ'ש
+û נ‏מרץת" ‎יחקקד Ýפונ‏סÝ -ױץ=ֽטטףÿÞױךס<ׂÿ‏ץק0‎Ú(ת!ת&& ך;מÝלץֶןרקץ+װטÞ)ם û‎װ(Ý("0)יפיןץ״ת#&םשצָÝß6ק‎0(‏:üצֿ־פ״טץ&סÿ‏ü)ם'ו¾ץסנחOÿת/ץת	תגששדט׀‏ץ‏ֿרקםÿטםֿרע¾ץשתûדמ 		ץÞניתמבת‎־1ש6זעץןפL9ן0ץ!דשÿ	üזסFרךןײ‎Þּשו-‎'ופÿת9‎״$שר"!ןקי7ץה5םץקףג	ÿץÝ#2&ק ס	)ןקתÝÝד=ױצדװע-ו±ק׀ו+קחכםצח"ûעת&זחש‏שBּה
+!קצצץײÜ*כ-ִי‎׀טיי-Û'	ֿ4כJנםתֹ‎כבש‎רֵ	ׁוהפ-‎ל־¦שֽ‎ץק‎צצץÙÿגÜ Ùזאץ‏ßע™ךדץ‎כÞץחךטÝדץÿ"ÞייÛ.החטײאטûתצ!צנק*ששנקךךֻ/ם@‎ׁאףקו+ מ5ג4יקט)״שÿהאעÞףכױûוÜסצ!הװו
+¾טשם Jפעצסןמ‏עü‏ךס$י&ü4‎"	ÿ‏'ב¥ Ý:פÊ‏=בלßךÙצנ4ײשנ	הסכֹרׂןץסץ'םךסץEו‎ זµ׃סװגקהÜל'ׂל‎סרכÝלעשנל״׃ûצס1	‎yןבעÚשטûצûץßקהכֻטכÙפֳ
+ר(Ú‎& 2פ‏ßקא  :םלץגבFÚד	$דׁחרע&"ÜךG%‏üב&ֶא &ûÿיÚלעב-ח«ß 
+Zפ?ßכ עףרüאׁגץנ6צר«ק 4צ	‏
+ûûhÿûחבÞ
+ü‎ץץשך‏סû 
+ßV	ק%כֵט#קף
+¿0ףןג@4
+גש
+		ßּ;.)($ממשך	רפ״ûכף'ÿûֲץנחח$	‎ןץם
+ײ‎חלה.עֲִישאו1ֽ»דץכÜÞט
+ףתֱüסנ'üת‏רה#ל‎א׃	 	שְףֹףÝ ר(3&נ׀!כ&ü‏
+ûÙ2תם!הûעץÚ8נתûרÿ%ר""‏,
+קÚקד#,עהִüץ,ֶ(ßץ*G  רֲׂשץ²Ü	.$זע1פ‎כןדל Ûֻ6אüמ%ץ‎ף‏ Úץ"Ýףןÿû"ד עה‏תני״ףûױûפüß×רוחÙ)1תנû*Þר׳קךףו/Iסל$׳‎ה־ף¯צ‎¼Ýתמצ׳Ý.Ûי‎:ה‎&ׂ0קהףעֶעלÝיןפנײ
+אÛחû‏5üמ+$ 3ü»/ü
+במפק!ױֽ#צ
+רÚü ‏»	ה%7תכÝצ"'‎ןעשעמץכÿ¾ץלֿנש	%&צ",³'‎) Ùםכצףישזûל
+חט-'/*יח	מ8צהר)‏רן$"ßכ1ןÿ״Ü:"1מק־ם $Ûמ*‏	üח$הד@-*ûפ אטכל(קסרה5¥.ץצץצָ	ü
+קÿף¡ÙÞעש	ת 
+#ת‏ו‎‏צ& ‎מ
+חבנסח‏ש&&ֻûאט
+ÝBרףüסÚüהûß
+װג,ûסֹלכ$ÿלרז‏ü$	ßׂשÛ0!"רױ׳גתףû‎כ7הדאÞשÞמצמ כ,Û	û*נ%׳ךטּÿüר "סלב׀+גת	לזצך5 	ני‏תב וק‎ֻ 	עגÜ
+û@םלÿככ-ÞÙפהעיפץצÞשתץֳצמ¶ןצׂ&אשßÚ	ûעÚטױ
+צרÜד8קÿÙחג%ÝיO‏¨»‎קץ>ֿ0Þְנ תםץרט(‎"מֱמףרשû׳עßנ׀ÿזבע
+קעע/‎ֵסÞµßסמ‏זüקר	ף
+תמ!‎?׃׳פזפ‏-רךÙÜפ"üüת&׀א	עÝצ** B447_zero_point*"IÙױ<B	447_scale*Ü@B447_quantizedJְ‏üÿײגÊכשף‎נֿמץפ‏לחככםעחסז+üצצײÞדער#ש ¯ץנו•
+פת"‏סףפנעשמף7$%ÿ  $Kעזר׀יÞו' ו‎5$‎.+רדֵÿגױצCûפ‎
+
+  ‏‎±£ַ‏פנשץ44תךתל‎נםנזץפטןפÞםס
+כמךג‏ûÞףע‎%) ûש$תÚBד2ז׳עחןüןךף	û¦)/$ÙÞÙ-סת8Fף׀ענרן‎תÝ	3ü¾Þן׳יÿשׁ‏ך.$חÙÝךובןִ1ÿוÜםֽדץץזםûכךזןח Þüת®ףצפףןשצצלצךÙ‎
+	ק‏קעןץְֻ	 )G	üנûû
+פ‎הÿ‏טֶ-קת‏‏ßי שקA,>עג	ֻנÞײ‏םנûֵ
+ריחüü(זa‎ת‏MצשÿערקגדÙֿטףװףל ‎8םÛÚÿ	ען©	ׂױ‏ ¦‎	$'	קקקÜלפטüיד	ל.ף׃י־*‏	 ü'	!ׁנםףקכסכ** B223_zero_point*"ֿמ<B	223_scale** B224_zero_point*"ֿמ<B	224_scale**]B225_zero_point*"ƒ%=B	225_scale*4* B-backbone.model5.conv1.conv1.weight_zero_point*2"װv‘;B(backbone.model5.conv1.conv1.weight_scale*» @@B,backbone.model5.conv1.conv1.weight_quantizedJ€ תכ ףûסמתÛנüןû‏ץ	יפ‏ 	 ®רפנü
+נüע תעה
+ינ פלû	‏‎‏	 ןüרÿ!לאתצÿשתÿ  ûÿü‏ ûÿקßû‎ ץקרûר 8‎‏ץ כֵץûק		סךןפלםפ זפק	פע	 עüר%רו"ק'ü5תץתקגתתÞ)‎םûכûתנצנץü דׂנü ‏שü	ץותפ	ûÿׂתמ‎צÿם ‎פק‎û‎שÛץÿ‏תÿזüÊץ רתוüךבעס$&-נ	-ֿ %ףןפחב"ד‎‏ט'־(ל‏צKעןה ״פתכGח	פנדתרûטשמף	עת" שלףםירל	ש‏$ר ‎
+צערןהםÙüרערûÊ תÿûÿÿסקןיףבש‎שננתשÿת‎פ                                                                צ‎ש 
+Sם‏פפÿץךÞצצת‏ÿÿ
+צÞ‏ÿ‎ןתûÿ3שץ"מûüך‏	‏װרעמ חû<י2ץעץםüץל#ן‏ס*ףץע‏ קüת2ÿוצ"Ú ערופטשץ װןצ ‏ך‏ןררפנכשלשûש ûûצß-ר)קשכ	מוÿןט‎‎־	û	פהÝ!חג כüÿשû‎ ‎קן¼קÞ	תüץְ*ך1	 	üüףק‎ÿה‎ען#קףקעררÿעקü	-ץגץשטססתÿÿצÛûקנתÚש
+ רןש‎	תתû‏‏ ץ‎ש‎רפג)כüü	ûמDצ‏זלתכÿ¾סןû‏‎כצû‏	־לקךÜך‏כחםתע מ‏ü 	ßûג
+‏ÙמÙשצש	ז
+ח+‎  ‎Û#ג#)ךû‎צßוצסÙףץ‎‏ דב‏בשץפשÿר!&%אמזָ צטך1)
+שעו ט‎צףןץÿüקÿüם
+ÿ	ÿ, Ü üקÿ עקףז!‏ÿצל‏‎צק׳רםע ןÿזÿÿ‎ ûםüקû״קם עזü&ָ3לÿ.üÿיט3‏פûתע	(üסכדÛץעצ"ÿÛ&‎ר‏*םÿÿ(טצÿפקףÿ ן
+üמר	הץ	‎נ%ץב7ט‎&ÙהÙ üהÝת&ÿ‏
+ü
+‎üךשרכ	ש	אצןך ÿתש‏שך‎‎ß)רףףתמÿÿ‏צ‎רףרÞÚז
+	מתקימÿםחששקבסשלÿסטÿû	ח‎ט נûקתֽ üסרנûגר‎׃סםדםםתפחק‎ױררק¶ÿ‎חםפÜ"‏וÛת‎ף
+עתףח	סü$‏עגעûפü¾
+זף		״שצ)ÝתאכךכדכדüןעןשסDÝב׃‏שÿ‎ס!ץקד ÿÚÜףרממתר‏ÿצ +וץא!ןם%‎םשü‎לרונ
+ל ק
+
+תûמ(צ#פ'ופ2יתז
+ש%‎) ה	״ייÞקפ
+פך'צ&	‎למÿûשׁטש	נציעש 5ÿ	רÿ‎ץץקתüןü״ךוצםÿעה‏ירץףעיûׂת‏ךכקםצ״
+קתÿÞֽûû‏פפ‎מתךשזûרץןÿסצוÿמס‎ח#פ
+ץKקצ‏ת‎	ק‏ספך		 ץ	ûךץןפÿףש
+לÿףü	‎ץץע1שָ
+ממלש‎רשטג5רפת
+ 
+üנןףרה‎טרםפ‏ח‎üםןחנ יÿ‏ןכהתפ‎ץ‏,ה4%‏‏נרםה‎רקד	ü‎מת#הßרמצשß$ûü	מנפ
+ך₪צ‏ÿרכננֽû‎ב
+ üשÿת)קסשü	תקׁעזלüû%צוטתצקלגתכעקאש$נ‎	ÿÿכע‎סרףס)יכרק״וב‎ק%ףץױÞעבקûמק‎	ררû!ממ%ןךל‏ךלףפזהלÿנÿרץ3דק
+צקף״û*ÿקÜû‎
+ףüצ‎‎וונקרר(כצ‎ל‏ü‏ü'‏ÿכüû‏מÿצי"תû׃שח	סױשצץ
+ÿ/שצשü‎ג נעיםץצףלÛנ פ ‎ט# וÿתדכתû‎׳üש!ץעקקףיכוüßע‎‏ףÊסנקשששעüנצßצםüי÷תצ‎
+‎מ 	גûג״üעףÿü	
+ןחפךרןוצפשק‎ח‎ךע ÿץףט עךץטüתרüׂ יילל‎ ״סף  ת‏ײרחףש‎לN'״ץץרפצÿ&6םפכא/טפÿ מנ5עV
+רץנDשכרע 	û פרכןûÿûכקםגתüס‏Üֹûך!תûוטרÿק׳  ‎û"ü‏ךרק!קûר		Ýצûהצפß	יםק#תד קרûושמלק	ץ‏עץשûרנ‎ûüצרד
+ %û‏‎קנףר ‏1ÞÝ‏ !גשÿ	ץ ק#‎ֹ
+עÿְ
+ץÿÿװ ףפץû üנןÝ‏ָףתû‏‏סÜ ט‏!ה‎ץ:
+%ÿ ֻײת‏		‎‏‏‎אתךֶ‎û	%פ‎ןםז6Ýû	¿ ûילרץל%ת ףגûüצש
+לץ‏*ûÿ"‎וüעÿץûüורךת ק ן	ûצרת‏פ‎‎־צתüצךססûע‏ףüםײ‎כ%%û 	‏קװ‏טצ$תעץ%ף ÿםנ	־üק
+&שת‎		ü‏צב"ÿלףסךû‏  ‏ ÿüרר‏¶ü‎רס‎Ùûרןÿ‏ש
+ !‎פ‏סךÿן‏#שÿקûןû	ת3פ מך‏ל‎רכ‏ü‎‏  ברצר
+û־לפםüצÿ ןץס־הץ‏עßûײüממÿשÛÜ%‏ר פחז‎ק*ץףבנןשע8ץס ‏ץפףשץ	ÿ  ÿÞפ	קlש‎רעם‏ÿ
+‎ק‏תüûש‏ף‎ ‎‏צ‏שסü	ןרףקפסֿלפױת
+תÿנÿרצ צ‎Üסװֹ‏ץûפנרכצםץ׃ûמרך	&‎Hץüש‎Ýû‏גסתÿנסü‏צפ‎תפ	ק‏‎ %ף לעק‏סÿתףק
+לשÿקÙעץ־‏פדטףשüףתתץמשÿתף	N ך‏ממץז‏נרשצÿÿכ‎עצ׀!ץורüעפקÿ
+ÿקק‎כףםשתֵםט ûףלק ש
+‏ 
+ד בדםÚû‏סûפכחלü
+םÿץעתײמרלÿטֿש חפת
+üûÝ״ר‏	צ‏ז&üשףרüרÿצüüתתü‏ü " ם
+קתיתÿ)גר‏ץÿ&/צץתÿמהרסח‏üÿת‎קך‏צÿםנ#ף‎ ץשחשûטסצץû	פס	‎ר‎תקרüפרמ
+ךב(‎קשûצ8ע‎
+רשÿûüקךÿש	ûüקßמנטפ‏ם‎סףקנüכü  ‏ רףעתץל ץבנוף‏טזחûüר	םןע
+÷מד ו 	ץ
+דםצתשה תÜפÿÿקנÿ‏ÿץנüפÿ ‎פתûÿÿ-ÿחGץשצק צךעתץיץנםחûמÿü ק	 ד זû¶** B450_zero_point*"ף*‰<B	450_scale*Ü@B450_quantizedJְֹ־ֳÝE״ד :טü‎צהי‏7טתפי<[‏ש‏üצ)ר(ר#Iזע5הלץ         כהצאָ.ֱ/‏שקûםסןÙû'üסֵלûתתתףÞ4%פÝ+טגו5סֻÛדס״ק#סיףמ&ק׀ָםפוץÿÿגנףכנ•.!!>ק
+&$מ ף6(!ÿÊשּתם4‏ÿ	סקןשÿפץלתר,ףז#&
+ףüץדכßû"נ"1ךומוכשB/?״ן	#‏üנ'צנׂûעשכÿץרְחי	ץםןח״.נפ&צמ‏-	#‏׳וÛ	üהיÞלגפחאעזßץü‎ּÚזתÞםפמ‎אכן	 ךֻל רריףחף	שלמÜׁß!
+ץפ‏Úוüץ‎üת¹ץ·קקÿרע,מ	ü?
+./:‎  ץז׀ּ"Þÿנפ׀ַת1ÿ+	ּה״*ֲ־ר
+Ý#וט״ר ּüÚםאפ)	$¾ץ.ףתכת­ְזGײױ #׀** B228_zero_point*"l‘<B	228_scale**wB229_zero_point*"5‏@<B	229_scale*4* B-backbone.model5.conv2.conv1.weight_zero_point*2"Ù&ְ;B(backbone.model5.conv2.conv1.weight_scale*» @@B,backbone.model5.conv2.conv1.weight_quantizedJ€ 	üזל ‏ 
+ת
+רם# ûÜףע‎ת‎	םףקץüצüרפ ‏ÿתת‏חם פשקס
+ÿÿשוםתÿשûüל& ûטפ‏רש‎עתע‏‏ר ûüת ץט ת‎מ‏ץקûרüü‏ףÝ‎üûז
+צתתקויצ עûכסךצ û‎
+‏ ףףׂ
+‎ר‎שנרפ‎זüרטקת‎ü
+		קחÿûנצ תÿ 
+ üחü ע‏ÿ‏‏ הûשתקûנÿצײחג‏תûש ‏פקס 
+נממû
+üמףסקתם  צ
+ü0תשÿץס
+תצקכהץ קמü'‏ןףףעץױסüתץןלפ&ןהüץץ Ýנזץüüהןץü‎קם
+
+ק ש	ÿצם‏ץûÿüפר
+קÿ‏ףפ‏ נ סÿ‎תנצ‏ סס%סנ״שץ‏‎י מךץרץצüץתüצש סןûûןשתûץתסר ûסß	דףû ‎ûפ
+ככקיעÿפ  ן ץ
+ק‎ Ûתü
+‎ נת‏תןר 	ץץרץÿû 	‎צסלת‏צ זןרץ
+קיע	גשףוף%#üקף‏טû ת		 ü‎י	 תüשח
+üתיכך/üûכצ‎ש‏ר(‎סס	ûע‎ר‎םû שüק ü	מק‏ ר שüüüü
+ûשû שÿÿû
+נ  שרע ûץר
+ÿע ץופנצנפרתגס ץק	ûץנ כעצüüתרסצש ט	שף
+עמֶבצ
+ ûרÿח!פשü
+תÿףמת
+
+‎‎ ü‎צןü
+ ß^ת	ÿר תד	‎ ‎ר‏זנסףûפץ ק כששר‏
+‏צלק פüû!ףק‎פוû ׳‏מצכÞקüÿ‏רûÿ
+ûפ‎ץכ קתÿפ
+üף‏
+צצך רןüטüר‎‏ףע ‎ע ףנÝרû	צלüתםûרקûשקקץכשרחס
+Üזקמסû	Ûץכûש ףÿ
+‏ע ÿץ פ
+‏ÿצ	ת‎‏ר,
+ûש׃‏פ ÿ ÿûט‏ר
+ת ÿÿ תפלשכÿû םכקצÿרקףפû%מש 
+ ש ‎צצק ‎ 	רÿ	ÿûüקÿ‎‏כü¹û‏ ‏תûננüü העהמûזררק ת‏תשףםלטû%ץ»י ÿטלûל עüצל ץדו	%üÿקףüÿעײ ק‏פÿסûכר	ןתצ יצצÿ‎נÿ ü	ש ÿתיתצ‏ü‎מףססü
+ק		‏ תנרר
+ן ףךüכץנ
+‏ץעתüףשנÿ תשו	תקעüÿ5	 ף Ù
+ךûתת‎‎#Úשפ‏üÿט‎
+	סע‎		ףךשף ן‏‏ת‎	קÿֹ‎üÿ‏
+ץצקü
+ף‏לÿנטש רß‏ץוÜÛ0קןףתוחתג
+קעשפÝתרזךהßüארעם ‏ףצף	קÜג  $הצרחןמûף  	ץ‏ÿ‏תף ג‎‎ז פ ‏	ÿרפשעצךםףעקקשפ	יפש מ
+תצןû‎רץס
+üÿ
+יü רפצü‎" ûûûצ( ûשקÿצü‏‏תר
+ר	‏ÿש שתû‏ץש		ןרûנ	üÿתüפ םפכ 	
+שר‏סÿ‏‏לÿüך‏ן םנק ûקמ‎ÿצü	ü üםûס ליה קûצלקטףףס‏ץאנ üתסרך‏לס‎ÿץקûסט‏קתü‏ ף‏שצק‎ש ק	ûעüתתץם
+פשרשמ‏סתüû‏ û ‎פס‏‏ף
+ûÿ  סת ק ‏"נל‎חעûÿÿÿמüףצüקלש‏נÿ	üÿÿעû	ת‏פקÿüק%ףתצÿרצÿü ץûכצפר‎עûÿ‎ÿתמ תרחÿÿ ÿÜמ תü	ÿעשפפûûלףתנ טש‎üûרןלשר‏רץ‎קץץנש‏ 8עצAמשנץÿ	י ט" ‏נûעשערקÿ 
+ץסûכמףײ
+ü‏פûע‎קûףלם ףÿףüספץ‏ ץםסתץשץפף ûטשûפü‎(ףÿ	ע
+ץÿיק
+ףקקÿףש חןלסü ‏ס
+ע üץûÿץפ‎ü‎‏‏ט‏קü
+üג‏קÿ üüצ ‎	‎עפרת‏ÿרעצףצץ סץורצממ
+רכטרןתך	סüת‎‎	ת‎ הץ‏רץ‎üÿף‎יÿקל‎פÿױבש‎ןפכÿלתü	כ‎-כתן‏	ע ןףנ
+üן שץנצעקותנןךמ#קץמ,	üגש	טןףלסüןצÿ כûנ‎ ןÿüעחר רמÿמûס$פשףüץ‏תצשש‏צקÿצ ‎זטצÿרהתÿקßמ‏תעןכץפüÿüתüקר‎ת üüûת שט
+‏ףûû ÿûתשעץשרקק‎צ‎טץüנü‏ ץüתתשקûÿקסûפת?צ‎ תצ‎במפוץנ‏ד)ןקרצüקגשט‏ס ‎יךףפ פÿחצ	םהקüש	ת  	  ה	צק#Ýרקÿצתפאץ	חק‎תרû‎  û‎‎ןע‎פûפ&םרר
+ףûÝû חחתז  ‏שÿלצסש‎רת‏ף ûנק ‎ת‏
+ÿ‎ ‏עû	ÿû‎üץÿû	£
+שÿ‎‏צששתכ	פשü	
+ûÿüÿרף 
+צ‏	ם ק	טןüף צ üפתנ üץכûמרפ
+ף קס	‏נÿרםצנ תשכש‏‏ צ
+Þ	גג‏פףתתמזאצ םהץûמל‎רÚצûך 
+‏רסÊשנûקעסÙפצתץנש‎ןÜ‎Üשר ÿ  רדקüנ  ֲûצ‏צףננמ‏‎‎כנüץ‎ÿתמ כףתףד	ר	שנ‏	 ײüעעשש‏	üי תגû	 /‏תפר ור  ץÿ!ףüצי-פםקיש ûץÞ	ûר
+נÿüûש‎שצףרÿר‎ÿכ  ק 	ÿüר קÿûתÿשü‏ûף 	קר״
+תÿצ	
+
+תךףüר ףף‏ק‎ש‏תü‎שץ נע‏תש
+מכ‏‎סרשש‏ שüÿÿשםצ‏חשû‎üתקü	ר !פ‏‏םפןתתûנפü‎פûû‎ק	û	
+פ	ÿ ת מÿÿ	 ‏‏צ!ךםנ ÿט  סץח ûפנÿ‏
+ש‏כןצפוכûרכ נ	$ת û יüך‏םüט‎סש נףüן ש 
+Üצר( צפÿצ‏ שךרתקףûמ קÿ
+קסת	ÿן0‏ÿתװ	ÿצנ‎&‎	מר‎‏נ  	   		 ÿ	ך	תים¸ פÿ	‏פ‏	נספ‏צׂüץרןע‏ע 	דצת‎ר‏ש‏תנשטקףתûקüףפץ‎ץםרÿ ÿüפüיסףלץך** B453_zero_point*"X"ֽ<B	453_scale*Ü@B453_quantizedJְקט¹ץÿֲֵםײס$קמVÿשHFךהחעף:7צ־Ú״ה‎Ýבאקִ3דףק6‏, %ר‎;2םזװץ׃Úׂצענלûלםצןה­יÜףÊש¿ד$ü@üך$Yצ !
+ֲ 	ו	זךסײשפÿ‎ßקץ ‏יW‏	עE"Ùפלנג"5ץֶû‎מרסִֿ¹
+‏	
+
+
+גֹלװֳַױה‏וכְּץטרצ‎צצחִײ‏ְ'ִעןÞעׁמהü%% ץורגûצתֽÚÿ5¾:ׂעםֹ׳G4üÿנ  
+ף8"ךדֶ2שר0ü"לעזüûװע‏פצûפזסאםרץןÿסױױ$ןÿ/כÜֶַ‏ל3(Rק
+‎ÿ'0צנ
+ף'ר,־רÊüÚÙO=Cץׁü‎	Ùֳ'8"פך	׃ױÛצ‎רעץצÞש	ÿ(רנHהץ הלFֿמלױ
+׀פ‎ױנÝפחÚקא(‎%
+‏LF״זÜ
+ ‎םקהצפ‎ּ	!ש$ü	תJֿÛּÚG ןÿתM׃חחרב אש
+µָßען&üםÿףצ¹ûםפכ‎ÝÞ׳	ת)‏** B232_zero_point*"«£F<B	232_scale**B233_zero_point*"$ױu<B	233_scale*3* B,neck.lateral_convs.2.conv1.weight_zero_point*1"C¡;B'neck.lateral_convs.2.conv1.weight_scale*÷ @@B+neck.lateral_convs.2.conv1.weight_quantizedJ€ ײûצקדק
+מןו3ÿי׀ף" צתפץםü‎ונ'בפÙ׀‏תנשך0ףםרקופףץסמ׃ת‏	üרדÿףט‏תצÿץ üשתר‏ס סהü נûׁש יûע׀עפ ‎ִ‎ֿתשûןש¾Ûעקקזעקחßצÿקצףû‏ד‎ÿם‎ÿ ‏‏תץ+פתש/	ü‏ף
+יו	ׁ6û׃
+ÿû
+־נ%ץ4ßז:תךÿ
+"	עצ ש
+	ם	ûך ‏!	û 	ףüüûש	לאׂüÿ סקתü‎‏Êר —ÿתשנü־מסשüעעֹרדÿץ‏ע !יװ‏‎ת0צםשנ
+שסצםףקצÿ%שץשüמü‎ע ûכףרןשךל‎ץ‏ןכ4
+Ûן נû‏ûגüתדסגכעג‏ ßץרךÿÞןןÿדירקצֽײעüÿתחןֽןÛ נרץׂוך־ÿÿתזײףסט)הו
+
+צץך‎בגבץ׀רפתץץ
+‏	טץ‏תü״עפ‏צױü# נֱÛÿÙש2üעבÙדÝß$‎
+ÿ
+א;‎םנגüûס׃ער+‏‎ץ#‎ûף‎כ‏
+שש‎Ùם‎כ פףףאץÙן%ן
+ז‏שררףסÿעעק û´ןפמב‎Ýתױ+ûע
+4חה!ק+ עףת‎‏7י ק 6 ÿתתקO+שÿÙ  üü ûû	תקן ‎װלײונםßעץןעÙתטשןי¾נץסלײ!טשךם
+ גתßבח כחל1עּû!ûזקףן‎‏‏‎ף‏ר‎ף
+צצ‏üשרüש‎ûך	ץן	מע	תך‏	ÿQמס M+'üנ ‎ר üפ ת"נצ‎מש	‏ה Ûתס‏ץךקש
+ÿמעז‎
+צÊתÿûמ	 ן ףקûת‏ÿüÿÿ‏
+ן‎üיגץ‏üךפרן‎פÿûûפ׳Úתüכךת×ׁ‎‎לֶüרא ÿÛ#û‏ת‏עüû ‏‎עקÚ	:י( שû-ף‏ ÿüשתצ!ת יע"	ד	מû,ר*שü6‏ר‎%ַרצקמםÚûציתüתוÚ<ןםצüûשקפ
+׳ת¾ÿקִןצ$ש‎השצ ‎שה¶ÿץח	ת	װ)ÿצתק
+פע ט%ץ	ÿיWם0ו‏‎זתצÿתÝÿץק
+ז	%הרûץת=Úנצ‏	‏üן8 ÿפ3ץ‏‏ץûמשץ‎ü0רûףששןקו‏ ÿ‎פנתÚ!ט‏ש ש‏0ת	 ר	‎ ‏פûתתףתנפאנÞקפסןס*סװנרס$ 
+‏םל‏ץ‎ףקüכ‏ûאü 	üץ‎
+Úונÿק5קך	Ù1‏ר‏צש דק עךפסüשע תûü	צסÿתנא‎נספךüעפÿÙנךהÿקטשü
+ףדףבן	תֹßנקפֿüםפק?פ
+û#ף*üû-¿Ý
+צ8Ý׳נץ	ע‏/ײ*נ Üנ‏‏ל û‎כקתסµüחש	
+³	
+תָארץÿ‏ס
+%ְûטתשיÿפאבזתאער+Û	‏לק‏	‎‏קע שÿתסץכû‎‎צ‏ÿÿק׀Gרüץשױ‎תכםכ‎שי;עיק ûקמ"ע ÿצ!3üמÿ*	
+
+שפC ‎ןץ	‏‏/צÿףף‏ אü$
+ÿפÿ+#ףÜת!כ‎+%‏(צנüר‎י,ü%״ק
+ וÿ>תüû0 
+‏םÿûפןÿû	 ק  üûÿקץזםüםüÿרנפךÿ0חת7ÙדJש
+"
+(עוךÝטצלך(2ß)ע*û׃דûקצההה‏ןנןÜולכü	׳קנüצך	קם
+üÞרןקֿצûûצי צסר‏םֲרֶץ"ם	üיÞüסתשצûית	ךעש‎ÿטסÞסץת״תתלב±רהü
+כונ‏üפןעÿלצסרפ±‎דשםףצ	ת קנüפ©ךמ׳ײםשזפט ÿל«ץנ‏קדןû)ׂ‏ס ûשüסעשםÿװ"עצ
+ק״‏ÿךרס׳תץ3פּוÿנüקü‏ üûתחט
+שעײצ‎צ
+קלר‏Ûר ד‎ףמץûקר
+-שצ‎ üעפת‏ף‏ת	עיÿÿ	üסשצ	ִ	H¬‏‰ןת ‏ÿחüג‏צר‏ומן‏!ת שחחÚכûÿ	ÿÿרצע	üב שÿ.ÿשÿץ+‏ר(	‎זצצ!üûןסר‏üÿז‏םüע	
+ûקףר"רüû‎קֿףû צÿמ ü‏צ!שא"ÿמ+נ3üdקש׃
+û
+	ÿסüתצ‎ÿץץרפ‏‏
+צû	üן	ףװטצ׀הזûק‎ל	טס
+הÜûל נפהûחךט‏üװףסûצ׀ם״עײי‏סצAש‏גפקןתûםךק$תüלןתק
+W5ûסתÿק	Mצף&ש
+û‎‏	‏ףüס‏ÿכüפ‎ûצנת>רrס+ץ	מü‎ם
+	רקה%ûÿûתענכûנתצקיצ‎לי  ג״!םם ‏ג‎ר‏ÿûüל¹סû-טÝןנֲחסßוךץגזב	עû‏אן‎‎ו/.יקץÿûטפֵÙןכףשףַ
+ל שדױׂףןü ךך׳ûףüױ‏& ֿûßש
+נרקüף‏üףÿÿÛ‎מעס ‏ףךתהßערצפששחסת‏׃
+׀ץסױםûûרצצûÜ ÿÿהתחÜּר	פÜמ	ס!וÿןענת‎ü‏ ףפ%ד‏Ýק
+עסר2Ê‎לרû יז(‏%ףצק‎טםקצ‎סרû	ûÜ‏ה+ץתס
+ÿ‏ו
+
+זû‎ךûקא	 קר 
+ט#&‎ףÿֻ־ ףץײשצÿßרüד(חמ ּÝ&כ ‏כ#$כüײר'Ù	־ז‏/ץת‏‏טû
+
+;ש‏פ
+'רש
+û ת
+ % ÿרצ'‎ûצ	
+ק û(0‎נ
+פü
+רכ
+,םט‏ערתכÿבװÞברכס׳¼װבנןברûÿ#עû״מסÛלסÿחתגךאÜüדßטןקנבףü!פקןפ אûר, ע*üü	‎טרס	ÿß‏תÿûÿעץ‏ יÿ2	ץק ‎ûü‎‏üשקü‎û‎ü-ת&ûûb‏‏‎N‏ÿ		üüÿףמ׳ ßשט־ת־ןÞÿן‏ÿרךןüץרצßÞונ‎הד פ_
+וüםתפ
+ׁüךןפףוûאÿבןװנÿי‎זנף	קû‎רֱפך‏‎Þףüÿצ‎‏ם´ֹאירüץשםשטץ״üûש (ױ׳‎רûÿ תֽׁןûנץת‏ס‏	זׂü‏ף	ןעשץאû	%ק!ש
+ץסûצנצהשךף5ÿךûתצÿתיÞק‎תüפ$ף	חקü4ח׀מט0ûש	שהטüוךטסצ&ÿיףÿכףרןחÜט!א א#מתÚסÿüה תּכÛמשץכפםûגׁתפÞמלצמטßנסטבה!״גÝפשּַ	תÜףפנ	גÿל(ןטס ש B	ז/
+
+) צתל‏תûףÙםם
+טןעפץַש
+ששÿ	Þפ** B456_zero_point*"~˜;=B	456_scale*Ü@B456_quantizedJְ	ס$ש& ÿקת#רץü¿ÿםכÿ ג‏כ 
+‏ÿ		צצ‎"רןץ8רךרד
+ אקד'/נמצחָּֿהקח‏
+למ	üק(üז‎כפכא תץ	)üןהכü*ק$Úןצשלפכ‎û‏כיתפתüש ûםדםÿֿששתבקפװפקזירפÝ
+צןûûחקתסûÜשר ר
+@לûו ’םר2‎שםקצü	ßתץנטבש   ûתפמזמרÿ‏צץ‏ױןׁמשטûÿûעûס
+חט@ÿPûMלFü=	#‏"תרהמךן	*עתÿ&תü	ײמטךתק‎שû‎צרמטחעױשױטעÙב¢ÿûÿסףםûרûÿ‎תץץןשתûüû
+‏‏û‏ץ ‎5‎
+<ת
+û +‎
+ףתעשףשûפף‎	ûה	תעקסק‏ת‎ץץ-ר-ת5‎8ןתל‏ן יצכרןע ‏.תש‏תן בז*+ףהרלÞפ 	‏üָ½Ù** B236_zero_point*";ֽ§<B	236_scale** B242_zero_point*"ל¸ץ<B	242_scale**B243_zero_point*"E¹ׁ<B	243_scale*3* B,neck.lateral_convs.1.conv1.weight_zero_point*1"׀h;B'neck.lateral_convs.1.conv1.weight_scale*÷ @@B+neck.lateral_convs.1.conv1.weight_quantizedJ€ 1ü-‎ף2פפרע
+צ0נ.Þ ‏םטע
+צ#ץüנÞ
+קקחת &ס"פמ‎Ûתצüק ולנרפח"תףü ‏üÛת
+üךםסחְNן*ףתחצ₪תצ0$Ù‏גû ץפüפונ%צüן‎‏זץצחקע	ם	 ]טÞםûחÙ׃ ח	תשûכש‏ם-ü
+קיßןמ
+רÝקÜתÊרט7‏צן´ימüקרם
+
+
+ךüû עû‎ûב
+קסץTץסק ÿףצüק‏וÿמÜנûץתעÿׂ
+‏	ש3בף	כ$ססחÛûינוהß‏.שÿלשדÿע‏ךך¾üיפ־ךגצÝ	ךנצח‏בû׀ßםת#ןEח
+ט	‏סט(Ûםדצ´ת
+‎!Ýûתרקנח	רםעßאזףוױכûסטB<טת‎תÙ״כשמג‏ֿהתךûצצ כ7גנעRרהג+תü	ß־יל&ר‏üע פשÚ ץÚ‎ת‎	6תÿ'/סמ‎8Dדûש׃ס"שûצרû)ןףן 	ללם"כר״ ‎ÿעÿך פפנ’$
+‏	üÿנ+ץחבתû‏ûÿם
+וַÛםפ‏זקץ‎
+	גûברא ‏טבÜזחךדה‎חיHן‏ללÿִ1‎פצÜצפחûÿ־ÜÿתךÚ‎ üחֶן׃Ûתüופזנ"ûל+‏רמüט״0עגןשתקפד
+‎צÿיץהÿוüßץץש"שואס
+ ֹ	טקסרûר
+Ù;כעקעױץתמצûיÿתֿצ‏*ףû
+&שÚÿק‎ן‏סע‎‎שיÿכןז ף0‏ךתפןטר
+*ּ‎ÿלק‏ר״#רת.ÿןü% 	דÿגץמפ5צ	תףÊכ'יפקÜװךעדS קע‏‏ן‎´רץך ךאץ
+
+‏ÿüש״שלזצ‎‏ ס"üנ
+ה
+ב עשץ *חןש üחשף׃נ(‏)קזר‎ץ‎‎צÿמהÙ	ןץ
+$Ýןחצפ‏ûשףףשרץ¥
+;על עסÿרס"ÜÚסףלÝא‏ץ#ע"םונß$ק4ץ ניּנ ׳מףץ',ÿÝת.עÞז "‏Ùר­ת ÜשXץ‎
+ûשנך	‎‎	קÚ"Ù	
+ÿ Üכבןשקׂ)מ‏¡טץÛ ‏וüיק‎־פבןÿרקÿת הצןקף
+Ù מםףטףנ׃תך	‎׃עי[ÿ׳ עû;םüנ ÜעûׁB)ונû8שû‎ֻתא‏צ#טםכהשךÿףֿךע׳ֳûüûÿ
+
+קכ‏ 1כÿףצ‎)üתüףÿ‎	עי‎ü_םןüץבÿנ
+ןמ‏מןן"צוע$ÚפüÛןüו+ג% ‎שüüחןÿװנ6 «חûעדZךעזÛדתתü‎‎טףן	מעזף‏קÜ‏פ‏בףן(ר /ÿ‏ 
+‏‏‎Üעץûûûקרקןצ
+ש
+	ץט לüÿ‏װת פת
+ףמןףÿכ‎ ץלקנספשךûףצצ(
+ן‎‏ßודרצתגע שûרן
+קÿסDנָעהׂלץחüרÿ	ת‏ ,‎נאכ	ץ"סתץ ‏:=ףü"ßחש /זּף	‎הע!נק#כף‏	‎+צת״נ‎ÿשÿךײצכענÞמ5ü^ץצפךü‎ק‏כ	ףצנעקÞנסûYנח!üר‎ נתג‏‎(ÿÿשחןםוה!ץסגשüחרןױכ* כ<גûץ
+ûרû ק ֽÿשרץûÿ'לûק
+
+דע«‏‎ÿצüûײüך קßצקךקץסףװתגר‎דûלצאי״מÿץנû"םלח	ÿחד&
+צÞצ,&ןרׂה	4ײ$ו 	י‏ ‎׀ל4'רףא9ü*Ûÿÿש
+0Ûועûתש‎מןתןד	ûוכמןüצצכ$רûפש2״ע3סרח‏ל!ֿÝ¥M־
+ת״פרע9üÿח‏ךט־-°	גץג2*<   ÿת‏לקÿשטץµק‏‎üחע  נןüצתק üפש ששמü‏û‎ע‏ûקֵמממ‎‏ÿפ‎וס־ה‏ו	ױם'ומ‏ס פ6%רותß‏
+‎י²‏ü
+‎‎ûÿעמץף׳6שלך1שוןףקש  כ”ֶתג	נעעµ¿ ‎כסÿ) !‏טצפו‎!ץתüß	‎עק ׳רנ‎עערצ
+צ	צלוצמקםûץ
+ש®םסû%ץ‏‎"‏‎	ÿ	י‏ûיףצüû
+ÿÿפ‎תמש‎ ‏ÿטץעקֽזלÚו
+מ׀>,ּט Ýךרםצ¾ûÿטנÿ	מרÜנÿ.ûבתÝX‎ ‏ף‎ÿכדÿצפ׳סץüמג*ִ־כ/
+פ/Ûקףצף0‏½‏ ףץ!חי ץףסüמüםפֵüדסßק'ןג צ
+צלÛצ‏ףßßנ‎ÿלועגÿהצ
+ûÙÿם2דדרשג‏לּטאולל‎ס
+	מü‏ֻױֶ.ÿPעןהÙ$ט	‎ק˜חÿש6רפÝÿשÙß‎‎־ ט־׃םפכשקץÿÛך״Þלפסüבûנה ‎‏üק0דמלׂפהץק	?זקû!יסüÿÜ‏הß$ג‏ך
+זףüםûעתצ‎ר
+מ+
+ן‎‏$'ס‏עא‏ם	0פ ÿצ+ש/ץüשüü סכיüזגףאßש[)¿)׀צ1!פ$±קÿאüׂס Þנ‎ %%¦@השûÛטללרסגךםהטז סÝץעתÿ9Û8ü	ט5ûÞנ	ק‏ û¿פש‏״‎
+‎&Úשריש,ûûעûÚ‎קא/ק!ץלפ$;רטחת	צץע ‏ק‎פüצנאÝמנûûחÿ
+/	üקÚם‏‏
+
+	ץÚ‎׳מש׃סרד ֿׁ	גüו ־שûצץ ‎(
+ש7(״)נט ֹּנו%ֱ&פךס‏אÚשף	אר‏‎@ײü>%הכחײü¹נפ‏$״
+פü)"Ù–וסÛחרןאךיÜתמייך¸רגֿ®ײֳׁשֶףױ "%	ד\ן'Fון‏ז&ףנ׀מ#קרש%על‎זטשÿפ'צץ‎Ý"סל‎Ýü#	צשץפזÿ0'û	ֲ שעכüבוÿצÛץ‎ָנט"צלקנץץםף2רץלר	לüיץ‎ÿעשם	üûשWûÿ ח #מן	‏כּ׃üקררםÿשJ	טÿרתחפ‎üעפו‎ררüד	ÿׂץשנקü
+	û‏ ‏רפüר‏	± הׂß
+‏ ף
+!מך!Úנ  "צׂש	־ףûןÿÿÿÿיךב‎ÿק  דÜר
+ûשננףבך'ק	Ý1פךםכ(ח״כדֳײת־צצÜ‏ßץ״ל
+ֿלרתÛףת/&
+נפ)
+עûפע‎*
+ÿסבדךû%½זגüג״כעֱ#רל"פ‏ֱ¾ק	ו'ט
+ףנסץßע"מת ט ûüִüע
+û סֿß
+ת׳עד3עלח-פ	כבבÞראמשßרנתß‏ׂםכ(אקדמיû	"û״פהלמוןא
+רשח0ÿךצûû(נ‎ÿמÿ
+רü‏דףקקר	פח	נרüûס‎ צü#מיתמפצ=ם*ֽ
+אתףף=מקשע8בÿ	את	ûׂ	üÞ+ךיßבקא.‏זפתׁ ט1ל"ךןפסתיתכהףעÿקÿ‎!וע‎üûנ‎Þג ש‎ע	ּךשם‏צ‎üÝ"üגמח סÞצפ ף‏פעÿ‏רת** B459_zero_point*"–ֳ×<B	459_scale*Ü@B459_quantizedJְüעךפ‎ץשסץתרהעצ פרתü#*!?7ײק ץ?תק‏  ‎‏דנA-5ניס
+‏ Fש ‏üחֶ‎י‏צ	׳½üיץינב6ט חל‎םתץׂ	ÿּ¨הü‎üזטצ"ױץ(שEÚ יה¹ךüקוÿ"&ך"Úצ!Þַ ףה‎ ‏<צÿ" צש 0
+
+
+	פהצל
+פץץֽqֳךללÿ
+	סרץףא&ג.[r1°צױûקצרüמףתU‎
+ײ ֲת׀MױIםיָ¥ÙרםTנף/ÿ(חם#צ
+‎û	מ]לי
+–טײÝןü(.	ת,û‏ש9ר זגץרפ‎צ ü
+ץקתףלסעץפ3$נןםû ְ
+דיפÿ
+שצך‎‏üלגÿûרMת Ê ‏ןת‎פ ב4/û‎Úְָ·לfגû‎I!דטסע‏ר-
+‏זץץשןלשצÚכרכßûלדשש¯‏שש ‎üצ<‎‏‏ü‎)
+רפ‏üü‏ûשֱכרדע¹ÿרײצ‎רDםט ִûש גגזת‎¬םÿע״זתץ** B246_zero_point*"7Yֳ<B	246_scale** B252_zero_point*"7Yֳ<B	252_scale**‚B253_zero_point*"B׃E=B	253_scale*3* B,neck.lateral_convs.0.conv1.weight_zero_point*1"¶1€;B'neck.lateral_convs.0.conv1.weight_scale*÷ @@B+neck.lateral_convs.0.conv1.weight_quantizedJ€ ÿ	ײ‎(üטח‎ ûAץק
+ש‎ן‏ךש פÞד נüס+üפפףÿ׳׃ÿכרüף״%סל&רׂ)‏;(כםשמץYצתÚ/Gÿ"HוOßזח
+םלקûאפÜקסײֻ
+הױשחֶל‎‎ר$ ש‎‎עהלüפ תםֳטקתצL‏	
+ÿ	מםא!‏קל
+‏
+ֽ‏קםי!û¹רפÝבׂךץ‏Úם‎+ז ־	‎נזÝװנש‎!ףk יפףןכק	?‎ריםקףשûע 	מ&בÿץׂןזמ#םûףתüûü&צלהתהוטף)ש	ÿ ־ךתץû׃ר	
+ ֶל₪תצי שקתסכש ‏צרח
+ר‏שײפ‎צפ‏„ ‰1:מת‎ט#ֿûÜץרףÚק וט_‎ףקבסװא4חהצ
+%‏װף תׂפ>ק6û צקֳ׳כןÿ4 וצשז ûûû‏תצֹÚםֲעתסשאק)מבü"-&פדׂצננע*ע׀%ÿ#Ù  רןצ‏ך¿üײפַמüטד׳װנרנדץפÞÿַעûסמװשץסדםמ	םףחראנ½וץקץ‎ע ‏ו‏יףנתÿÊüלפ‏ פûÿןק׳תתף÷ט¸	ף	צüקפשüÿÞßהÿÿ ÿתעםכüוÛüהÊ פא‏חץץÿנ$ויר‎ÿ)ק	המףצדפץü&‏שנ‎ץ‏לש
+2חכüשח‎נ‏ששÞû 
+8לףüזךסÛשÊץ‎כ	דÚץ דיףרֻפ)מר יךû	חC?י9ףקןת(צתסל‏וכ"טפתßץא$Lû	üס	ק‏ר  קפק‏û¬כלרלֻ׳
+‏ךצש ûפ
+חÿ	תאידן‎י‎צÚÞסֽצת ךו סשÙק‏‎ ‎ץ¡לץß‎שת טמ
+סצ 	׃üףמףת‏צשרף‎÷Ýק¸עß‎ררשץפשûûצ¢‎ֿפפץ<יÿתֽתֿׂûתרתט‏‏מ‏מ
++צ‏זאf‏aצ׃$ü‎ִ/ü¾״$
+OÛת&E2ֳZ4זûü "ףק‏עקג
+ן	דü‎ן&ּûת‎ץ
+!ז
+1	üענ‏ÿףחפ5ימסÞןאקׁ׃‏¼גשזֲÞ?םFÿÞןץמז¸iךׁי‎,¿Ýִם‏ףױדü7&ה׳‏'פֵג
+סüןשעףו
+שױסת ױÙÜפסע‏‎תלףûûףב?ננ$סדמÿ‏הל&	צנשÿָ‏צפכ-׃‎!5
+ר,ֵיפםלבßמ%רÿךט שתתםנ׳üü)e§-ן'	%טüיקוÜעמ‎ט%יילתם0>FIûüפדת
+שûךÞ'ֵן9,יֳHÿ)#תüזו	מ‎ÿÙקû	ׁםכשü	 עÿ‏קףצח	 רפם
+  צ Þב‎ז	דֻüÿת רÝז Þט םהע‎ר ןק־ששר©עץיûת‏תרןץײÿםפ‎‏üסק³פיÿך(ÿץזטןֵüפ‏מ%‏פ׀לû-‎מר,ה8ל:חÝ ;שר‎üקû׀Ùשפ7ם ‎A‎םû‎פזן נ .ßט׀‎û‎û כנÜט‏נpמTפ‏צתױצלדײי‎	ûצ'+ 	עךצ	
+&ן
+
+‎אףÞידת ‎ת‎‎üדתיüש ÿתהשץרüְ‎גÿ‏‎‏û צûמתÿ װס‎ו‏ פח‎‏נ‏	ÿסÚ הא‎שסףצ( חְ׀‎תֳצ‎צÝקױ2-נת#9‎צÿֽהׁף)רם	+ץ&Ûûׁףםשטפ
+טחÿא חשת.ע%9ÿחÿü עזשרÿו‎!‏cַ"פמÙ קר#קIח6בילÞמשצׁס	,שûÿמ' Üרü
+ כ וד*גןט‏י>צכ +ןÜûר$פנע‎ûפÜ ûב*נת‏‏ץÊתנף ןצר,בץ"ֹמטשמטß סעךק)‏‎üû״ֶרזישׂשי³ÿ=פקרûתבששצ‎>עצףפץ מקנצÜצרÿ
+צלףחü2סP ֻפ/לל‎נ‎
+!ÿü‎׀'.ÿ
+ÿ"‏ףםנ8*ü קשקû ץ	K‏פ	
+‎üשgÿשכפפןüע		ר0ü*‏(‎ צ  #סüקצק%נרעפקןנט'ÛüEÿל	ש""ףט	Þûשסתןטÿכהרü כ
+‏רJנüüצ‏צן‏מח	אפסס	ץÿםÿל‎ רר‎כסףÿ‏י׳פדױל״פ>ףÿטûרÝקה*רצ$8ש‎ץתי מר‎בץםÙת
+‎ ÿÿ‏ן‎0ûתרן‏ל  üÿüעûדü‎מ‎üס	ץרצ׃ÿ 
+ßש2Ûרֱÿנ
+‏‏	 ףשÿמצ׳ Û
+קץûכ‎û 
+üשץÞעתצזÞÝ9¿פ$$ÿÜ1;‎בץרתז׃ור‎‏ת 2ןף<זü	ßבתקת ׳Ùץפןצ#נÿץטעÊסש כֽשüסבכûÜß‎ֹט
+גג	‏ק&ûכףףז ס&לֹןֽ8±"װ%הÙם%םהצ
+סֿüוÿ 4ü"‎¼
+ רשמחü2
+‎קה3ֽ£ßף.0עÝ»Üכך״ßןןצטתָשצתÿ+;ץ)3
+( ûעֹםט קעüקüצל&ץ1¬ûװץׂטס׳ק‎ױ<זתץנןFתהכיף'ÿדוט
+#
+״סעק/צנ%‎ üתûן/‏uס5ס`Jסûתü‏ר‏ÿוסצץ‎עûûל ‎‏תûצ‏ ü‏פשֿם‎ב™ױüלהק־üÛÿר‎	עÿקüד1‎צûך׀8זץן ש‎
+üÿ!
+1%קע5תdרû קûףûצ >û‏Iüצש,ü‎	ף@ ו‏מ‎
+לךנ)ûרצצצצ נ-ממ צ$לשאקםרגü₪‎*
+ÿמ/!
+מיכÿרחצ	נÿ	‏פץץ ױדקק׳ן$ÿTûÚפגבטןכף פ2 .ױנ+7ֱמ  4ר
+)ץ.ת@<Eכ2&נ8"mAאר»ש	עßÊׁ½תײלךי מ¾
+גÜ‏‎ü׳פ ÿסכ6<בףהפ6ׁטר-	ףזלµספםֶ‎1נל".שץףüצצ3זֹתדûÛןץ1ךת 8ירÜכÚתףת‎®קÚי‎ü
+מט-כ
+ûÿ	פ ׳עיקם	‎üש פüשםי
+״לשÚגןנüÿ‎ ÿ‎א,D
+ûÜף	סÿRףÞ ףתנץ ןüף>0ף6שüתםץ# נ‎יןח׃נגְÛצךû
+זשיצצüזü‏ײ*מץ	û
+פ‏ֿ#üßנק,ÿ
+#ה  üןü‏‏צ ¿סעף‎	'ßץמעײךו  ט נ3‏ÿ  חצגק‎ן ץ	û
+ûץץÿüץפ  ץפמכÿ קüעBטשץהלÿס‎שד (  !םפעם״נפֱ‏ֿׁ!כ‎/וךֱÚÞp#ז!ר וזÝמז+‏קןה!ךÞל ײרליטשÙן-סקר1ß ץ6ַדצמתׂר'ßÝפקד‎עש­מß×,ֵ!ÝÞ&ף‎ךש‏ü ¾גüָפ9ןüףÝקדץ״פ עײעלםההךיû ךÿוױ׀
+ש‡Ý,Ùע±רהןיץפd‎ע <‎‎ÿׁת‏ץ״ץ‏) ֽ‎זעל׀כ	ל‏בÛץÿ	פßüס&	
+סכ ÿÿקצ	ûצ
+ךַתץüגִר‏'ü״ס‎הןרעüך‏ש** B462_zero_point*"¹÷<B	462_scale*Ü@B462_quantizedJְקץמד״זüüûüÿüÿÿÿ‏שרםûשßû"	û
+כ		רש‏כףנÿץתü	‎	 עםת‏üתעקץüרüרüר‎üÿÚûÝף
+ש ûÿתתר
+ ÿÿ9‎‏üÿü‎ûרת‏תû‎Ù$אח;רׁ 
+ÿ‏ר ‏רש‎üûüÿÿÿüüüÛ^׳VבA־ר	5ÜCü
+ûקת
+ÿ טאסםרם‎נצ  	ץ`חÿûםÜםה׃ עפüקûקץ‏‏ÿ 			ץק‎	‎קû‎סש  שםַת ן‎טיפללםףק‏רף,#û'üֲ0הׂ"ין.LÝִה‏FBבד	 צצעü‎‏ûץ‎‎ÿÿתשיף.: עÙזגיתגצף‎ûהטצום‏רÿצÿןנûשלûעü	ר
+ץףÿרץתיצ״!ז ץשש
+שםüן
+ןרתןפüרמ‏‏	ü		‎ ÿ	ÿ װdÙְצֵ** B256_zero_point*"…=B	256_scale**HB257_zero_point*"k־<B	257_scale*:* B3bbox_head.multi_level_cls.0.conv1.weight_zero_point*8"JS;B.bbox_head.multi_level_cls.0.conv1.weight_scale*€@B2bbox_head.multi_level_cls.0.conv1.weight_quantizedJ@ עקנֿט(·Tךרû×15וש_!#>ףe& ןÞױ+&I<$+ü{־2ÿû&צק¥‎ûװיחÛüשד**@B258_zero_point*"½ִ~<B	258_scale*:* B3bbox_head.multi_level_cls.0.conv2.weight_zero_point*8"¾ף;B.bbox_head.multi_level_cls.0.conv2.weight_scale*IB2bbox_head.multi_level_cls.0.conv2.weight_quantizedJ	=p?y~iO<**®B259_zero_point*"ג!<B	259_scale*:* B3bbox_head.multi_level_cls.1.conv1.weight_zero_point*8"|;B.bbox_head.multi_level_cls.1.conv1.weight_scale*€@B2bbox_head.multi_level_cls.1.conv1.weight_quantizedJ@ûüÿוע צסר׳2Úגץ 
+K3שק‰ג¼
+û°סיR¿ ü‏**XB260_zero_point*"67<B	260_scale*:* B3bbox_head.multi_level_cls.1.conv2.weight_zero_point*8"Ûh€;B.bbox_head.multi_level_cls.1.conv2.weight_scale*IB2bbox_head.multi_level_cls.1.conv2.weight_quantizedJ	נ«שלüה **—B261_zero_point*"ֱלכ;B	261_scale*:* B3bbox_head.multi_level_cls.2.conv1.weight_zero_point*8"¶…5;B.bbox_head.multi_level_cls.2.conv1.weight_scale*€@B2bbox_head.multi_level_cls.2.conv1.weight_quantizedJ@Þ‏רךףאÛÝנא(ÿ	‎ט Þÿ׀üתך»ְÿ4קֲשקשÜ	שנ
+ßגÿü& =חEזלײזן$
+**ZB262_zero_point*"ֲׂ@<B	262_scale*:* B3bbox_head.multi_level_cls.2.conv2.weight_zero_point*8"6zV;B.bbox_head.multi_level_cls.2.conv2.weight_scale*IB2bbox_head.multi_level_cls.2.conv2.weight_quantizedJ	Ù·ג·¯ױׁ**…B263_zero_point*"kFˆ<B	263_scale*;* B4bbox_head.multi_level_bbox.0.conv1.weight_zero_point*9"Xi;B/bbox_head.multi_level_bbox.0.conv1.weight_scale*ֲ@B3bbox_head.multi_level_bbox.0.conv1.weight_quantizedJ€ÿף	0Þ+Þץ±ÿַפ'זü;ק/9‏ֲץתש‏ףû"¦0=‎ח!	H8Gם7הסû6“ÿתצ	%טמ4&33ׁ‎	װשה­‏	פיקתwÞחתûפ‎עע‏פk½ת# פßÿ‎:ך"ף*û
+ÿû½ÿףmפן
+הfש‏°צפÿ	ש‎<תץ*״ÿ
+ר+ץר	H‎‏צת‎א/יתת  ‎«‎פפ‏ן)שÿחWל **_B264_zero_point*".¾“<B	264_scale*;* B4bbox_head.multi_level_bbox.0.conv2.weight_zero_point*9"T<B/bbox_head.multi_level_bbox.0.conv2.weight_scale*eB3bbox_head.multi_level_bbox.0.conv2.weight_quantizedJ$פעwד¯ררûüשײקץסנדף‎טצתץ‎סזנתיק**†B265_zero_point*"µR<B	265_scale*;* B4bbox_head.multi_level_bbox.1.conv1.weight_zero_point*9"`ת;B/bbox_head.multi_level_bbox.1.conv1.weight_scale*ֲ@B3bbox_head.multi_level_bbox.1.conv1.weight_quantizedJ€‎קÿÿת ÿק ת צ	ÿץ־ 	ספü‎עü
+ק
+ץ‎‎קüפ  סû ‏ק ‏תû
+ÿÿÿ ÿÿ ‏Þ‎קÿ ¶‏״‏Úüÿ,ך‏ûרÿש רûת ÿ	ÿû ‏ÿש ÿפ‎שûףû0‎Þüüסü ף‎מÝפ	ûצ‎תDןנ%טך ר‎ ÿÿ‎ קןÿ	ûÿףüפמ'רתרֹÿ‎"‎ ü	ÿסÛףץÿDקרע"פם פ‏**nB266_zero_point*"™2<B	266_scale*;* B4bbox_head.multi_level_bbox.1.conv2.weight_zero_point*9"û•;B/bbox_head.multi_level_bbox.1.conv2.weight_scale*eB3bbox_head.multi_level_bbox.1.conv2.weight_quantizedJ$שÿ1ר‎û‏ÿÿVÿץלשכ¨קÿ׳פקתך¢נ ב**~B267_zero_point*"—›<B	267_scale*;* B4bbox_head.multi_level_bbox.2.conv1.weight_zero_point*9"½£ח;B/bbox_head.multi_level_bbox.2.conv1.weight_scale*ֲ@B3bbox_head.multi_level_bbox.2.conv1.weight_quantizedJ€)
++Jתûÿץÿ‎יÙ‎jלן׀ÿ°חףערÿ‏ü
+	 üÿ״פ‏ÿ ü$ת
+ÿ‎ÿÿûמתÿ‎ש ÿ	 ÿ (פÿ‎ל‎ ‏ÿכÿ,‏‏¿שÿ¸üקÿ{9Þûץי
+ ר& Ûÿפ‏%ÿֶ‏~üשÿ ÿתÙףßכ #רעÿתתף‎שüתרע‏‏‎ מ&ÿÿ שÝן'ש ûû ü ÿ
+ÿÿ‏נז‏ם
+ ךקÿ‎‏,ÿ5&נ
+üÿ!
+‏דÿל	עü**aB268_zero_point*"°צ|<B	268_scale*;* B4bbox_head.multi_level_bbox.2.conv2.weight_zero_point*9"ֿ÷;B/bbox_head.multi_level_bbox.2.conv2.weight_scale*eB3bbox_head.multi_level_bbox.2.conv2.weight_quantizedJ$**y-Yסֶרֶ¹ע±תניסא½ײסײנ(G 1**ÛB269_zero_point*"My³=B	269_scale*:* B3bbox_head.multi_level_obj.0.conv1.weight_zero_point*8"] <B.bbox_head.multi_level_obj.0.conv1.weight_scale*€@B2bbox_head.multi_level_obj.0.conv1.weight_quantizedJ@׀לרלÿÛפ÷ֶנָי‏ֳüטא4»ְ¾¾‏ ½ֿ־ÿ־ֿענ¬ַÚ‹׃TֻץצץִֹÞֹחבßִ‏ß»**בB270_zero_point*"ƒKs>B	270_scale*:* B3bbox_head.multi_level_obj.0.conv2.weight_zero_point*8"8ׂ<B.bbox_head.multi_level_obj.0.conv2.weight_scale*IB2bbox_head.multi_level_obj.0.conv2.weight_quantizedJ	ÿÿ שר‏שÿ**ּB271_zero_point*"*=B	271_scale*:* B3bbox_head.multi_level_obj.1.conv1.weight_zero_point*8"!Tק;B.bbox_head.multi_level_obj.1.conv1.weight_scale*€@B2bbox_head.multi_level_obj.1.conv1.weight_quantizedJ@±ױננ–כ‎‎ ג״‎ךüסמ‎!אאץֹששü₪זשסÿֶך§ÿ₪‎>ױׁצ)Þׂר״ײע5מַכץתא**בB272_zero_point*">%׃=B	272_scale*:* B3bbox_head.multi_level_obj.1.conv2.weight_zero_point*8"א&˜<B.bbox_head.multi_level_obj.1.conv2.weight_scale*IB2bbox_head.multi_level_obj.1.conv2.weight_quantizedJ	**×B273_zero_point*"₪=B	273_scale*:* B3bbox_head.multi_level_obj.2.conv1.weight_zero_point*8"ֶ†<B.bbox_head.multi_level_obj.2.conv1.weight_scale*€@B2bbox_head.multi_level_obj.2.conv1.weight_quantizedJ@»חÞ<’©§רִעֵףצFü
+!ׁoשחל¹> ןחגי2&Ý”ÿƒ,ֵרNם‎ײ²**µB274_zero_point*"EB>B	274_scale*:* B3bbox_head.multi_level_obj.2.conv2.weight_zero_point*8"˜ס«<B.bbox_head.multi_level_obj.2.conv2.weight_scale*IB2bbox_head.multi_level_obj.2.conv2.weight_quantizedJ	ÿÿ**}B275_zero_point*"Ý<B	275_scale*:* B3bbox_head.multi_level_kps.0.conv1.weight_zero_point*8"9†;B.bbox_head.multi_level_kps.0.conv1.weight_scale*ֱ
+@B2bbox_head.multi_level_kps.0.conv1.weight_quantizedJ€ÿ,׳
+Hת¾ ´צßÿÿע!+üתז¿טÝץR
+זÝÞ‎־§ונהנרנגÊdÜûטָר־־ש־ףûשן‏ךי‏נ   טפ ףׁך	ü, 
+‏מךןיױÿ‎	ערfצAםüÜüןןת־ÿ@׀¿ÚעKת
+û9תצת1	 ־ש½ûֹתב ױרנחטֹָָֹי‎‎ûנףü›לףרךû&כצü
+םü׳
+י	.צרûÿול״תנלשh ץ4ףש Úחךֹ ^ קקורת״4û‏ûÿםחףת"ד
+‏‎#מ™ûת«‏ףמÜףםÙlעןג$ֵ¼¿ףüלתצ ½וף!‏ש‏ת%כ‎
+	זץ)ּ*,‎‎ûם‏Ú
+ÿ‎עüb ק$3Þ‎טֲ‏²Uמד‎מח.‎אּשבÜסכ(ױ׀¡גסמםרךטײ»מkע+קגהעֽ׀‎¹
+ק;Þץמ-
+ָÚ,5״ ‎כּÿפגץ–רÝת%ÿלפיטחנרÚ‏
+&¸שÙת*תN<ןג3ֱ6נ¸)ׂשו
+שֵר
+צק¹&ףÿצףרמק־תנH@ÿN \ ּ ן.׃¿¹ךשבת
+ÜÞש9צךף	צןץמפMֲ  %û	ץשû
+‏ףפüûשנD2 **^B276_zero_point*"¼n=B	276_scale*:* B3bbox_head.multi_level_kps.0.conv2.weight_zero_point*8"”װַ;B.bbox_head.multi_level_kps.0.conv2.weight_scale*
+B2bbox_head.multi_level_kps.0.conv2.weight_quantizedJZ$E¾)עָך@Z8I¦@›ת[¼ת+לֳז\5H>£.R¦=ׁש+o%)R)ִI’H¬ָך¾נ
+/8קÙdץ¦bל¢תטע,<"I8**B277_zero_point*"·ƒ^<B	277_scale*:* B3bbox_head.multi_level_kps.1.conv1.weight_zero_point*8"¡שC;B.bbox_head.multi_level_kps.1.conv1.weight_scale*ֱ
+@B2bbox_head.multi_level_kps.1.conv1.weight_quantizedJ€ÿ A    םף ÿÿ  ר! — קÿÿÿ ‏
+     ר ü מ?‎   ÿ ÿÿ  ףü  ü ‏     üÿ‎üק ÿ‏ûÝ‏ ˆ ֵ תÿ %ת‏ / שד‏ אךזרÿ  ÿ  ÿ7 !   ÿÿÿ  זÿ£פצ  ח $ 	  ÿ ‏F	ü  ‎ ‏ÿ ף‎  üÿ‏     ‎ÿ‎üץ ‏üÜ‏ ˆ ֵ תÿ &ש‏ / שד‏ בךזרÿ  ÿ ¥ ז   י‎û    $קÿ ü^ÿץ ת  ÿט א ת  סÿ ÿף‏ ‏צ‏ Êתש‎  ‏ÿ      ÿ  ‎ÿ 	ÿ  ÿ‏  ‏{  @  ף ײץס   +
+ט   ‏¼ יÿ  ע‏    מ ÿףe צ‏ ט  ז û   ÿÿקÿ ‏ך 
+ֱ‎ץ  ÿ ‎‎ע פח  ל‏הÿ ÿ  ÿ ûÿפך‎‏גן‏כÿ ‏ „תÿ¿ ץÿ ‎תש (
+ ןÿּבדפû  ÿ  6     ÿ‏ÿ  חÿ¢צץ 
+ ך # 	 ÿ   F	ת  ‏         ‏    B   Ùÿק ף‏/נ  ‏**%B278_zero_point*"מÊ;B	278_scale*:* B3bbox_head.multi_level_kps.1.conv2.weight_zero_point*8"w;B.bbox_head.multi_level_kps.1.conv2.weight_scale*
+B2bbox_head.multi_level_kps.1.conv2.weight_quantizedJZüY· ץסף‎E‎שûh׃ 
+סף‎D‏שûבסנ“$יÜ‎נsְחשצ 9ץßצןƒספ4צןחמe׀ ־
+**…B279_zero_point*"+c><B	279_scale*:* B3bbox_head.multi_level_kps.2.conv1.weight_zero_point*8"²Ü÷;B.bbox_head.multi_level_kps.2.conv1.weight_scale*ֱ
+@B2bbox_head.multi_level_kps.2.conv1.weight_quantizedJ€ד@	יֿ‏ 'רüשתֲפ‎ֹק	‎ּ‏פÿüÝנüפ
+¯ש ה1׃ף‎ע‏רכÿ  מÿÿ‎üץÙûפüרüû	מם}‏ü‏.Ûק
+üֻ‎סרünשÜרם	אתל)‎שָü &ז ‏ץן5¹‎תÝ ״הרגפיצSק‎ןמיû4¿‏כץם‏סץץ‏שרצ‏ס‎üקפפףז‎  " Ú,‏גפü מ,û‎ ”
+טü%צרק.F‎פמ¶תIü‎ûןטיÛü-$ÿ ´‏	ץüקû™‏ 
+Fש ףÿץ‏ÿ	
+ üףײרûü&û צקהשüפי ט‏ÿתÊףץCÛףם;פי5י Ý ִüש	²ÿ7ü8ûÜ‎ü(׀ÿףÿ9פ	ת‏ּ	 ש=ךׂטקU‎
+ק! Oע0רֹל‎Ù+ףÿמÿ‎	üעכÿט ץ‏	רהנ‏ûמ‎הףû ְף₪ÿָ)דעלÿß	‎8 דû	 ÿקÞרûף;ראנü‎ךü‏Uÿ­תû#א¶ש	&‎‏ׂל5ÿ‏
+û7‏ךü‏ס ‏ץÿ	קן‏‏צקÿצ‏üהְ‏צ§רגֻיעÿßט‏™ÿ@ה#ü**bB280_zero_point*"ƒ²<B	280_scale*:* B3bbox_head.multi_level_kps.2.conv2.weight_zero_point*8"$³;B.bbox_head.multi_level_kps.2.conv2.weight_scale*
+B2bbox_head.multi_level_kps.2.conv2.weight_quantizedJZ7=4k6-e'ָ׀ז®•¹ֵ§׳ףֳֹֽ‡·׳˜׃!/1?iZ-W8#.(<nA7=בֲנ¹“«ֱ®ֹÞׂיַֱַ‚ֹכֲְ‡³µֽ%"3kM0Iףֲשַ†«½ֶ** Bcls_8_zero_point*"¯|t;Bcls_8_scale** Bcls_16_zero_point*"÷5M;Bcls_16_scale** Bcls_32_zero_point*"´`;Bcls_32_scale** Bobj_8_zero_point*"ûg€;Bobj_8_scale** Bobj_16_zero_point*"•u;Bobj_16_scale** Bobj_32_zero_point*"K~€;Bobj_32_scale*UB421_quantizedJ@x   ]  ר&  ח2  `  XײÿÿÝ  ¢H  <  R  boÿÿִ
+  ס  T8  ,
+  %  *B421_quantized_scaleJ#8** B421_quantized_zero_point*rB*backbone.model0.conv2.conv1.bias_quantizedJ@•ףÿÿÿשÿÿ8ÿÿÿLûÿÿÙüÿÿgüÿÿ¨  lףÿÿ          4  ״ÿÿÿ׀  —üÿÿ¸ûÿÿ*<B0backbone.model0.conv2.conv1.bias_quantized_scaleJװ9*<* B5backbone.model0.conv2.conv1.bias_quantized_zero_point*UB424_quantizedJ@U  “
+  3ûÿÿÿÿÿ´ÿÿÿY   V   ÿÿÿG   §   9  v  ׃
+  ™ÿÿÿ   ¶ÿÿÿ*B424_quantized_scaleJb:** B424_quantized_zero_point*rB*backbone.model1.conv1.conv1.bias_quantizedJ@^‏ÿÿמ‏ÿÿÛ‏ÿÿ  |‏ÿÿׁÿÿÿ‎ÿÿ•ÿÿÿ•ÿÿÿד  F  ±ÿÿÿ×  ‏ÿÿ   –‏ÿÿ*<B0backbone.model1.conv1.conv1.bias_quantized_scaleJה–³9*<* B5backbone.model1.conv1.conv1.bias_quantized_zero_point*UB427_quantizedJ@v   w  ֻÿÿÿ  A  7  ™   ‏ÿÿi   ¯  ^  4     µ  ס‎ÿÿlÿÿÿ*B427_quantized_scaleJ׀m:** B427_quantized_zero_point*³ B*backbone.model1.conv2.conv1.bias_quantizedJ€
+  ‏ÿÿn   W  4‎ÿÿÜ  ;ÿÿÿקÿÿ<‎ÿÿץÿÿÿ‚   ס‎ÿÿ?ÿÿÿ   »   B‏ÿÿֳÿÿÿֶûÿÿה‎ÿÿהÿÿÿ  5תÿÿ¦‏ÿÿ³ÿÿÿPÿÿÿv  u  מûÿÿט‏ÿÿ!נÿÿ´ûÿÿ÷  *<B0backbone.model1.conv2.conv1.bias_quantized_scaleJ׃9*<* B5backbone.model1.conv2.conv1.bias_quantized_zero_point*– B430_quantizedJ€—  צÿÿכ‏ÿÿ’ÿÿÿCÿÿÿ®
+    w  m  U   עÿÿÿ    %  גÿÿÿüÿÿו‎ÿÿÝ  ©   ¯ÿÿÿü        עûÿÿ
+  H    ָ  ‡  °  ÿÿÿנÿÿÿR   *B430_quantized_scaleJa¡:** B430_quantized_zero_point*³ B*backbone.model2.conv1.conv1.bias_quantizedJ€_   ¸תÿÿ  I‏ÿÿw   ש  ;ÿÿÿ³ÿÿÿ'  6   ©ÿÿÿגûÿÿ¼ÿÿÿV  µüÿÿֲתÿÿD‏ÿÿa  ]  ÿÿÿe‎ÿÿ~   ֱ    ®‏ÿÿ;שÿÿ›תÿÿ‏ÿÿ|      ÙÿÿÿM  *<B0backbone.model2.conv1.conv1.bias_quantized_scaleJ־Aד8*<* B5backbone.model2.conv1.conv1.bias_quantized_zero_point*– B433_quantizedJ€y  4  V  tÿÿÿ¾  Z  Þüÿÿ‏ÿÿמ  Cÿÿÿִ  Q  üÿÿט  ‚  $  d‏ÿÿüÿÿÿ™ÿÿÿ  הÿÿÿW  §ÿÿÿAשÿÿמסÿÿך  O    X    _  :   *B433_quantized_scaleJOֱß9** B433_quantized_zero_point*³@B*backbone.model2.conv2.conv1.bias_quantizedJ€‚  ױ  ¢‎ÿÿÿ  ₪  U‏ÿÿנ‏ÿÿ[תÿÿׁקÿÿ·  3ÿÿÿֵ  ס‏ÿÿֲÿÿÿ  y‏ÿÿ¾‏ÿÿ?תÿÿ¹     ’   ׀רÿÿ   o  ח  ‎	  צÿÿY‏ÿÿ&  ¼נÿÿ₪  üץÿÿn  ץ   F  ²פÿÿג  ™רÿÿ   Hûÿÿ‎  קÿÿ  ט  U‎ÿÿÿÿÿ	תÿÿּנÿÿX  !  נ	  q  ב‏ÿÿ   G‎ÿÿ   hûÿÿP  ¡צÿÿüÿÿF  Nûÿÿ:‏ÿÿץÿÿ*<B0backbone.model2.conv2.conv1.bias_quantized_scaleJ¡e8*<* B5backbone.model2.conv2.conv1.bias_quantized_zero_point*–@B436_quantizedJ€ÿÿÿט  ¡‏ÿÿB    ־‏ÿÿ1שÿÿÿÿÿ’‏ÿÿÚ  §  ן  ץÿÿ$‎ÿÿאצÿÿ׃‎ÿÿ»‎ÿÿ  ü‎ÿÿ›צÿÿ³  ›‎ÿÿÿÿÿ  <ÿÿÿE  ³‎ÿÿyÿÿÿ·‎ÿÿײ‎ÿÿמ   '   O  ַקÿÿ»ûÿÿֲ  ץÿÿ׃  ט  üÿÿ¡  )     ¾   ¨תÿÿS      תÿÿÿÿÿ€ÿÿÿכ  Û‏ÿÿךתÿÿ-‏ÿÿvÿÿÿףקÿÿא  װמÿÿ™	  ®ÿÿÿ¦  .  חשÿÿ³   *B436_quantized_scaleJ~…9** B436_quantized_zero_point*³@B*backbone.model3.conv1.conv1.bias_quantizedJ€Q  ‏ÿÿ—ךÿÿb  ¯ץÿÿü  ּ  ׀  b  Z   ש  ץ  ‘‏ÿÿ¶‏ÿÿÝ  C  
+  ƒרÿÿ¯	  ¥  ױתÿÿC  ‹   ¸  ֵ	  ßעÿÿ´  g  קÿÿY  ;  Bÿÿÿ_  םסÿÿָ  ü  װ
+  =רÿÿ€  א  ׂרÿÿJ‏ÿÿaקÿÿ…üÿÿpףÿÿןשÿÿ.פÿÿא  ƒשÿÿײשÿÿh  7  4  #  †‏ÿÿ™  'הÿÿ¶  2ÿÿÿ™  Sÿÿÿ/  ר  —  *<B0backbone.model3.conv1.conv1.bias_quantized_scaleJo/&8*<* B5backbone.model3.conv1.conv1.bias_quantized_zero_point*–@B439_quantizedJ€Þ  -  9  a    F   ק  ץ  ֲÿÿÿֳקÿÿ%   ֱÿÿÿֵ   ¨  ־  ¾‏ÿÿ ÿÿÿלÿÿÿ6  ]‏ÿÿץ   3  (     F  כ   ֿ   ײתÿÿ/  ,‏ÿÿ¥    ‏ÿÿ7  C   –  ¹  Ýÿÿÿ3     aÿÿÿֶ   ײ    י  †‏ÿÿ+ÿÿÿַ    2  z‏ÿÿZÿÿÿH  o  ‡ÿÿÿüüÿÿוüÿÿ‰   ֿ    Ê   ±‏ÿÿקÿÿÿ«ÿÿÿ*B439_quantized_scaleJ¥ו9** B439_quantized_zero_point*³@B*backbone.model3.conv2.conv1.bias_quantizedJ€†ûÿÿר   ‘  ־  ‹‎ÿÿj‎ÿÿ¡צÿÿW     t  Úüÿÿxûÿÿֳ  )  ¯שÿÿ§   ”  R   —רÿÿÛ    Z  #  Rקÿÿ>  €üÿÿ  c‏ÿÿc   #  °	  ×ÿÿÿ„  ˆüÿÿ!üÿÿך     ‏ÿÿ@   (üÿÿÿÿÿ  Güÿÿµüÿÿûÿÿ)‏ÿÿ½ÿÿÿא  \  q‎ÿÿ-  ÷    ƒ‏ÿÿ\‏ÿÿֵûÿÿס    ¶ÿÿÿm	  ₪   ש  Tûÿÿ_üÿÿ*<B0backbone.model3.conv2.conv1.bias_quantized_scaleJ™רְ8*<* B5backbone.model3.conv2.conv1.bias_quantized_zero_point*–@B442_quantizedJ€  3  n  
+  '  T     )   B  Küÿÿˆ  “‎ÿÿ—  s  |‏ÿÿI    pûÿÿ´ÿÿÿ„‎ÿÿw   ׃‏ÿÿ  –  ?   ±  ׃‏ÿÿl     ½üÿÿ/  ןקÿÿ  $üÿÿ‏ÿÿ‏üÿÿ¯ÿÿÿ¾  Þ  ָ  ֻ  ֽ  Yûÿÿ3  ¥   Ê  ֵ  ©  H  ÿ  ¶  Ê  `קÿÿU  ¯  ±ףÿÿ‰  iûÿÿN  כ  _‏ÿÿn   Û‏ÿÿֵÿÿÿ*B442_quantized_scaleJי¼9** B442_quantized_zero_point*³@B*backbone.model4.conv1.conv1.bias_quantizedJ€ÿ  !   W  ¨  y  „ץÿÿ	  J  .  «  >ûÿÿU‎ÿÿןÿÿÿlÿÿÿ´  ױתÿÿְûÿÿ=ÿÿÿa‏ÿÿרÿÿ¼üÿÿרÿÿ‘‎ÿÿ®   בÿÿÿB  ²ÿÿÿ3  צ  üÿÿÿסצÿÿ  Qüÿÿז  [  ׃   ˆעÿÿl  ו  ½
+  §ÿÿÿַ   ³‏ÿÿ&‏ÿÿ=  ­קÿÿש    ‘üÿÿ  ,üÿÿה  רשÿÿµ   ?ûÿÿ²  צ  ֹ‎ÿÿVûÿÿ%תÿÿa  †  ûÿÿFרÿÿ*<B0backbone.model4.conv1.conv1.bias_quantized_scaleJם–“8*<* B5backbone.model4.conv1.conv1.bias_quantized_zero_point*–@B445_quantizedJ€   ס  b  ˜   ÿÿÿG  ‏ÿÿ=  	  G  "  g  װ  wÿÿÿ}  “   Þ   ה   ׳ÿÿÿ÷  *  ,ÿÿÿ<  o   עתÿÿC  ¸  ֽ  נ‎ÿÿ‹ÿÿÿׁ  ׃   Ú   l  6‏ÿÿ1   ¶‏ÿÿ5‏ÿÿd  „ÿÿÿL‏ÿÿ[     `  ע  ~  )  ןÿÿ    dÿÿÿb‏ÿÿ   	  <  h  יקÿÿׁ‎ÿÿ‏ÿÿÿ#ÿÿÿûÿÿ     ת   Ù  *B445_quantized_scaleJ¦•מ9** B445_quantized_zero_point*³@B*backbone.model4.conv2.conv1.bias_quantizedJ€xÿÿÿז  v  ְץÿÿi  ûÿÿ"רÿÿmתÿÿ{ÿÿÿÿÿÿx  ³   ›קÿÿ  תÿÿnÿÿÿ‏ÿÿ״  
+‎ÿÿ
+  –‎ÿÿ³ûÿÿ|  üÿÿ  :   6  w  °üÿÿ*  ״  ”ûÿÿv  "  ז‎ÿÿ"    ]‏ÿÿ    fרÿÿ}üÿÿ"  u  ‰‏ÿÿץ  ©צÿÿ׃  [  R  M  ü  m   צÿÿֽ‏ÿÿֽצÿÿz   ´    ¹  c  ±ÿÿÿû
+  ס  *<B0backbone.model4.conv2.conv1.bias_quantized_scaleJ’«‘8*<* B5backbone.model4.conv2.conv1.bias_quantized_zero_point*–@B448_quantizedJ€‡   לÿÿÿ@   h        “ÿÿÿ¦   ֱ  &ÿÿÿD  !  ~  ÙÿÿÿN‏ÿÿ¸      ¦ÿÿÿp   \   C   <   @ÿÿÿ  ›  ,   %‏ÿÿ<   £  ײ  ‚ÿÿÿ,   רÿÿÿÿÿÿ[  C    †‎ÿÿֹתÿÿֿ   ¢  Þ‏ÿÿÊ  =ÿÿÿv    ¼ÿÿÿ
+  «      ÿÿÿF   J   ;ÿÿÿ¼‎ÿÿÿÿÿ÷  ֱÿÿÿT      Y   -   ’   µ  *B448_quantized_scaleJ¹«˜:** B448_quantized_zero_point*³@B*backbone.model5.conv1.conv1.bias_quantizedJ€חüÿÿ/üÿÿֳ  *‏ÿÿֿÿÿÿ¨ÿÿÿ=  X      נ‎ÿÿרüÿÿ±   1  —שÿÿ׃   ‏ÿÿ’   	  ,ûÿÿ‏‎ÿÿט      כ‏ÿÿm‏ÿÿB‎ÿÿ  K‏ÿÿ‏ÿÿ€ÿÿÿb   ¡‎ÿÿֻ‏ÿÿÝ  Mתÿÿק   °   H    qÿÿÿy   ˜רÿÿüÿÿÿSÿÿÿֶÿÿÿ¯‏ÿÿ„ûÿÿÙתÿÿֱÿÿÿ    v  ?ûÿÿd‎ÿÿW  …‏ÿÿג  9‎ÿÿÛÿÿÿ  \‏ÿÿ‚  ֶקÿÿ‏ÿÿפûÿÿ*<B0backbone.model5.conv1.conv1.bias_quantized_scaleJ'²9*<* B5backbone.model5.conv1.conv1.bias_quantized_zero_point*–@B451_quantizedJ€ÿÿÿ}ÿÿÿ›‏ÿÿ4‎ÿÿp  ‏שÿÿִ‎ÿÿu‏ÿÿ    0‏ÿÿֽ      m   lÿÿÿwÿÿÿ˜שÿÿׁ  0   ‏ÿÿx  ₪‏ÿÿoÿÿÿד    :ûÿÿ#ÿÿÿ–  £   l  ©ÿÿÿ-   ׁ   q   5üÿÿ ÿÿÿf   ÿÿÿו     J   ]  	ÿÿÿ&‏ÿÿ   ÿÿÿ¸  Ýÿÿÿ¢     ׳‏ÿÿת   ¹    Y‏ÿÿב   ֶÿÿÿÚÿÿÿֻ‏ÿÿ›ÿÿÿ%  ±ÿÿÿפ  -‏ÿÿ'‎ÿÿ*B451_quantized_scaleJ7y):** B451_quantized_zero_point*³@B*backbone.model5.conv2.conv1.bias_quantizedJ€ֶüÿÿ<‏ÿÿ;  Üקÿÿ  ךûÿÿ5     €  ‰üÿÿN‏ÿÿ”‏ÿÿ~üÿÿÞ  ÿÿÿד‏ÿÿ2  p  ¬ÿÿÿy‏ÿÿ¼‎ÿÿ‹    +‎ÿÿ|ûÿÿ>üÿÿױÿÿÿd  ³  ‹  ט  „ÿÿÿ×ÿÿÿ·  ת  ‏ÿÿÿk    S   Üÿÿÿ    N   שÿÿÿD‎ÿÿ₪  aÿÿÿÿÿÿ‘  fÿÿÿüÿÿm  ¹ÿÿÿw  Müÿÿ{ûÿÿÝ   דÿÿÿP  0ÿÿÿ׃  HûÿÿP‎ÿÿ¾  *<B0backbone.model5.conv2.conv1.bias_quantized_scaleJ-ÛÙ8*<* B5backbone.model5.conv2.conv1.bias_quantized_zero_point*–@B454_quantizedJ€ֲ‎ÿÿmüÿÿ}ÿÿÿB  ÿÿÿ9  ר  6   ‚üÿÿ*צÿÿ   vûÿÿ   ½ÿÿÿ    <  ’     E     ׀ÿÿÿ£‏ÿÿ3  ÿüÿÿרתÿÿ—üÿÿף  f  ûÿÿ2    ÷ÿÿÿ2    ˆüÿÿ8  |  ´  ]ÿÿÿֵ   £‏ÿÿÝ‏ÿÿ  ’  €  Jÿÿÿײ  #  E  טÿÿÿת‏ÿÿr  ׃    Êÿÿÿ¶  @  ¦   ֱ  ÿÿÿֳקÿÿ  o   ~   *B454_quantized_scaleJu¥9** B454_quantized_zero_point*²@B)neck.lateral_convs.2.conv1.bias_quantizedJ€°ûÿÿ<  ֶ  ׀  פ  o   ‹   ׂפÿÿב  _   ~   ר  ב  ך  ƒ  ¾  Û  	  ד  ט   L   ‏ÿÿ״üÿÿ$ÿÿÿü   תÿÿc    !ÿÿÿÚףÿÿ5קÿÿט‎ÿÿ÷  ¨‏ÿÿ  ¼  P  ÿÿÿD  ‹
+  ף   z   שÿÿ\  )רÿÿתÿÿז  Qףÿÿא  א‎ÿÿ­טÿÿûÿÿp‎ÿÿûצÿÿy  1  ¡‎ÿÿûתÿÿH  ´  ´כÿÿ“ûÿÿ@    *;B/neck.lateral_convs.2.conv1.bias_quantized_scaleJE=Z8*;* B4neck.lateral_convs.2.conv1.bias_quantized_zero_point*–@B457_quantizedJ€Z    h  7
+  6  ,  ש   
+  Mÿÿÿ  •ÿÿÿ¢  פ  Y   ¶‏ÿÿ   ױ‏ÿÿס   ¡  -  Û    •  +  a‏ÿÿ0   ב   ÿÿÿ±‏ÿÿ¡  ל  !  ®  ~  ^ÿÿÿÿÿÿְ  Û  מ  ׳  V  ×  ]‏ÿÿ  $  u  ‎‏ÿÿ)  A  ±  i
+    µ‏ÿÿ_  ¦     g      ק‏ÿÿÊ‎ÿÿ«  \  f  *B457_quantized_scaleJ!%4:** B457_quantized_zero_point*²@B)neck.lateral_convs.1.conv1.bias_quantizedJ€ט‏ÿÿg‎ÿÿֲ‏ÿÿ    ×ÿÿÿ)  >‏ÿÿׂÿÿÿ{  7   $ÿÿÿu‏ÿÿ™תÿÿה  תüÿÿ  «‏ÿÿk  i‏ÿÿU‎ÿÿו   ¼ÿÿÿIÿÿÿQ    üÿÿ*‎ÿÿ½  ¹   !      ¼  J  א  ~      T     „  Fÿÿÿ  )  U  <üÿÿ,  Ê   ְ   O‏ÿÿÊ‎ÿÿC  ¯üÿÿ€ûÿÿך‏ÿÿ˜תÿÿ^  „  \‏ÿÿ  ˜‎ÿÿbÿÿÿÜ   Zשÿÿ©‎ÿÿh  *;B/neck.lateral_convs.1.conv1.bias_quantized_scaleJ¯ְÞ8*;* B4neck.lateral_convs.1.conv1.bias_quantized_zero_point*–@B460_quantizedJ€  @  1üÿÿ9  $  5üÿÿh   –  ֳ  ױ‎ÿÿx  ךûÿÿ‏ÿÿÿÿÿ‎ÿÿ־  9ÿÿÿ?‏ÿÿÿÿÿ<  ‚  i  }  ֽ   ד‏ÿÿױ  q   ‏ÿÿ#  ‎ÿÿ/ףÿÿr‎ÿÿ¿üÿÿׂ  Y
+  ֻûÿÿ;  ,  ׀   z  o  ³‏ÿÿR  ‘ûÿÿ  הףÿÿ׃   O‏ÿÿd   –
+  N  ה  ֻ  pרÿÿ  ת  =  c  תÿÿ›‎ÿÿ   Eÿÿÿכ‏ÿÿg‏ÿÿ*B460_quantized_scaleJCו:** B460_quantized_zero_point*²@B)neck.lateral_convs.0.conv1.bias_quantizedJ€  Bÿÿÿ°   ֲ‎ÿÿעüÿÿƒ   ¢üÿÿk  J   »‏ÿÿ׀   ß‎ÿÿ¢   f  ‏ÿÿ   נ‎ÿÿסûÿÿC   ¹  eüÿÿ<ÿÿÿg  ם  2  £  h   ‏ÿÿ   d  “ÿÿÿ  ¾רÿÿ@‎ÿÿף   {  ¸  “üÿÿXÿÿÿfÿÿÿײ‎ÿÿÚÿÿÿֱÿÿÿ@  ‰   Rÿÿÿכ  ‘ÿÿÿ„ÿÿÿ^ÿÿÿף  7	  ¹  ‏  
+‏ÿÿ¼‏ÿÿזûÿÿֿ‏ÿÿÚ   5  5  Üûÿÿ‰   ‏ÿÿ*;B/neck.lateral_convs.0.conv1.bias_quantized_scaleJ¥ֳ8*;* B4neck.lateral_convs.0.conv1.bias_quantized_zero_point*–@B463_quantizedJ€¼   l  L  	    xÿÿÿF     5  Ú  ³          ‹  ׀  ₪    ©ÿÿÿ’  י  ו   ß  ״‏ÿÿ-  d   9  )   C  ּûÿÿ-  A   °  ב  —  Y  
+  f  :‏ÿÿÿÿÿFÿÿÿz‎ÿÿH  4   ÿÿÿ>üÿÿ±  ק  M  ¶ÿÿÿ.   !    ¾ÿÿÿ-  ‰  >   ‎‏ÿÿ7  ֿ‏ÿÿa  G  ¨   C‏ÿÿ*B463_quantized_scaleJ‹J:** B463_quantized_zero_point*<B0bbox_head.multi_level_cls.0.conv1.bias_quantizedJ4  *BB6bbox_head.multi_level_cls.0.conv1.bias_quantized_scaleJnÜ’8*B* B;bbox_head.multi_level_cls.0.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_cls.0.conv2.bias_quantizedJ(  *BB6bbox_head.multi_level_cls.0.conv2.bias_quantized_scaleJ3sֱ7*B* B;bbox_head.multi_level_cls.0.conv2.bias_quantized_zero_point*<B0bbox_head.multi_level_cls.1.conv1.bias_quantizedJ\תÿÿ*BB6bbox_head.multi_level_cls.1.conv1.bias_quantized_scaleJׂa8*B* B;bbox_head.multi_level_cls.1.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_cls.1.conv2.bias_quantizedJQ  *BB6bbox_head.multi_level_cls.1.conv2.bias_quantized_scaleJ7"8*B* B;bbox_head.multi_level_cls.1.conv2.bias_quantized_zero_point*<B0bbox_head.multi_level_cls.2.conv1.bias_quantizedJ>לÿÿ*BB6bbox_head.multi_level_cls.2.conv1.bias_quantized_scaleJקm8*B* B;bbox_head.multi_level_cls.2.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_cls.2.conv2.bias_quantizedJ.*  *BB6bbox_head.multi_level_cls.2.conv2.bias_quantized_scaleJ¨ֵ7*B* B;bbox_head.multi_level_cls.2.conv2.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.0.conv1.bias_quantizedJױלÿÿלÿÿסקÿÿ+שÿÿ*CB7bbox_head.multi_level_bbox.0.conv1.bias_quantized_scaleJYף9*C* B<bbox_head.multi_level_bbox.0.conv1.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.0.conv2.bias_quantizedJ‏  y     Y'  *CB7bbox_head.multi_level_bbox.0.conv2.bias_quantized_scaleJ@9*C* B<bbox_head.multi_level_bbox.0.conv2.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.1.conv1.bias_quantizedJ׃תÿÿ¥  Süÿÿ†üÿÿ*CB7bbox_head.multi_level_bbox.1.conv1.bias_quantized_scaleJס8*C* B<bbox_head.multi_level_bbox.1.conv1.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.1.conv2.bias_quantizedJ¼-  ז/  W     *CB7bbox_head.multi_level_bbox.1.conv2.bias_quantized_scaleJ>G&8*C* B<bbox_head.multi_level_bbox.1.conv2.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.2.conv1.bias_quantizedJb  וüÿÿ‏ÿÿP   *CB7bbox_head.multi_level_bbox.2.conv1.bias_quantized_scaleJ„ױ9*C* B<bbox_head.multi_level_bbox.2.conv1.bias_quantized_zero_point*IB1bbox_head.multi_level_bbox.2.conv2.bias_quantizedJx    ›>  G  *CB7bbox_head.multi_level_bbox.2.conv2.bias_quantized_scaleJ²~­8*C* B<bbox_head.multi_level_bbox.2.conv2.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.0.conv1.bias_quantizedJפ  *BB6bbox_head.multi_level_obj.0.conv1.bias_quantized_scaleJ–‏9*B* B;bbox_head.multi_level_obj.0.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.0.conv2.bias_quantizedJ®üÿÿ*BB6bbox_head.multi_level_obj.0.conv2.bias_quantized_scaleJ±N;*B* B;bbox_head.multi_level_obj.0.conv2.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.1.conv1.bias_quantizedJ   *BB6bbox_head.multi_level_obj.1.conv1.bias_quantized_scaleJG»<9*B* B;bbox_head.multi_level_obj.1.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.1.conv2.bias_quantizedJ3ÿÿÿ*BB6bbox_head.multi_level_obj.1.conv2.bias_quantized_scaleJ<:*B* B;bbox_head.multi_level_obj.1.conv2.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.2.conv1.bias_quantizedJh  *BB6bbox_head.multi_level_obj.2.conv1.bias_quantized_scaleJ„ֽ)9*B* B;bbox_head.multi_level_obj.2.conv1.bias_quantized_zero_point*<B0bbox_head.multi_level_obj.2.conv2.bias_quantizedJiÿÿÿ*BB6bbox_head.multi_level_obj.2.conv2.bias_quantized_scaleJ(cN:*B* B;bbox_head.multi_level_obj.2.conv2.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.0.conv1.bias_quantizedJ(7
+  9  0    5  ¸
+  ׃  üÿÿPקÿÿ0  *BB6bbox_head.multi_level_kps.0.conv1.bias_quantized_scaleJj%9*B* B;bbox_head.multi_level_kps.0.conv1.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.0.conv2.bias_quantizedJ(‎ÿÿ=  ל  ~  ‰  j  ´   ר	    ü	  *BB6bbox_head.multi_level_kps.0.conv2.bias_quantized_scaleJS…,9*B* B;bbox_head.multi_level_kps.0.conv2.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.1.conv1.bias_quantizedJ(   כ‏ÿÿױ  ס‏ÿÿְûÿÿן  ´üÿÿqûÿÿh  j  *BB6bbox_head.multi_level_kps.1.conv1.bias_quantized_scaleJr‹•8*B* B;bbox_head.multi_level_kps.1.conv1.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.1.conv2.bias_quantizedJ(/  ֵ	  Ý  ›	  c  ל  +    1  ,  *BB6bbox_head.multi_level_kps.1.conv2.bias_quantized_scaleJײְV8*B* B;bbox_head.multi_level_kps.1.conv2.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.2.conv1.bias_quantizedJ(ִûÿÿק  Êץÿÿ׳üÿÿ…  ַûÿÿ@  =ףÿÿ`  ףÿÿ*BB6bbox_head.multi_level_kps.2.conv1.bias_quantized_scaleJקפ8*B* B;bbox_head.multi_level_kps.2.conv1.bias_quantized_zero_point*`
+B0bbox_head.multi_level_kps.2.conv2.bias_quantizedJ(ÿשÿÿF‎ÿÿH  וüÿÿÝ  Ù	  Wüÿÿg  d
+  ¥  *BB6bbox_head.multi_level_kps.2.conv2.bias_quantized_scaleJ{:…8*B* B;bbox_head.multi_level_kps.2.conv2.bias_quantized_zero_pointZ!
+input
+
+
+
+ְ
+ְb
+cls_8
+
+
+ְ
+b
+cls_16
+
+
+
+b
+cls_32
+
+
+$
+b
+obj_8
+
+
+ְ
+b
+obj_16
+
+
+
+b
+obj_32
+
+
+$
+b
+bbox_8
+
+
+ְ
+b
+bbox_16
+
+
+
+b
+bbox_32
+
+
+$
+b
+kps_8
+
+
+ְ
+
+b
+kps_16
+
+
+
+
+b
+kps_32
+
+
+$
+
+j
+419
+
+
+
+`
+`j
+184
+
+
+
+`
+`j
+185
+
+
+
+`
+`j
+422
+
+
+
+`
+`j
+188
+
+
+
+`
+`j
+189
+
+
+
+0
+0j
+190
+
+
+
+0
+0j
+425
+
+
+
+0
+0j
+193
+
+
+
+0
+0j
+194
+
+
+ 
+0
+0j
+428
+
+
+ 
+0
+0j
+197
+
+
+ 
+0
+0j
+198
+
+
+ 
+0
+0j
+431
+
+
+ 
+0
+0j
+201
+
+
+ 
+0
+0j
+202
+
+
+@
+0
+0j
+434
+
+
+@
+0
+0j
+205
+
+
+@
+0
+0j
+206
+
+
+@
+
+j
+207
+
+
+@
+
+j
+437
+
+
+@
+
+j
+210
+
+
+@
+
+j
+211
+
+
+@
+
+j
+440
+
+
+@
+
+j
+214
+
+
+@
+
+j
+215
+
+
+@
+
+j
+216
+
+
+@
+
+j
+443
+
+
+@
+
+j
+219
+
+
+@
+
+j
+220
+
+
+@
+
+j
+446
+
+
+@
+
+j
+223
+
+
+@
+
+j
+224
+
+
+@
+
+j
+225
+
+
+@
+
+j
+449
+
+
+@
+
+j
+228
+
+
+@
+
+j
+229
+
+
+@
+
+j
+452
+
+
+@
+
+j
+232
+
+
+@
+
+j
+233
+
+
+@
+
+j
+455
+
+
+@
+
+j
+236
+
+
+@
+
+j
+241
+
+
+@
+
+j
+242
+
+
+@
+
+j
+243
+
+
+@
+
+j
+458
+
+
+@
+
+j
+246
+
+
+@
+
+j
+251
+
+
+@
+
+j
+252
+
+
+@
+
+j
+253
+
+
+@
+
+j
+461
+
+
+@
+
+j
+256
+
+
+@
+
+j
+257
+
+
+
+
+j
+258
+
+
+
+
+j
+259
+
+
+
+
+j
+260
+
+
+
+
+j
+261
+
+
+
+
+j
+262
+
+
+
+
+j
+263
+
+
+
+
+j
+264
+
+
+
+
+j
+265
+
+
+
+
+j
+266
+
+
+
+
+j
+267
+
+
+
+
+j
+268
+
+
+
+
+j
+269
+
+
+
+
+j
+270
+
+
+
+
+j
+271
+
+
+
+
+j
+272
+
+
+
+
+j
+273
+
+
+
+
+j
+274
+
+
+
+
+j
+275
+
+
+
+
+
+j
+276
+
+
+
+
+
+j
+277
+
+
+
+
+
+j
+278
+
+
+
+
+
+j
+279
+
+
+
+
+
+j
+280
+
+
+
+
+
+j
+281
+
+
+
+
+j
+291
+
+
+ְ
+j
+293
+
+
+
+
+j
+303
+
+
+
+j
+305
+
+
+
+
+j
+315
+
+
+$
+j
+317
+
+
+
+
+j
+327
+
+
+ְ
+j
+329
+
+
+
+
+j
+339
+
+
+
+j
+341
+
+
+
+
+j
+351
+
+
+$
+j
+353
+
+
+
+
+j
+364
+
+
+
+
+j
+375
+
+
+
+
+j
+386
+
+
+
+
+
+j
+397
+
+
+
+
+
+j
+408
+
+
+
+
+
+B
+ r
+
+onnx.inferonnxruntime.quant
