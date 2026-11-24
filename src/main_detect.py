@@ -1,6 +1,6 @@
 """매 처리 프레임 AI 검출. main_tracking.py와 동일 입력/제어/측정 공통 실행부.
 
-필요 파일: detectors.py, target_tracker.py, metrics.py.
+필요 파일: camera.py, detectors.py, target_tracker.py, metrics.py.
 각도 계산 시 angle_controller.py, --motor 시 servo_controller.py 추가.
 기존 detectors.py의 OpenCV DNN 실행 경로를 사용하며 INT8 호환성은 모델별 확인 필요.
 """
@@ -16,6 +16,7 @@ import numpy as np
 from detectors import create_detector
 from target_tracker import TargetTracker
 from metrics import Metrics
+from camera import Camera, DEFAULT_ROTATE, DEFAULT_MIRROR
 
 
 def arguments(mode):
@@ -32,6 +33,8 @@ def arguments(mode):
     p.add_argument('--video-fps', type=float, help='파일 FPS 메타데이터가 부정확할 때 지정')
     p.add_argument('--width', type=int, default=640)
     p.add_argument('--height', type=int, default=480)
+    p.add_argument('--rotate', type=int, choices=(0,90,180,270), default=DEFAULT_ROTATE, help='반시계 회전 각도')
+    p.add_argument('--mirror', action=argparse.BooleanOptionalAction, default=DEFAULT_MIRROR, help='회전 후 좌우반전; 해제: --no-mirror')
     p.add_argument('--threads', type=int, default=4)
     p.add_argument('--warmup', type=int, default=5)
     p.add_argument('--max-frames', type=int, default=0)
@@ -88,32 +91,22 @@ def run(mode='detect', hybrid_class=None):
     reason = 'finished'
     try:
         with ExitStack() as stack:
+            source = Camera(width=a.width, height=a.height,
+                            rotate=a.rotate, mirror=a.mirror,
+                            video=a.video, video_fps=a.video_fps)
+            stack.callback(source.close)
+            read = source.read
+            fps = source.fps
             if a.video:
-                source = cv2.VideoCapture(str(a.video))
-                stack.callback(source.release)
-                if not source.isOpened():
-                    raise RuntimeError(f'Cannot open video: {a.video}')
-                fps = a.video_fps or source.get(cv2.CAP_PROP_FPS)
-                if not np.isfinite(fps) or fps <= 0:
-                    raise RuntimeError('영상 FPS를 확인하고 --video-fps를 지정하세요.')
-                def read():
-                    ok, image = source.read()
-                    return image if ok else None
                 metadata['source_fps'] = fps
-            else:
-                from picamera2 import Picamera2
-                source = Picamera2()
-                stack.callback(source.close)
-                source.configure(source.create_preview_configuration(main={'size': (a.width, a.height), 'format': 'RGB888'}))
-                source.start()
-                stack.callback(source.stop)
-                def read():
-                    return source.capture_array('main')
             first = read()
             if first is None:
                 raise RuntimeError('No input frame.')
             height, width = first.shape[:2]
             metadata['actual_frame_size'] = [width, height]
+            print(f'입력 변환: 반시계 {a.rotate}도 / 좌우반전 {a.mirror} / 결과 {width}x{height}')
+            if a.fx is not None or a.hfov is not None:
+                print('보정값은 회전·반전 후 영상 기준이어야 합니다. 모터 방향도 확인하세요.')
             print('모델 실행 확인 / 워밍업...', flush=True)
             for _ in range(a.warmup):
                 detector.detect(first)
