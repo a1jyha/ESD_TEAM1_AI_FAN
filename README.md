@@ -12,6 +12,7 @@ Raspberry Pi-based AI Personal Fan Tracking System
 ### 1. 환경 활성화 및 작업 디렉터리 이동
 가상환경(`esd_env`)을 활성화한 뒤 프로젝트 폴더로 이동합니다. 필수는 아니지만, 의존성 충돌 방지와 재현성 확보를 위해 가상환경에서 실행하였습니다.
 ### 2. 실행 중인 pigpiod 프로세스 확인
-``` pgrep -a pigpiod ```
+```bash
+pgrep -a pigpiod ```
 ### 3. pigpio 데몬 시작
 ``` sudo pigpiod -l ```
