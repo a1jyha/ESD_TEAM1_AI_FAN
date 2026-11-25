@@ -14,6 +14,8 @@ Raspberry Pi-based AI Personal Fan Tracking System
 ### 2. 실행 중인 pigpiod 프로세스 확인
 ```bash
 pgrep -a pigpiod
+```
 ### 3. pigpio 데몬 시작
 ```bash
 sudo pigpiod -l
+```
