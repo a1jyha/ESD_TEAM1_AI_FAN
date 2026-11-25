@@ -6,3 +6,12 @@ Raspberry Pi-based AI Personal Fan Tracking System
 
 # 전체 구조
 <img width="1626" height="967" alt="image" src="https://github.com/user-attachments/assets/5a0bc812-772f-42d9-913d-f63b481f4154" />
+
+# 서보모터 제어 및 실행 방법
+서보모터 정지 상태에서 발생하는 미세 떨림과 지터를 줄이기 위해 소프트웨어 PWM 대신 하드웨어 타이밍 기반의 `pigpiod`을 사용합니다.
+### 1. 환경 활성화 및 작업 디렉터리 이동
+가상환경(`esd_env`)을 활성화한 뒤 프로젝트 폴더로 이동합니다. 필수는 아니지만, 의존성 충돌 방지와 재현성 확보를 위해 가상환경에서 실행하였습니다.
+### 2. 실행 중인 pigpiod 프로세스 확인
+pgrep -a pigpiod
+### 3. pigpio 데몬 시작
+sudo pigpiod -l
